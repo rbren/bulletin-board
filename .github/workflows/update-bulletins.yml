@@ -78,8 +78,8 @@ jobs:
           # Pull latest changes to avoid conflicts from parallel jobs
           git pull --rebase
           
-          # Check if there are changes to commit
-          if git diff --quiet; then
+          # Check if there are changes to commit (including new untracked files)
+          if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit for ${{ matrix.bulletin }}"
           else
             git add -A
