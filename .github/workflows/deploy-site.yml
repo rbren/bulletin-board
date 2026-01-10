@@ -5,6 +5,13 @@ on:
     branches:
       - main
   workflow_dispatch:
+  # Trigger when update-bulletins workflow completes (since GITHUB_TOKEN commits don't trigger push events)
+  workflow_run:
+    workflows: ["Update Bulletins"]
+    types:
+      - completed
+    branches:
+      - main
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -20,6 +27,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Only run if triggered by push/dispatch OR if the triggering workflow_run succeeded
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
