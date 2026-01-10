@@ -13,49 +13,76 @@ on:
         default: ''
 
 jobs:
-  update-bulletins:
+  update-bulletin:
     runs-on: ubuntu-latest
+    
+    strategy:
+      fail-fast: false
+      matrix:
+        bulletin:
+          - camberville
+          - concerts
+          - industry-news
+          - openhands
+          - us-politics
     
     permissions:
       contents: write
     
     steps:
+      - name: Check if should run
+        id: should-run
+        run: |
+          if [[ -z "${{ github.event.inputs.folder }}" ]] || [[ "${{ github.event.inputs.folder }}" == "${{ matrix.bulletin }}" ]]; then
+            echo "run=true" >> $GITHUB_OUTPUT
+          else
+            echo "run=false" >> $GITHUB_OUTPUT
+          fi
+      
       - name: Checkout repository
+        if: steps.should-run.outputs.run == 'true'
         uses: actions/checkout@v4
       
       - name: Set up Python
+        if: steps.should-run.outputs.run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       
       - name: Install uv
+        if: steps.should-run.outputs.run == 'true'
         uses: astral-sh/setup-uv@v4
         with:
           version: "latest"
       
       - name: Install dependencies
+        if: steps.should-run.outputs.run == 'true'
         run: |
           pip install openhands-sdk openhands-tools
       
-      - name: Update concerts bulletin
-        if: ${{ github.event.inputs.folder == '' || github.event.inputs.folder == 'concerts' }}
+      - name: Update ${{ matrix.bulletin }} bulletin
+        if: steps.should-run.outputs.run == 'true'
         env:
           LLM_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
         run: |
-          python generate_bulletin.py bulletins/concerts/
+          python generate_bulletin.py bulletins/${{ matrix.bulletin }}/
       
       - name: Commit and push changes
+        if: steps.should-run.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
+          # Pull latest changes to avoid conflicts from parallel jobs
+          git pull --rebase
+          
           # Check if there are changes to commit
           if git diff --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit for ${{ matrix.bulletin }}"
           else
             git add -A
-            git commit -m "Update bulletins [automated]
+            git commit -m "Update ${{ matrix.bulletin }} bulletin [automated]
             
             Updated by GitHub Actions workflow
             Run date: $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
