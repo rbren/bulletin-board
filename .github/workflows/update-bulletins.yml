@@ -25,6 +25,7 @@ jobs:
           - industry-news
           - openhands
           - us-politics
+          - calendar
     
     permissions:
       contents: write
