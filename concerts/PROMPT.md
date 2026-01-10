@@ -8,3 +8,4 @@ I'm specifically interested in:
 Favorite venues include the Lilypad, Roadrunner, and the Sinclair
 
 I live right by the Lilypad, so be sure to highlight the most interesting 1-2 shows that aren't part of their standard weekly lineup.
+For the Lilypad, events are listed directly on https://www.lilypadinman.com/, don't use the calendar
