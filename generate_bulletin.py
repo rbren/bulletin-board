@@ -3,14 +3,20 @@
 Bulletin Board Generator using OpenHands Software Agent SDK.
 
 This script reads a PROMPT.md file from a specified folder and generates/updates
-a BULLETIN.md file in the same folder using an AI agent with internet browsing
-and file read/write capabilities.
+a BULLETIN.md file in the same folder using an AI agent with web search (Tavily),
+URL fetching (mcp-server-fetch), and file read/write capabilities.
 
 Usage:
     LLM_API_KEY=<your-api-key> python generate_bulletin.py <folder_path>
     
 Example:
-    LLM_API_KEY=$ANTHROPIC_API_KEY python generate_bulletin.py concerts/
+    LLM_API_KEY=$CLAUDE_API_KEY TAVILY_API_KEY=$TAVILY_API_KEY python generate_bulletin.py concerts/
+
+Environment Variables:
+    LLM_API_KEY      - API key for the LLM (required)
+    TAVILY_API_KEY   - API key for Tavily web search (optional but recommended)
+    LLM_MODEL        - Model to use (default: anthropic/claude-sonnet-4-5-20250929)
+    LLM_BASE_URL     - Custom base URL for the LLM API (optional)
 """
 
 import argparse
@@ -23,7 +29,6 @@ from pydantic import SecretStr
 
 from openhands.sdk import LLM, Agent, Conversation, Tool
 from openhands.sdk.logger import get_logger
-from openhands.tools.browser_use import BrowserToolSet
 from openhands.tools.file_editor import FileEditorTool
 from openhands.tools.terminal import TerminalTool
 
@@ -32,15 +37,21 @@ logger = get_logger(__name__)
 META_PROMPT = """You are a Bulletin Board Agent. Your job is to run periodically (e.g., daily) 
 to maintain an up-to-date BULLETIN.md file based on a user's interests specified in PROMPT.md.
 
+You have access to powerful web tools:
+- **tavily_search**: Search the web for current information (best for finding events, news, etc.)
+- **tavily_extract**: Extract content from specific URLs
+- **fetch**: Fetch and convert web pages to readable markdown
+
 Your workflow:
 1. Read the PROMPT.md file in the target folder to understand what the user is interested in
 2. If BULLETIN.md already exists, read it to understand what items are currently listed
-3. Browse the internet to find current, relevant information based on the user's interests
-4. Update BULLETIN.md by:
+3. Use tavily_search to find current, relevant information based on the user's interests
+4. Use fetch or tavily_extract to get details from specific venue/event pages
+5. Update BULLETIN.md by:
    - Removing stale/outdated items (e.g., events that have already passed)
    - Adding new items or updates you find
    - Keeping items that are still relevant and upcoming
-5. Format BULLETIN.md cleanly with:
+6. Format BULLETIN.md cleanly with:
    - A header indicating this is an auto-generated bulletin
    - The date it was last updated
    - Items organized in a logical way (e.g., by date, category, or relevance)
@@ -53,10 +64,38 @@ Important guidelines:
 - Include links to sources for verification
 - Keep the bulletin concise but informative
 - If you can't find information on a topic, mention that in the bulletin
+- Prefer tavily_search for discovering new information
+- Use fetch for getting full content from known URLs
 
 Start by reading PROMPT.md, then check if BULLETIN.md exists, then search the web for 
 relevant information, and finally write the updated BULLETIN.md file.
 """
+
+
+def build_mcp_config() -> dict:
+    """Build MCP configuration for web search and fetch tools."""
+    mcp_config: dict = {"mcpServers": {}}
+    
+    # Add Tavily MCP server if API key is available
+    tavily_api_key = os.getenv("TAVILY_API_KEY")
+    if tavily_api_key:
+        mcp_config["mcpServers"]["tavily"] = {
+            "command": "uvx",
+            "args": ["tavily-mcp"],
+            "env": {"TAVILY_API_KEY": tavily_api_key},
+        }
+        logger.info("Tavily MCP server enabled")
+    else:
+        logger.warning("TAVILY_API_KEY not set - Tavily search will not be available")
+    
+    # Add fetch MCP server for URL fetching
+    mcp_config["mcpServers"]["fetch"] = {
+        "command": "uvx",
+        "args": ["mcp-server-fetch"],
+    }
+    logger.info("Fetch MCP server enabled")
+    
+    return mcp_config
 
 
 def run_bulletin_agent(folder_path: str) -> None:
@@ -87,11 +126,14 @@ def run_bulletin_agent(folder_path: str) -> None:
         usage_id="bulletin-agent",
     )
     
+    # Core tools for file operations
     tools = [
         Tool(name=TerminalTool.name),
         Tool(name=FileEditorTool.name),
-        Tool(name=BrowserToolSet.name),
     ]
+    
+    # Build MCP configuration for web tools
+    mcp_config = build_mcp_config()
     
     today_date = datetime.now().strftime("%Y-%m-%d")
     system_prompt = META_PROMPT.format(today_date=today_date)
@@ -99,6 +141,7 @@ def run_bulletin_agent(folder_path: str) -> None:
     agent = Agent(
         llm=llm,
         tools=tools,
+        mcp_config=mcp_config,
         system_prompt=system_prompt,
     )
     
@@ -111,8 +154,9 @@ def run_bulletin_agent(folder_path: str) -> None:
 
 1. Read PROMPT.md to understand what information to gather
 2. Check if BULLETIN.md exists and read its current contents
-3. Search the internet for current, relevant information
-4. Write an updated BULLETIN.md with fresh information, removing any stale items
+3. Use tavily_search to find current, relevant information on the web
+4. Use fetch to get detailed content from specific URLs if needed
+5. Write an updated BULLETIN.md with fresh information, removing any stale items
 
 The target folder is: {folder}
 Today's date is: {today_date}
@@ -120,13 +164,14 @@ Today's date is: {today_date}
     
     print(f"Starting bulletin generator for: {folder}")
     print(f"Using model: {model}")
+    print(f"MCP servers: {list(mcp_config['mcpServers'].keys())}")
     print("-" * 50)
     
     conversation.send_message(task_message)
     conversation.run()
     
     print("-" * 50)
-    print(f"Bulletin generation complete!")
+    print("Bulletin generation complete!")
     print(f"Cost: ${llm.metrics.accumulated_cost:.4f}")
     
     bulletin_file = folder / "BULLETIN.md"
