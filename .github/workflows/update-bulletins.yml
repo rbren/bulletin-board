@@ -1,0 +1,63 @@
+name: Update Bulletins
+
+on:
+  # Run daily at 8 AM UTC
+  schedule:
+    - cron: '0 8 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      folder:
+        description: 'Folder to update (leave empty for all)'
+        required: false
+        default: ''
+
+jobs:
+  update-bulletins:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+      
+      - name: Install dependencies
+        run: |
+          pip install openhands-sdk openhands-tools
+      
+      - name: Update concerts bulletin
+        if: ${{ github.event.inputs.folder == '' || github.event.inputs.folder == 'concerts' }}
+        env:
+          LLM_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: |
+          python generate_bulletin.py concerts/
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are changes to commit
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add -A
+            git commit -m "Update bulletins [automated]
+            
+            Updated by GitHub Actions workflow
+            Run date: $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+            git push
+          fi
