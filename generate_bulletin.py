@@ -104,13 +104,11 @@ def run_bulletin_agent(folder_path: str) -> None:
     mcp_config = build_mcp_config()
     
     today_date = datetime.now().strftime("%Y-%m-%d")
-    system_prompt = META_PROMPT.format(today_date=today_date)
     
     agent = Agent(
         llm=llm,
         tools=tools,
         mcp_config=mcp_config,
-        system_prompt=system_prompt,
     )
     
     conversation = Conversation(
@@ -118,16 +116,10 @@ def run_bulletin_agent(folder_path: str) -> None:
         workspace=str(folder),
     )
     
-    task_message = f"""Please update the bulletin board for the folder: {folder}
-
-1. Read PROMPT.md to understand what information to gather
-2. Check if BULLETIN.md exists and read its current contents
-3. Use tavily_search to find current, relevant information on the web
-4. Use fetch to get detailed content from specific URLs if needed
-5. Write an updated BULLETIN.md with fresh information, removing any stale items
+    # Use PROMPT.md as the task, not the system prompt
+    task_message = META_PROMPT.format(today_date=today_date) + f"""
 
 The target folder is: {folder}
-Today's date is: {today_date}
 """
     
     print(f"Starting bulletin generator for: {folder}")
