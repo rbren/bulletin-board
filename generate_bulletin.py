@@ -16,7 +16,7 @@ Environment Variables:
     LLM_API_KEY      - API key for the LLM (required)
     TAVILY_API_KEY   - API key for Tavily web search (optional but recommended)
     GOOGLE_API_KEY   - Google API key for agent access (optional)
-    LLM_MODEL        - Model to use (default: anthropic/claude-sonnet-4-5-20250929)
+    LLM_MODEL        - Model to use (default: anthropic/claude-opus-4-20250514)
     LLM_BASE_URL     - Custom base URL for the LLM API (optional)
 """
 
@@ -86,7 +86,7 @@ def run_bulletin_agent(folder_path: str) -> None:
         print("Error: LLM_API_KEY environment variable is not set.")
         sys.exit(1)
     
-    model = os.getenv("LLM_MODEL", "anthropic/claude-sonnet-4-5-20250929")
+    model = os.getenv("LLM_MODEL", "anthropic/claude-opus-4-20250514")
     base_url = os.getenv("LLM_BASE_URL")
     
     llm = LLM(
