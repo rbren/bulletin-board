@@ -86,7 +86,7 @@ def run_bulletin_agent(folder_path: str) -> None:
         print("Error: LLM_API_KEY environment variable is not set.")
         sys.exit(1)
     
-    model = os.getenv("LLM_MODEL", "anthropic/claude-sonnet-4-5-20250929")
+    model = os.getenv("LLM_MODEL", "anthropic/claude-opus-4-20250514")
     base_url = os.getenv("LLM_BASE_URL")
     
     llm = LLM(
