@@ -1,9 +1,9 @@
 ---
-cost: 0.0000
+cost: 0.5221
 title: calendar
-updated_at: 2026-01-11T00:00:00Z
+updated_at: 2026-01-11T12:00:00Z
 ---
 
-| ID | Status | Issue | Next Steps |
-|---|---|---|---|
-| 20260111-config | ⚠️ Configuration Required | Google Calendar API credentials not found. The `GOOGLE_API_KEY` environment variable is not set. | Set up Google Calendar API: (1) Create a Google Cloud project at [console.cloud.google.com](https://console.cloud.google.com), (2) Enable the Google Calendar API, (3) Create credentials (API key or OAuth 2.0), (4) Add `GOOGLE_API_KEY` as a GitHub repository secret, (5) Update `.github/workflows/update-bulletins.yml` to pass the key to the calendar bulletin generator. |
+| ID | Date | Status | Issue | Next Steps |
+|---|---|---|---|---|
+| 20260111-auth | 2026-01-11 | ⚠️ Authentication Issue | API key authentication cannot access private Google Calendar. Current `GOOGLE_API_KEY` is a simple API key (39 chars) which can only access public calendars. | To access your private calendar events, you need one of: (1) **Service Account** (recommended): Create a service account in [Google Cloud Console](https://console.cloud.google.com), download the JSON key file, and set `GOOGLE_API_KEY` to the entire JSON content, or (2) **OAuth2**: Implement OAuth2 flow for user authentication (more complex for automated scripts). See [Google Calendar API Authentication](https://developers.google.com/calendar/api/guides/auth) for details. |
