@@ -1,0 +1,17 @@
+---
+cost: 0
+title: us-politics
+updated_at: 2026-01-11T00:00:00Z
+---
+
+| ID | Story | Sources |
+|---|---|---|
+| 20260110-ice-minneapolis | Fatal shooting by ICE agents in Minneapolis sparks political controversy, with local officials demanding ICE leave the city while federal officials defend the operation | [CNN](https://www.cnn.com/politics), [NPR](https://www.npr.org/sections/code-switch/2026/01/09/g-s1-105267/how-the-ice-shooting-in-minneapolis-and-calls-to-deport-nicki-minaj-are-related), [Fox News](https://www.foxnews.com/politics/fox-news-politics-newsletter-jeffries-slams-noem-over-minneapolis-shooting-response), [NBC News](https://www.nbcnews.com/politics) |
+| 20260110-greenland | Trump says U.S. will take action on Greenland "whether they like it or not," escalating tensions with Denmark over the territory | [CNN](https://www.cnn.com/2026/01/10/politics/us-will-take-greenland-the-hard-way-if-it-cant-do-it-the-easy-way-trump-says), [NPR](https://www.npr.org/sections/politics/), [NBC News](https://www.nbcnews.com/politics/donald-trump/us-action-greenland-whether-like-it-or-not-denmark-rcna253234) |
+| 20260110-syria-isis | U.S. conducts retaliatory airstrikes in Syria against ISIS targets as part of ongoing counter-terrorism operations | [CNN](https://www.cnn.com/2026/01/10/politics/syria-strike-retaliatory-isis), [NPR](https://www.npr.org/2026/01/10/nx-s1-5673346/us-syria-isis-retaliatory-strikes) |
+| 20260110-venezuela | Trump administration engages with Venezuelan interim government, releases political prisoners, and meets with oil executives about infrastructure while canceling planned military strikes | [CNN](https://www.cnn.com/politics), [NPR](https://www.npr.org/2026/01/09/nx-s1-5672325/venezuela-releases-imprisoned-opposition-figures-trump-says-us-requested), [Fox News](https://www.foxnews.com/video/6387499537112), [NBC News](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-venezuela-mexico-iran-ukraine-greenland-congress-live-updates-rcna252277) |
+| 20260110-iran-protests | Mass protests in Iran face violent government crackdown as Trump warns regime "we'll start shooting" if more protesters are killed | [NPR](https://www.npr.org/2026/01/09/nx-s1-5672276/protests-iran-internet-shutdown-casualties-trump-supreme-leader), [Fox News](https://www.foxnews.com/video/6387501839112), [NBC News](https://www.nbcnews.com/world/iran/violent-crackdown-iran-protests-trump-warns-regime-start-shooting-rcna253259) |
+| 20260110-election-order | Federal judge blocks Trump administration order affecting vote-by-mail operations in Oregon and Washington states | [CNN](https://www.cnn.com/2026/01/10/politics/judge-blocks-trump-election-vote-mail-oregon-washington) |
+| 20260110-credit-card | Trump proposes 10% cap on credit card interest rates, drawing criticism from banking industry | [NBC News](https://www.nbcnews.com/politics/white-house/trump-credit-card-interest-rates-cap-economy-rcna253327) |
+| 20260110-funding-freeze | Trump administration freezes federal funding for child care and social assistance programs in multiple states, prompting legal challenges | [CNN](https://www.cnn.com/politics), [NPR](https://www.npr.org/2026/01/10/nx-s1-5672684/benefits-fraud-unlawful-accusation-new-york-california-colorado-social-services) |
+| 20260109-x-grok-deepfakes | Senators urge Apple and Google to remove X and Grok from app stores over concerns about sexual deepfake generation | [NBC News](https://www.nbcnews.com/tech/internet/senators-urged-apple-google-remove-x-grok-app-stores-rcna253048) |
