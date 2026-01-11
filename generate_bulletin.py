@@ -15,6 +15,7 @@ Example:
 Environment Variables:
     LLM_API_KEY      - API key for the LLM (required)
     TAVILY_API_KEY   - API key for Tavily web search (optional but recommended)
+    GOOGLE_API_KEY   - Google API key for agent access (optional)
     LLM_MODEL        - Model to use (default: anthropic/claude-sonnet-4-5-20250929)
     LLM_BASE_URL     - Custom base URL for the LLM API (optional)
 """
@@ -116,6 +117,16 @@ def run_bulletin_agent(folder_path: str) -> None:
         agent=agent,
         workspace=str(folder),
     )
+    
+    # Add secrets that the agent can access
+    secrets = {}
+    google_api_key = os.getenv("GOOGLE_API_KEY")
+    if google_api_key:
+        secrets["GOOGLE_API_KEY"] = google_api_key
+        logger.info("GOOGLE_API_KEY secret registered")
+    
+    if secrets:
+        conversation.update_secrets(secrets)
     
     # Use PROMPT.md as the task, not the system prompt
     task_message = META_PROMPT.format(today_date=today_date) + f"""
