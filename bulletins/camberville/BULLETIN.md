@@ -1,12 +1,13 @@
 ---
-cost: 0
+cost: 1.6020
 title: camberville
-updated_at: 2026-01-11T00:00:00Z
+updated_at: 2026-01-11T12:00:00Z
 ---
 
 | ID | Date | Type | Title | Description | Link |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | cambridge-20260114-mlk | Jan 14, 2026 | Event | Cambridge MLK Jr. Day Lecture Series | 51st anniversary celebration featuring Dr. Brandon M. Terry at Main Public Library, 6-7:30 PM. Virtual option available. | [Details](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/news/2026/01/cambridgecommemoratesmlkjrdaywithvariousevents) |
+| cambridge-20260115-bagel | Jan 15, 2026 | Event | National Bagel Day Deals | Free bagels and special offers at Massachusetts bagel shops for National Bagel Day. Check local participating stores. | [Details](https://patch.com/massachusetts/worcester/how-score-free-bagel-national-bagel-day-ma-cheap-eats) |
 | somerville-20260117-mlk | Jan 17, 2026 | Event | Somerville MLK Day Celebration | Free all-ages event at Somerville High School, 11 AM-1:30 PM. Keynote by Dr. James McCarty, youth performances, food and activities. | [Details](https://www.somervillema.gov/news/somerville-celebrate-martin-luther-king-jr-day-community-event-youth-essay-contest) |
 | cambridge-20260119-mlk | Jan 19, 2026 | Event | Cambridge MLK Day Commemoration | Annual commemoration at St. Paul AME Church, 11 AM-2 PM. Theme: "Community Begins With Us." Features Millennium Gospel Choir. | [Details](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/news/2026/01/cambridgecommemoratesmlkjrdaywithvariousevents) |
 | cambridge-20260119-service | Jan 19, 2026 | Event | Cambridge MLK Day of Service | 16th annual event, 2-5 PM. Welcome at Central Square Church, hands-on projects at City Hall and Senior Center. | [Details](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/news/2026/01/cambridgecommemoratesmlkjrdaywithvariousevents) |
@@ -14,8 +15,8 @@ updated_at: 2026-01-11T00:00:00Z
 | somerville-20260109-layoffs | Jan 9, 2026 | News | Tessera Therapeutics Layoffs | Somerville-based gene research company to lay off 90 employees (out of total workforce) effective March 8. Company shifting focus to clinical trials. | [Details](https://patch.com/massachusetts/somerville/somerville-based-gene-research-company-implements-large-scale-layoffs) |
 | cambridge-20260109-academy | Jan 9, 2026 | News | Police Academy 8th Class Begins | 42 student officers began training at Cambridge-Northeastern Police Academy. 19 will join Cambridge PD upon graduation in 6 months. | [Details](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/departments/cambridgepolice/news/2026/01/8thclassofcambridgenortheasternpoliceacademybegins) |
 | cambridge-20260108-stabbing | Jan 8, 2026 | News | Fatal Stabbing Arrest | Victor Rivas, 51, arrested for fatal stabbing on Norfolk Street Jan 7. Police say isolated incident between acquaintances, no public danger. | [Details](https://patch.com/massachusetts/cambridge/fatal-cambridge-stabbing-results-quick-arrest) |
+| cambridge-20260107-snow | Jan 7, 2026 | News | Snow Removal Ordinance Reminder | City reminds property owners to clear sidewalks within 12 hours after snowfall. Use calcium chloride, avoid rock salt. $50/day fine for non-compliance. | [Details](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/departments/publicworks/news/2026/01/snowandiceremovaltipsafterastorm) |
+| somerville-20260107-housing | Jan 7, 2026 | News | Fair Housing Commission Seeks Member | Somerville Fair Housing Commission actively recruiting new members. Commission works to ensure equal housing access free from discrimination. | [Details](https://www.somervillema.gov/news/join-somerville-fair-housing-commission) |
 | somerville-20260106-soccer | Jan 6, 2026 | News | New Soccer Team Launches | Somerville United FC, a nonprofit semi-pro team, debuts in spring 2026 at Dilboy Stadium. Tryouts begin in February. Women's team planned for later in year. | [Details](https://patch.com/massachusetts/somerville/nonprofit-semi-pro-soccer-team-coming-soon-somerville) |
 | somerville-20260106-taxes | Jan 6, 2026 | News | Excise Tax Bills Arriving Early | 2026 motor vehicle excise tax bills issuing Jan 26 (one month early this year), due Feb 25. Pay online, in-person, or by mail. | [Details](https://www.somervillema.gov/news/somerville-2026-excise-tax-bills-arriving-january) |
 | somerville-20260105-mayor | Jan 5, 2026 | Politics | Mayor Jake Wilson Inaugurated | New Somerville mayor sworn in with "government you can measure" agenda. Focus on transparency, measurable results, and "urban mechanic" approach. | [Details](https://www.somervillema.gov/news/mayor-jake-wilsons-2026-inaugural-address) |
-| somerville-20260107-housing | Jan 7, 2026 | News | Fair Housing Commission Seeks Member | Somerville Fair Housing Commission actively recruiting new members. Commission works to ensure equal housing access free from discrimination. | [Details](https://www.somervillema.gov/news/join-somerville-fair-housing-commission) |
-| somerville-20251230-mattress | Dec 30, 2025 | News | Mattress Recycling Fee Program | Starting Feb 1, 2026: $55 disposal fee per mattress/box spring for eligible households. Program offsets city's $300K annual recycling costs. | [Details](https://www.somervillema.gov/news/somerville-introduces-mattress-recycling-fee-program) |
