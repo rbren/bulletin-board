@@ -24,6 +24,8 @@ Important guidelines:
 - If you can't find information on a topic, mention that in the bulletin
 - Prefer tavily_search for discovering new information
 - Use fetch for getting full content from known URLs
+- Avoid duplicate rows--pick a canonical source, or list multiple sources in the same row
+- Do not include anything that's more than 1 month old, or more than 1 month away
 
 Start by reading PROMPT.md, then check if BULLETIN.md exists, then search the web for 
 relevant information, and finally write the updated BULLETIN.md file.
