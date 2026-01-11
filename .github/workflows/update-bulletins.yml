@@ -76,13 +76,21 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Pull latest changes to avoid conflicts from parallel jobs
-          git pull --rebase
-          
           # Check if there are changes to commit (including new untracked files)
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit for ${{ matrix.bulletin }}"
           else
+            # Stage and stash changes before pulling to avoid conflicts
+            git add -A
+            git stash
+            
+            # Pull latest changes to avoid conflicts from parallel jobs
+            git pull --rebase
+            
+            # Restore stashed changes
+            git stash pop
+            
+            # Stage all changes again and commit
             git add -A
             git commit -m "Update ${{ matrix.bulletin }} bulletin [automated]
             
