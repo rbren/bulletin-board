@@ -259,7 +259,7 @@ def convert_table_to_html(lines: list[str]) -> str:
     # Skip separator line (lines[1])
     
     # Parse body rows
-    rows = [parse_row(line) for line in lines[2:] if not re.match(r"^[\s-:|]+$", line)]
+    rows = [parse_row(line) for line in lines[2:] if not re.match(r"^[\s\-:|]+$", line)]
     
     # Build HTML table
     html = ['<div class="table-wrapper">', '<table>']
