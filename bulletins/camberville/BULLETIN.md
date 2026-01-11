@@ -1,7 +1,7 @@
 ---
-cost: 1.6020
+cost: 1.2196
 title: camberville
-updated_at: 2026-01-11T12:00:00Z
+updated_at: 2026-01-11T14:30:00Z
 ---
 
 | ID | Date | Type | Title | Description | Link |
@@ -17,6 +17,3 @@ updated_at: 2026-01-11T12:00:00Z
 | cambridge-20260108-stabbing | Jan 8, 2026 | News | Fatal Stabbing Arrest | Victor Rivas, 51, arrested for fatal stabbing on Norfolk Street Jan 7. Police say isolated incident between acquaintances, no public danger. | [Details](https://patch.com/massachusetts/cambridge/fatal-cambridge-stabbing-results-quick-arrest) |
 | cambridge-20260107-snow | Jan 7, 2026 | News | Snow Removal Ordinance Reminder | City reminds property owners to clear sidewalks within 12 hours after snowfall. Use calcium chloride, avoid rock salt. $50/day fine for non-compliance. | [Details](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/departments/publicworks/news/2026/01/snowandiceremovaltipsafterastorm) |
 | somerville-20260107-housing | Jan 7, 2026 | News | Fair Housing Commission Seeks Member | Somerville Fair Housing Commission actively recruiting new members. Commission works to ensure equal housing access free from discrimination. | [Details](https://www.somervillema.gov/news/join-somerville-fair-housing-commission) |
-| somerville-20260106-soccer | Jan 6, 2026 | News | New Soccer Team Launches | Somerville United FC, a nonprofit semi-pro team, debuts in spring 2026 at Dilboy Stadium. Tryouts begin in February. Women's team planned for later in year. | [Details](https://patch.com/massachusetts/somerville/nonprofit-semi-pro-soccer-team-coming-soon-somerville) |
-| somerville-20260106-taxes | Jan 6, 2026 | News | Excise Tax Bills Arriving Early | 2026 motor vehicle excise tax bills issuing Jan 26 (one month early this year), due Feb 25. Pay online, in-person, or by mail. | [Details](https://www.somervillema.gov/news/somerville-2026-excise-tax-bills-arriving-january) |
-| somerville-20260105-mayor | Jan 5, 2026 | Politics | Mayor Jake Wilson Inaugurated | New Somerville mayor sworn in with "government you can measure" agenda. Focus on transparency, measurable results, and "urban mechanic" approach. | [Details](https://www.somervillema.gov/news/mayor-jake-wilsons-2026-inaugural-address) |
