@@ -21,6 +21,7 @@ Environment Variables:
 
 import argparse
 import os
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -132,10 +133,22 @@ The target folder is: {folder}
     
     print("-" * 50)
     print("Bulletin generation complete!")
-    print(f"Cost: ${llm.metrics.accumulated_cost:.4f}")
+    
+    actual_cost = llm.metrics.accumulated_cost
+    print(f"Cost: ${actual_cost:.4f}")
     
     bulletin_file = folder / "BULLETIN.md"
     if bulletin_file.exists():
+        # Update the cost in frontmatter with the actual cost
+        content = bulletin_file.read_text()
+        # Match cost field in frontmatter (handles various formats like 0, 0.0, $0.00, etc.)
+        updated_content = re.sub(
+            r'^(---\n(?:.*\n)*?cost:\s*)\$?[\d.]+',
+            rf'\g<1>{actual_cost:.4f}',
+            content,
+            flags=re.MULTILINE
+        )
+        bulletin_file.write_text(updated_content)
         print(f"BULLETIN.md has been updated at: {bulletin_file}")
     else:
         print("Warning: BULLETIN.md was not created.")
