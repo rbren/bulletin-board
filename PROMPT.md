@@ -33,8 +33,9 @@ BULLETIN.md format:
 - You can decide which columns are relevant
 - The first column MUST be an ID column, which should never change once set, even if the contents of that row are updated
   - This should be a unique identifier, and should be unlikely to be repeated by other items in the future. Consider including a date like 20250131
-- Order the rows by recency--most recent things at the top
-  - Except for upcoming events, in which case the soonest events should be at the top
+- Ordering should be thought through
+  - If it's news, put the most recent news items at the top
+  - If it's events, put the soonest events at the top
 - At the top of BULLETIN.md, put frontmatter containing
   - `cost` for the cost of this run
   - `title` with the folder name
