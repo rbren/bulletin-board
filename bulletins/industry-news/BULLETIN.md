@@ -1,7 +1,7 @@
 ---
-cost: 0.8319
+cost: 1.0964
 title: industry-news
-updated_at: 2026-01-11T12:00:00Z
+updated_at: 2026-01-12T00:00:00Z
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
