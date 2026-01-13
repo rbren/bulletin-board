@@ -539,8 +539,23 @@ header p {
     transition: color 0.2s ease;
 }
 
+/* Make the entire card clickable by stretching the link */
+.bulletin-card h2 a::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
 .bulletin-card h2 a:hover {
     color: var(--accent-color);
+}
+
+.bulletin-card {
+    cursor: pointer;
 }
 
 .bulletin-card .meta {
@@ -1026,6 +1041,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Set up IntersectionObserver to track when items are viewed
+    // Note: We mark items as viewed in localStorage but keep the visual indicator
+    // until the user navigates away from the page
     const observer = new IntersectionObserver(function(entries) {
         entries.forEach(function(entry) {
             if (entry.isIntersecting) {
@@ -1033,7 +1050,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const id = card.getAttribute('data-id');
                 if (id) {
                     markAsViewed(id);
-                    card.classList.remove('unread');
+                    // Don't remove 'unread' class - keep visual indicator until page navigation
                 }
             }
         });
