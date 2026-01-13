@@ -238,6 +238,33 @@ class TestUnreadJavaScript:
         assert "IntersectionObserver" in js
         assert "markAsViewed" in js
         assert "threshold" in js
+    
+    def test_bulletin_page_js_keeps_unread_indicator_until_navigation(self):
+        """Test that unread indicator stays visible until page navigation.
+        
+        The JS should mark items as viewed in localStorage but NOT remove
+        the 'unread' class immediately - it should stay until the user
+        navigates away from the page.
+        """
+        js = get_bulletin_page_js()
+        # Should NOT contain code that removes 'unread' class in the observer
+        assert "classList.remove('unread')" not in js
+        # Should still mark as viewed in localStorage
+        assert "markAsViewed(id)" in js
+
+
+class TestClickableCards:
+    """Tests for clickable card functionality."""
+    
+    def test_bulletin_card_has_stretched_link_css(self):
+        """Test that bulletin cards have CSS for stretched link (entire card clickable)."""
+        from generate_site import get_css
+        css = get_css()
+        # Check for the stretched link pattern using ::after pseudo-element
+        assert '.bulletin-card h2 a::after' in css
+        assert 'position: absolute' in css
+        # Check that the card has cursor pointer
+        assert 'cursor: pointer' in css
 
 
 class TestIntegration:
