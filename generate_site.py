@@ -6,6 +6,7 @@ This script finds all BULLETIN.md files in the bulletins directory,
 converts them to nicely styled HTML pages, and generates an index page.
 """
 
+import json
 import os
 import re
 import shutil
@@ -24,6 +25,7 @@ class Bulletin:
     content: str
     frontmatter: dict = field(default_factory=dict)
     last_updated: str | None = None
+    item_ids: list = field(default_factory=list)
 
 
 def parse_frontmatter(content: str) -> tuple[dict, str]:
@@ -42,6 +44,57 @@ def parse_frontmatter(content: str) -> tuple[dict, str]:
     
     remaining_content = parts[2].strip()
     return frontmatter, remaining_content
+
+
+def extract_item_ids(content: str) -> list[str]:
+    """Extract item IDs from markdown tables in the content."""
+    item_ids = []
+    lines = content.split("\n")
+    i = 0
+    
+    while i < len(lines):
+        line = lines[i]
+        
+        # Check if this line looks like a table header (has |)
+        if "|" in line and i + 1 < len(lines):
+            # Check if next line is a separator (contains |---|)
+            next_line = lines[i + 1]
+            if re.match(r"^\|?[\s\-:|]+\|[\s\-:|]+\|?$", next_line):
+                # This is a table - parse headers to find ID column
+                def parse_row(row_line: str) -> list[str]:
+                    row_line = row_line.strip()
+                    if row_line.startswith("|"):
+                        row_line = row_line[1:]
+                    if row_line.endswith("|"):
+                        row_line = row_line[:-1]
+                    return [cell.strip() for cell in row_line.split("|")]
+                
+                headers = parse_row(line)
+                id_col_idx = None
+                for idx, h in enumerate(headers):
+                    if h.lower() == "id":
+                        id_col_idx = idx
+                        break
+                
+                # Skip header and separator
+                j = i + 2
+                
+                # Parse data rows
+                while j < len(lines) and "|" in lines[j]:
+                    if not re.match(r"^[\s\-:|]+$", lines[j]):
+                        row = parse_row(lines[j])
+                        if id_col_idx is not None and id_col_idx < len(row):
+                            item_id = row[id_col_idx].strip()
+                            if item_id:
+                                item_ids.append(item_id)
+                    j += 1
+                
+                i = j
+                continue
+        
+        i += 1
+    
+    return item_ids
 
 
 def find_bulletins(bulletins_dir: Path) -> list[Bulletin]:
@@ -70,13 +123,17 @@ def find_bulletins(bulletins_dir: Path) -> list[Bulletin]:
             else:
                 last_updated = str(updated)[:10]
         
+        # Extract item IDs from tables
+        item_ids = extract_item_ids(content)
+        
         bulletins.append(Bulletin(
             name=folder_name,
             title=title,
             path=bulletin_file,
             content=content,
             frontmatter=frontmatter,
-            last_updated=last_updated
+            last_updated=last_updated,
+            item_ids=item_ids
         ))
     
     return sorted(bulletins, key=lambda b: b.title)
@@ -269,7 +326,7 @@ def process_tables(html: str) -> str:
 
 
 def convert_table_to_html(lines: list[str]) -> str:
-    """Convert markdown table lines to HTML cards (hiding ID column)."""
+    """Convert markdown table lines to HTML cards (hiding ID column but using it as data-id)."""
     if len(lines) < 2:
         return "\n".join(lines)
     
@@ -284,22 +341,29 @@ def convert_table_to_html(lines: list[str]) -> str:
     headers = parse_row(lines[0])
     rows = [parse_row(line) for line in lines[2:] if not re.match(r"^[\s\-:|]+$", line)]
     
-    # Find ID column index to exclude it
+    # Find ID column index to use for data-id attribute
     id_col_idx = None
     for i, h in enumerate(headers):
         if h.lower() == "id":
             id_col_idx = i
             break
     
-    # Filter out ID column
+    # Extract IDs and filter out ID column from display
+    row_ids = []
     filtered_headers = [h for i, h in enumerate(headers) if i != id_col_idx]
-    filtered_rows = [[cell for i, cell in enumerate(row) if i != id_col_idx] for row in rows]
+    filtered_rows = []
+    for row in rows:
+        row_id = row[id_col_idx] if id_col_idx is not None and id_col_idx < len(row) else None
+        row_ids.append(row_id)
+        filtered_rows.append([cell for i, cell in enumerate(row) if i != id_col_idx])
     
     # Build card-based HTML
     html = ['<div class="cards-container">']
     
-    for row in filtered_rows:
-        html.append('<div class="data-card">')
+    for idx, row in enumerate(filtered_rows):
+        row_id = row_ids[idx]
+        data_id_attr = f' data-id="{row_id}"' if row_id else ''
+        html.append(f'<div class="data-card"{data_id_attr}>')
         for i, cell in enumerate(row):
             if i < len(filtered_headers):
                 header = filtered_headers[i]
@@ -807,6 +871,180 @@ footer::before {
         min-width: 70px;
     }
 }
+
+/* Unread badge styles */
+.unread-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--accent-gradient);
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 600;
+    min-width: 20px;
+    height: 20px;
+    padding: 0 6px;
+    border-radius: 10px;
+    margin-left: 8px;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.4);
+}
+
+.bulletin-card h2 {
+    display: flex;
+    align-items: center;
+}
+
+/* Unread item highlight */
+.data-card.unread {
+    border: 2px solid var(--accent-color);
+    box-shadow: 0 0 20px rgba(129, 140, 248, 0.3);
+}
+
+.data-card.unread::before {
+    content: 'NEW';
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: var(--accent-gradient);
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 4px;
+    letter-spacing: 0.05em;
+}
+"""
+
+
+def get_unread_js() -> str:
+    """Return the JavaScript for tracking unread items."""
+    return """
+const STORAGE_KEY = 'bulletin-board-viewed';
+const THREE_MONTHS_MS = 90 * 24 * 60 * 60 * 1000;
+
+function getViewedItems() {
+    try {
+        const data = localStorage.getItem(STORAGE_KEY);
+        return data ? JSON.parse(data) : {};
+    } catch (e) {
+        return {};
+    }
+}
+
+function saveViewedItems(items) {
+    try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(items));
+    } catch (e) {
+        console.warn('Could not save to localStorage:', e);
+    }
+}
+
+function cleanupOldEntries() {
+    const items = getViewedItems();
+    const now = Date.now();
+    let changed = false;
+    
+    for (const id in items) {
+        if (now - items[id] > THREE_MONTHS_MS) {
+            delete items[id];
+            changed = true;
+        }
+    }
+    
+    if (changed) {
+        saveViewedItems(items);
+    }
+    
+    return items;
+}
+
+function markAsViewed(id) {
+    const items = getViewedItems();
+    if (!items[id]) {
+        items[id] = Date.now();
+        saveViewedItems(items);
+    }
+}
+
+function isViewed(id) {
+    const items = getViewedItems();
+    return !!items[id];
+}
+
+function countUnread(itemIds) {
+    const items = getViewedItems();
+    return itemIds.filter(id => !items[id]).length;
+}
+"""
+
+
+def get_index_page_js() -> str:
+    """Return the JavaScript for the index page to show unread badges."""
+    return get_unread_js() + """
+document.addEventListener('DOMContentLoaded', function() {
+    cleanupOldEntries();
+    
+    document.querySelectorAll('.bulletin-card').forEach(function(card) {
+        const itemIdsAttr = card.getAttribute('data-item-ids');
+        if (itemIdsAttr) {
+            try {
+                const itemIds = JSON.parse(itemIdsAttr);
+                const unreadCount = countUnread(itemIds);
+                
+                if (unreadCount > 0) {
+                    const badge = document.createElement('span');
+                    badge.className = 'unread-badge';
+                    badge.textContent = unreadCount;
+                    const h2 = card.querySelector('h2');
+                    if (h2) {
+                        h2.appendChild(badge);
+                    }
+                }
+            } catch (e) {
+                console.warn('Could not parse item IDs:', e);
+            }
+        }
+    });
+});
+"""
+
+
+def get_bulletin_page_js() -> str:
+    """Return the JavaScript for bulletin pages to track viewed items."""
+    return get_unread_js() + """
+document.addEventListener('DOMContentLoaded', function() {
+    cleanupOldEntries();
+    
+    const cards = document.querySelectorAll('.data-card[data-id]');
+    
+    // Mark unread items with the unread class
+    cards.forEach(function(card) {
+        const id = card.getAttribute('data-id');
+        if (id && !isViewed(id)) {
+            card.classList.add('unread');
+        }
+    });
+    
+    // Set up IntersectionObserver to track when items are viewed
+    const observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+                const card = entry.target;
+                const id = card.getAttribute('data-id');
+                if (id) {
+                    markAsViewed(id);
+                    card.classList.remove('unread');
+                }
+            }
+        });
+    }, {
+        threshold: 0.5  // Item must be 50% visible
+    });
+    
+    cards.forEach(function(card) {
+        observer.observe(card);
+    });
+});
 """
 
 
@@ -815,8 +1053,10 @@ def generate_index_page(bulletins: list[Bulletin]) -> str:
     bulletin_cards = []
     for b in bulletins:
         meta = f"Last updated: {b.last_updated}" if b.last_updated else ""
+        # Encode item IDs as JSON for the data attribute
+        item_ids_json = json.dumps(b.item_ids).replace('"', '&quot;')
         bulletin_cards.append(f"""
-        <div class="bulletin-card">
+        <div class="bulletin-card" data-item-ids="{item_ids_json}">
             <h2><a href="{b.name}.html">{b.title}</a></h2>
             <p class="meta">{meta}</p>
         </div>
@@ -847,6 +1087,7 @@ def generate_index_page(bulletins: list[Bulletin]) -> str:
             <p>Generated on {datetime.now().strftime("%B %d, %Y at %H:%M UTC")}</p>
         </footer>
     </div>
+    <script>{get_index_page_js()}</script>
 </body>
 </html>
 """
@@ -915,6 +1156,7 @@ def generate_bulletin_page(bulletin: Bulletin) -> str:
             <p>Generated on {datetime.now().strftime("%B %d, %Y at %H:%M UTC")}</p>
         </footer>
     </div>
+    <script>{get_bulletin_page_js()}</script>
 </body>
 </html>
 """
