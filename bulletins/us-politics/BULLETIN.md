@@ -1,11 +1,17 @@
 ---
-cost: 1.3658
+cost: 1.3950
 title: us-politics
-updated_at: 2026-01-14T00:00:00Z
+updated_at: 2026-01-15T00:00:00Z
 ---
 
 | ID | Date | Story | Sources |
 |---|---|---|---|
+| 20260115-venezuela-contractors | 2026-01-15 | Trump administration plans to use private military contractors to protect oil assets in Venezuela rather than deploying US troops | [CNN](https://www.cnn.com/2026/01/15/politics/trump-private-contractors-venezuela-oil) |
+| 20260115-iran-military | 2026-01-15 | Trump tells advisers any military action in Iran must be swift and decisive, not a prolonged war | [NBC News](https://www.nbcnews.com/politics/white-house/trump-want-military-action-iran-swift-decisive-sources-say-rcna254076) |
+| 20260114-mental-health-funding | 2026-01-14 | Trump administration reverses course on $2 billion mental health and addiction program cuts after bipartisan backlash | [NPR](https://www.npr.org/2026/01/14/nx-s1-5677714/trump-administration-mental-health-addiction-grant-cuts-restored) |
+| 20260114-scotus-candidate-standing | 2026-01-14 | Supreme Court rules 7-2 that political candidates have legal standing to challenge election laws before voting begins | [NPR](https://www.npr.org/2026/01/14/nx-s1-5677318/supreme-court-bost-decision-candidate-standing) |
+| 20260114-california-redistricting | 2026-01-14 | Federal judges allow California to use new Democrat-friendly congressional map for 2026 midterms | [CNN](https://www.cnn.com/2026/01/14/politics/california-redistricting-ruling) |
+| 20260114-senate-venezuela-war-powers | 2026-01-14 | Senate GOP shields Trump from limits to his war powers in Venezuela after VP Vance breaks tie | [CNN](https://www.cnn.com/2026/01/14/politics/trump-venezuela-war-powers-senate) |
 | 20260114-vance-greenland | 2026-01-14 | VP Vance to meet Danish and Greenlandic officials as Trump insists on acquiring Arctic territory, with Denmark warning it could end NATO | [NPR](https://www.npr.org/2026/01/14/g-s1-105936/vance-to-meet-danish-greenland-officials), [NBC News](https://www.nbcnews.com/politics/congress/chris-murphy-end-nato-alliance-us-annexed-greenland-denmark-rcna253440), [CNN](https://www.cnn.com/2026/01/10/politics/us-will-take-greenland-the-hard-way-if-it-cant-do-it-the-easy-way-trump-says) |
 | 20260114-scotus-transgender | 2026-01-14 | Supreme Court Justices Kavanaugh and Roberts signal interest in upcoming transgender sports controversy cases | [CNN](https://www.cnn.com/2026/01/14/politics/supreme-court-roberts-kavanaugh-transgender-sports-analysis) |
 | 20260113-trump-ford | 2026-01-13 | Trump appears to make obscene gesture at Ford plant visit, White House defends as "appropriate" | [CNN](https://www.cnn.com/2026/01/13/politics/ford-plant-trump-middle-finger-flip) |
@@ -30,3 +36,4 @@ updated_at: 2026-01-14T00:00:00Z
 | 20260110-syria-isis | 2026-01-10 | U.S. conducts retaliatory airstrikes in Syria against ISIS targets as part of ongoing counter-terrorism operations | [CNN](https://www.cnn.com/2026/01/10/politics/syria-strike-retaliatory-isis), [NPR](https://www.npr.org/2026/01/10/nx-s1-5673346/us-syria-isis-retaliatory-strikes) |
 | 20260110-election-order | 2026-01-10 | Federal judge blocks Trump administration order affecting vote-by-mail operations in Oregon and Washington states | [CNN](https://www.cnn.com/2026/01/10/politics/judge-blocks-trump-election-vote-mail-oregon-washington) |
 | 20260109-venezuela-oil | 2026-01-09 | Trump administration meets with oil executives about Venezuela infrastructure investment plans | [CNN](https://www.cnn.com/2026/01/09/politics/oil-executives-venezuela-white-house) |
+| 20260108-gaza-ceasefire | 2026-01-08 | US announces next phase of Gaza ceasefire plan as committee is formed to run battered enclave | [CNN](https://www.cnn.com/2026/01/14/politics/us-announces-gaza-ceasefire-next-phase) |
