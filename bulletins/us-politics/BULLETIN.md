@@ -1,11 +1,19 @@
 ---
-cost: 1.3950
+cost: 1.6221
 title: us-politics
-updated_at: 2026-01-15T00:00:00Z
+updated_at: 2026-01-16T00:00:00Z
 ---
 
 | ID | Date | Story | Sources |
 |---|---|---|---|
+| 20260116-machado-nobel | 2026-01-16 | Venezuelan opposition leader María Corina Machado presents Nobel Peace Prize medal to Trump at White House meeting | [NPR](https://www.npr.org/2026/01/16/nx-s1-5679424/venezuela-machado-nobel-prize-trump-meeting) |
+| 20260115-ice-deputy-resigns | 2026-01-15 | ICE Deputy Director Madison Sheahan resigns to run for Congress in Ohio's 9th District | [CNN](https://www.cnn.com/2026/01/15/politics/ice-deputy-director-congress-ohio) |
+| 20260115-trump-healthcare-plan | 2026-01-15 | Trump unveils "Great Healthcare Plan" framework aimed at lowering prescription drug costs and insurance premiums | [CNN](https://www.cnn.com/2026/01/15/politics/trump-health-care-plan) |
+| 20260115-insurrection-act-minneapolis | 2026-01-15 | Trump threatens to invoke Insurrection Act in Minneapolis amid anti-ICE protests following shooting death | [CNN](https://www.cnn.com/2026/01/15/politics/donald-trump-insurrection-act-minneapolis) |
+| 20260115-senate-aca-talks | 2026-01-15 | Senate bipartisan talks on reviving ACA subsidies collapse as open enrollment ends with higher premiums | [NBC News](https://www.nbcnews.com/politics/congress/senate-aca-funding-talks-fizzle-higher-premiums-take-effect-millions-rcna254227) |
+| 20260115-ice-training-error | 2026-01-15 | AI error sent ICE recruits to field offices without proper training, affecting about 200 new hires | [NBC News](https://www.nbcnews.com/politics/immigration/ice-error-meant-recruits-sent-field-offices-proper-training-sources-sa-rcna254054) |
+| 20260115-science-funding | 2026-01-15 | Congress passes bill to fund NASA, NOAA, and NSF, rebuffing Trump's requested budget cuts | [NBC News](https://www.nbcnews.com/politics/politics-news/congress-passes-bill-fund-us-science-agencies-rebuffing-trumps-request-rcna254291) |
+| 20260115-pentagon-iran | 2026-01-15 | Pentagon to send additional forces including carrier strike group to Middle East as Iran tensions rise | [NBC News](https://www.nbcnews.com/world/iran/trump-leaves-us-military-action-unclear-iran-says-wont-execute-protest-rcna254153) |
 | 20260115-venezuela-contractors | 2026-01-15 | Trump administration plans to use private military contractors to protect oil assets in Venezuela rather than deploying US troops | [CNN](https://www.cnn.com/2026/01/15/politics/trump-private-contractors-venezuela-oil) |
 | 20260115-iran-military | 2026-01-15 | Trump tells advisers any military action in Iran must be swift and decisive, not a prolonged war | [NBC News](https://www.nbcnews.com/politics/white-house/trump-want-military-action-iran-swift-decisive-sources-say-rcna254076) |
 | 20260114-mental-health-funding | 2026-01-14 | Trump administration reverses course on $2 billion mental health and addiction program cuts after bipartisan backlash | [NPR](https://www.npr.org/2026/01/14/nx-s1-5677714/trump-administration-mental-health-addiction-grant-cuts-restored) |
@@ -28,7 +36,6 @@ updated_at: 2026-01-15T00:00:00Z
 | 20260112-drug-prices | 2026-01-12 | Trump administration strikes deal with AbbVie to cut costs of certain prescription drugs | [CNN](https://www.cnn.com/2026/01/12/politics/drug-prices-abbvie-trump) |
 | 20260112-kelly-hegseth | 2026-01-12 | Sen. Mark Kelly sues Defense Secretary Pete Hegseth over efforts to reduce his military retirement rank | [NBC News](https://www.nbcnews.com/politics/politics-news/sen-mark-kelly-sues-defense-secretary-pete-hegseth-efforts-reduce-mili-rcna253658), [CNN](https://www.cnn.com/2026/01/12/politics/kelly-lawsuit-unlawful-orders-video-hegseth) |
 | 20260112-aca-signups | 2026-01-12 | ACA sign-ups fall by over 800,000 as higher premiums push people off health insurance plans | [NBC News](https://www.nbcnews.com/health/health-news/obamacare-sign-ups-down-monthly-premiums-rise-rcna253204), [NPR](https://www.npr.org/2026/01/12/nx-s1-5672426/aca-congress-insurance-subsidies-costs) |
-| 20260112-venezuela-machado | 2026-01-12 | Venezuelan opposition leader María Corina Machado to visit White House on Thursday | [CNN](https://www.cnn.com/2026/01/12/politics/machado-trump-white-house-visit) |
 | 20260112-funding-restored | 2026-01-12 | Federal judge orders HHS to restore children's health funding as lawsuit over frozen social assistance programs continues | [NPR](https://www.npr.org/2026/01/12/g-s1-105740/a-judge-orders-hhs-to-restore-childrens-health-funding-as-a-lawsuit-continues), [CNN](https://www.cnn.com/2026/01/08/politics/child-care-funding-freeze-halt-lawsuit) |
 | 20260111-smithsonian-trump | 2026-01-11 | Smithsonian National Portrait Gallery removes references to Trump's impeachments and January 6 insurrection from presidential exhibit | [CNN](https://www.cnn.com/2026/01/11/politics/smithsonian-removes-trump-impeachments-detail-portrait-exhibition), [NBC News](https://www.nbcnews.com/politics/donald-trump/national-portrait-gallery-makes-changes-trump-portion-americas-preside-rcna253354), [NPR](https://www.npr.org/2026/01/11/nx-s1-5673948/trump-portrait-gallery-impeachment) |
 | 20260111-liberal-guns | 2026-01-11 | Growing number of liberals purchasing firearms following Trump's election, citing safety concerns | [NPR](https://www.npr.org/2026/01/11/nx-s1-5611025/why-more-liberals-are-buying-guns) |
@@ -36,4 +43,3 @@ updated_at: 2026-01-15T00:00:00Z
 | 20260110-syria-isis | 2026-01-10 | U.S. conducts retaliatory airstrikes in Syria against ISIS targets as part of ongoing counter-terrorism operations | [CNN](https://www.cnn.com/2026/01/10/politics/syria-strike-retaliatory-isis), [NPR](https://www.npr.org/2026/01/10/nx-s1-5673346/us-syria-isis-retaliatory-strikes) |
 | 20260110-election-order | 2026-01-10 | Federal judge blocks Trump administration order affecting vote-by-mail operations in Oregon and Washington states | [CNN](https://www.cnn.com/2026/01/10/politics/judge-blocks-trump-election-vote-mail-oregon-washington) |
 | 20260109-venezuela-oil | 2026-01-09 | Trump administration meets with oil executives about Venezuela infrastructure investment plans | [CNN](https://www.cnn.com/2026/01/09/politics/oil-executives-venezuela-white-house) |
-| 20260108-gaza-ceasefire | 2026-01-08 | US announces next phase of Gaza ceasefire plan as committee is formed to run battered enclave | [CNN](https://www.cnn.com/2026/01/14/politics/us-announces-gaza-ceasefire-next-phase) |
