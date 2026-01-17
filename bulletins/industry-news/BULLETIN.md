@@ -1,7 +1,7 @@
 ---
-cost: 3.1885
+cost: 1.1039
 title: industry-news
-updated_at: 2026-01-16T08:10:00Z
+updated_at: 2026-01-17T12:00:00Z
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
@@ -13,7 +13,3 @@ updated_at: 2026-01-16T08:10:00Z
 | 20260112-nist-ai-agents | 2026-01-12 | NIST | NIST Requests Information on Securing AI Agent Systems | https://www.nist.gov/news-events/news/2026/01/caisi-issues-request-information-about-securing-ai-agent-systems | CAISI issued a request for information about securing AI agent systems, signaling government focus on establishing standards for AI agent security and reliability. |
 | 20260111-google-ai-commerce | 2026-01-11 | Google | Google Launches Protocol for AI Agents to Shop Across Platforms | https://techcrunch.com/2026/01/11/google-announces-protocol-facilitate-commerce-ai-agents | Google announced a new protocol to facilitate commerce using AI agents, partnering with Shopify and other retailers to enable AI-powered shopping experiences across platforms. |
 | 20260110-anthropic-allianz | 2026-01-10 | Anthropic | Anthropic Signs Enterprise Deal with Allianz for Claude Code | https://techcrunch.com/?p=3081328 | Anthropic announced a partnership with German insurance giant Allianz to bring Claude Code to all employees, build custom AI agents, and implement AI transparency systems for regulatory compliance. |
-| 20260109-deepseek | 2026-01-09 | DeepSeek | DeepSeek Close to Releasing Flagship AI Model with Strong Coding Ability | https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability | Chinese startup DeepSeek is reportedly close to releasing V4, its next-generation model that "makes breakthroughs handling extremely long coding prompts" and outperforms Claude and ChatGPT in coding according to internal benchmarks. |
-| 20260109-a16z-funding | 2026-01-09 | Andreessen Horowitz | a16z Raises $15B+ Across Five New Funds | https://www.axios.com/2026/01/09/andreessen-horowitz-15-billion-for-new-funds | Andreessen Horowitz raised over $15B across five new funds, including $6.75B for its fifth growth fund, capturing 18%+ of all venture capital allocated in the US in 2025. |
-| 20260108-epam-cursor | 2026-01-08 | EPAM/Cursor | EPAM Partners with Cursor to Bring AI Coding to Thousands | https://www.stocktitan.net/news/EPAM/new-epam-and-cursor-deal-brings-ai-coding-tools-to-thousands-of-developers | EPAM announced strategic partnership with Cursor to deploy AI coding tools to thousands of developers, marking major enterprise adoption of Cursor's AI-powered development platform. |
-| 20260107-infosys-cognition | 2026-01-07 | Infosys/Cognition | Infosys Partners with Cognition to Deploy Devin AI Engineer | https://www.eqs-news.com/news/corporate/infosys-and-cognition-announce-strategic-collaboration | Infosys and Cognition announced strategic collaboration to accelerate AI adoption for global enterprises, deploying Devin AI software engineer across Infosys' client base. |
