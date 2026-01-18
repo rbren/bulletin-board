@@ -1,7 +1,7 @@
 ---
-cost: 1.1039
+cost: 0.8320
 title: industry-news
-updated_at: 2026-01-17T12:00:00Z
+updated_at: 2026-01-18T12:00:00Z
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
@@ -12,4 +12,4 @@ updated_at: 2026-01-17T12:00:00Z
 | 20260113-anthropic-cowork | 2026-01-13 | Anthropic | Claude Cowork Research Preview Launches for Non-Developers | https://claude.com/blog/cowork-research-preview | Anthropic released Cowork, a simpler way for non-developers to work with Claude using the same foundations as Claude Code. Available for Claude Max subscribers on macOS, it allows Claude to read, edit, and create files in user-selected folders with more agency. |
 | 20260112-nist-ai-agents | 2026-01-12 | NIST | NIST Requests Information on Securing AI Agent Systems | https://www.nist.gov/news-events/news/2026/01/caisi-issues-request-information-about-securing-ai-agent-systems | CAISI issued a request for information about securing AI agent systems, signaling government focus on establishing standards for AI agent security and reliability. |
 | 20260111-google-ai-commerce | 2026-01-11 | Google | Google Launches Protocol for AI Agents to Shop Across Platforms | https://techcrunch.com/2026/01/11/google-announces-protocol-facilitate-commerce-ai-agents | Google announced a new protocol to facilitate commerce using AI agents, partnering with Shopify and other retailers to enable AI-powered shopping experiences across platforms. |
-| 20260110-anthropic-allianz | 2026-01-10 | Anthropic | Anthropic Signs Enterprise Deal with Allianz for Claude Code | https://techcrunch.com/?p=3081328 | Anthropic announced a partnership with German insurance giant Allianz to bring Claude Code to all employees, build custom AI agents, and implement AI transparency systems for regulatory compliance. |
+| 20260107-infosys-cognition | 2026-01-07 | Cognition | Infosys Partners with Cognition to Expand Devin Deployment | https://www.cognition.ai/blog/infosys-cognition | Infosys partnered with Cognition to deploy Devin across its organization and global client base, marking a major enterprise adoption of AI software engineers for scaling engineering capacity. |
