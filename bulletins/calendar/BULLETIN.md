@@ -1,9 +1,9 @@
 ---
-cost: 0.3278
+cost: 0.4173
 title: calendar
-updated_at: 2026-01-20T00:00:00Z
+updated_at: 2026-01-21T00:00:00Z
 ---
 
 | ID | Date | Status | Issue | Next Steps |
 |---|---|---|---|---|
-| 20260120-auth | 2026-01-20 | ⚠️ Authentication Required | Cannot access private Google Calendar events. The Google Calendar API requires OAuth 2.0 or Service Account authentication, not just an API key. API keys are only suitable for accessing public calendars. | To view your private calendar meetings, you need one of these authentication methods: **1) OAuth 2.0** - Set up OAuth consent and use user authorization flow, or **2) Service Account** - Create a service account in [Google Cloud Console](https://console.cloud.google.com), download the JSON key file, share your calendar with the service account email, and provide the full JSON content as credentials. See [Google Calendar API Authentication Guide](https://developers.google.com/calendar/api/guides/auth) for detailed setup instructions. |
+| 20260121-auth | 2026-01-21 | ⚠️ Authentication Required | Cannot access private Google Calendar events. The provided GOOGLE_API_KEY is valid but only works for public calendars. Private calendar access requires OAuth 2.0 or Service Account authentication. | To view your private calendar meetings, you need one of these authentication methods: **1) Service Account (Recommended for automation)** - Create a service account in [Google Cloud Console](https://console.cloud.google.com), download the JSON key file, share your calendar with the service account email, and provide the JSON credentials. **2) OAuth 2.0** - Requires interactive user consent. See [Google Calendar API Authentication Guide](https://developers.google.com/calendar/api/guides/auth) for setup instructions. |
