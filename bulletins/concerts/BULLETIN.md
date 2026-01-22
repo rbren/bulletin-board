@@ -1,21 +1,22 @@
 ---
-cost: 1.7427
+cost: 1.8114
 title: concerts
-updated_at: 2026-01-21T00:00:00Z
+updated_at: 2026-01-22T00:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260121-lilypad-jesse-steve | Jan 21, 2026 7:00 PM | Jesse Gallagher + Steve Fell ⭐ | The Lilypad | Pop/Electronic | $10 admission. Seated show | [Details](https://www.lilypadinman.com/home/2026/jesse-gallagher-steve-fell-l4sd9) |
-| 20260121-bso-gandelsman | Jan 21, 2026 7:00 PM | Johnny Gandelsman: This is America | Symphony Hall (BSO) | Contemporary Classical | Violin performance exploring American music | [Details](https://www.bso.org/events/jan21-gandelsman-this-is-america) |
 | 20260122-bso-williams | Jan 22, 2026 7:30 PM | John Williams Program | Symphony Hall (BSO) | Contemporary Classical | With Emanuel Ax | [Details](https://www.bso.org/events/jan-22-25-john-williams-prog) |
-| 20260123-lilypad-foodbaby | Jan 23, 2026 7:30 PM | foodbaby ⭐ | The Lilypad | Indie Rock | Boston band "Five Horsemen of the A-pop-alypse". $10 cover, doors 7:30, show 8pm | [Details](https://www.lilypadinman.com/home/2026/1/23/foodbaby) |
+| 20260123-lilypad-foodbaby | Jan 23, 2026 7:30 PM | foodbaby ⭐ | The Lilypad | Indie Rock | Boston band. $10 cover, doors 7:30, show 8pm | [Details](https://www.lilypadinman.com/home/2026/1/23/foodbaby) |
 | 20260123-bso-wells | Jan 23, 2026 8:00 PM | Emily Wells: Regards to the End | Symphony Hall (BSO) | Experimental/Contemporary | Multi-disciplinary artist merging pop, chamber music, and visual art. With Alan Pierson, Ian Chang | [Details](https://www.bso.org/events/emily-wells-regards-to-the-end) |
 | 20260123-sinclair-wonkywilla | Jan 23, 2026 8:00 PM | WonkyWilla | The Sinclair | Experimental Electronic | Galactic Circus Tour with TwoPercent, SARGE. 18+ | [Details](https://www.sinclaircambridge.com/events/detail/1165992) |
-| 20260125-bso-gandelsman-2 | Jan 25, 2026 4:30 PM | Johnny Gandelsman: This is America | Symphony Hall (BSO) | Contemporary Classical | Violin performance exploring American music | [Details](https://www.bso.org/events/jan-25-gandelsman-this-is-america) |
+| 20260124-bso-williams-2 | Jan 24, 2026 8:00 PM | John Williams Program | Symphony Hall (BSO) | Contemporary Classical | With Emanuel Ax | [Details](https://www.bso.org/events/jan-22-25-john-williams-prog) |
+| 20260125-bso-williams-3 | Jan 25, 2026 2:00 PM | John Williams Program | Symphony Hall (BSO) | Contemporary Classical | With Emanuel Ax | [Details](https://www.bso.org/events/jan-22-25-john-williams-prog) |
+| 20260125-bso-gandelsman | Jan 25, 2026 4:30 PM | Johnny Gandelsman: This is America | Symphony Hall (BSO) | Contemporary Classical | Violin performance exploring American music | [Details](https://www.bso.org/events/jan-25-gandelsman-this-is-america) |
 | 20260126-lilypad-elan-mehler | Jan 26, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz/Experimental | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2025/3/7/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8) |
-| 20260126-bso-gandelsman-3 | Jan 26, 2026 7:00 PM | Johnny Gandelsman: This is America | Symphony Hall (BSO) | Contemporary Classical | Violin performance exploring American music | [Details](https://www.bso.org/events/jan-26-gandelsman-this-is-am) |
+| 20260126-bso-gandelsman-2 | Jan 26, 2026 7:00 PM | Johnny Gandelsman: This is America | Symphony Hall (BSO) | Contemporary Classical | Violin performance exploring American music | [Details](https://www.bso.org/events/jan-26-gandelsman-this-is-am) |
 | 20260127-lilypad-monique | Jan 27, 2026 10:00 PM | Time traveling with Monique ⭐ | The Lilypad | Experimental/Jazz | The Moniko Stride Duo & Friends - stride piano & tuba. Unique vintage jazz performance | [Details](https://www.lilypadinman.com/home/2026/time-traveling-with-monique-and-moniko-stride) |
+| 20260128-bso-carlos-simon | Jan 28, 2026 6:00 PM | Vibe Check Live with Carlos Simon | Symphony Hall (BSO) | Contemporary Classical | Special guest Carlos Simon | [Details](https://www.bso.org/events/vibe-check-live-with-special-guest-carlos-simon) |
 | 20260129-lilypad-annalisa | Jan 29, 2026 7:30 PM | Anna Lisa Patti "Hello" Release Show | The Lilypad | Indie Folk | With Entifan and Mari Sitzmann. $10 admission | [Details](https://www.lilypadinman.com/home/2026/anna-lisa-patti-with-entifan-and-mari-sitzmann) |
 | 20260129-lilypad-tessa-brown | Jan 29, 2026 10:00 PM | Tessa Brown w/ Kira Severy and Lorena Ometto | The Lilypad | Indie Rock/Folk | $10 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/1/29/tessa-brown-w-kira-severy-and-lorena-ometto) |
 | 20260129-sinclair-dean-johnson | Jan 29, 2026 7:00 PM | Dean Johnson | The Sinclair | Indie | With Lily Seabird. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1176759) |
@@ -25,6 +26,7 @@ updated_at: 2026-01-21T00:00:00Z
 | 20260131-lilypad-armadi-tsayn | Jan 31, 2026 7:30 PM | Armadi Tsayn - EP Release Show | The Lilypad | Modern Folk | $15 / 7:30 doors / 8pm show / seated | [Details](https://www.lilypadinman.com/home/2026/1/armadi-tsayn) |
 | 20260131-sinclair-hyperlinkedin | Jan 31, 2026 | HyperLinkedIn: A Girl EDM/Hyperpop Party | The Sinclair | Experimental Electronic | Hyperpop party | [Details](https://www.sinclaircambridge.com/events/detail/1290149) |
 | 20260131-bso-lang-simon-2 | Jan 31, 2026 8:00 PM | David Lang & Carlos Simon | Symphony Hall (BSO) | Contemporary Classical | With Jekalyn Carr | [Details](https://www.bso.org/events/jan-29-31-lang-simon) |
+| 20260201-lilypad-souq-el-jazz | Feb 1, 2026 4:20 PM | Souq El-Jazz | The Lilypad | Arabic Jazz/Experimental | $15 admission / 4:20 doors / 4:30 start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/2/1/souq-el-jazz) |
 | 20260201-sinclair-jonah-kagen | Feb 1, 2026 7:00 PM | Jonah Kagen | The Sinclair | Indie | Sunflowers & Leather Tour with Anna Graves. 18+ | [Details](https://www.sinclaircambridge.com/events/detail/1150107) |
 | 20260201-bso-hadelich | Feb 1, 2026 3:00 PM | American Road Trip with Augustin Hadelich | Symphony Hall (BSO) | Contemporary Classical | Violin performance | [Details](https://www.bso.org/events/american-road-trip-with-augustin-hadelich) |
 | 20260202-sinclair-seahaven | Feb 2, 2026 7:00 PM | Seahaven | The Sinclair | Indie Rock | Performing Winter Forever in full (15 year anniversary) with Flycatcher, Spin. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1187871) |
