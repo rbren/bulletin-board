@@ -4,3 +4,5 @@ number of likes, stars, views, etc) record that as well.
 
 DO NOT look at openhands.dev or official OpenHands communications. This is specifically about OpenHands being
 mentioned organically in the wild
+
+Look far and wide. Look at social media. Look at blogging sites. Look at YouTube.
