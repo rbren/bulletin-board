@@ -1,16 +1,16 @@
 ---
-cost: 1.8559
+cost: 2.3773
 title: concerts
-updated_at: 2026-01-23T00:00:00Z
+updated_at: 2026-01-24T12:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260123-lilypad-foodbaby | Jan 23, 2026 7:30 PM | foodbaby ⭐ | The Lilypad | Indie Rock | Boston band. $10 cover, doors 7:30, show 8pm | [Details](https://www.lilypadinman.com/home/2026/1/23/foodbaby) |
-| 20260123-sinclair-wonkywilla | Jan 23, 2026 8:00 PM | WonkyWilla | The Sinclair | Experimental Electronic | Galactic Circus Tour with TwoPercent, SARGE. 18+ | [Details](https://www.sinclaircambridge.com/events/detail/1165992) |
+| 20260124-sinclair-lamp | Jan 24, 2026 | LAMP ft. Russ Lawton, Scott Metzger, Ray Paczkowski ⭐ | The Sinclair | Experimental/Jam | Experimental jam band | [Details](https://www.sinclaircambridge.com/events/detail/1184049) |
 | 20260124-bso-williams | Jan 24, 2026 8:00 PM | John Williams Program | Symphony Hall (BSO) | Contemporary Classical | With Emanuel Ax | [Details](https://www.bso.org/events/jan-22-25-john-williams-prog) |
 | 20260125-bso-williams-2 | Jan 25, 2026 2:00 PM | John Williams Program | Symphony Hall (BSO) | Contemporary Classical | With Emanuel Ax | [Details](https://www.bso.org/events/jan-22-25-john-williams-prog) |
 | 20260125-bso-gandelsman | Jan 25, 2026 4:30 PM | Johnny Gandelsman: This is America | Symphony Hall (BSO) | Contemporary Classical | Violin performance exploring American music | [Details](https://www.bso.org/events/jan-25-gandelsman-this-is-america) |
+| 20260125-sinclair-racing | Jan 25, 2026 | Racing, Mount Pleasant | The Sinclair | Indie Rock | Indie rock double bill | [Details](https://www.sinclaircambridge.com/events/detail/1192041) |
 | 20260126-lilypad-elan-mehler | Jan 26, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz/Experimental | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2025/3/7/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8) |
 | 20260126-lilypad-bergonzi | Jan 26, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/xcfste55a26cgz4-ay7g7-lsbds-d7cp4) |
 | 20260126-lilypad-fringe | Jan 26, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 @ the Door / $10 Students / Start 10:30pm / Doors 10pm / Seated Show | [Details](https://www.lilypadinman.com/home/td2fn85byd546ez-nl3ya-jsjga-bm485-j6skl-cjp9r-7s8pn-9a5z2-w2az3-kcyhx-34lac-c49x9-2d62j-c6w9r-b8kak-s7yt6-5jypx-hh853-te6dm-x8tad-ftz5b-hsxe3-tx3r7-z5j69-3n8bj) |
@@ -23,6 +23,7 @@ updated_at: 2026-01-23T00:00:00Z
 | 20260129-sinclair-dean-johnson | Jan 29, 2026 7:00 PM | Dean Johnson | The Sinclair | Indie | With Lily Seabird. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1176759) |
 | 20260129-bso-lang-simon | Jan 29, 2026 7:30 PM | David Lang & Carlos Simon | Symphony Hall (BSO) | Contemporary Classical | With Jekalyn Carr | [Details](https://www.bso.org/events/jan-29-31-lang-simon) |
 | 20260130-lilypad-ajfoss | Jan 30, 2026 7:00 PM | The AJ Foss Band, giAnna, The Manu Xavier Band | The Lilypad | Indie Rock | Live at the Lilypad series. $9 advance / $12 at door | [Details](https://www.lilypadinman.com/home/2026/1/30/live-at-the-lilypad-the-aj-foss-band-gianna-the-manu-xavier-band) |
+| 20260130-sinclair-bandsplain | Jan 30, 2026 | Bandsplain Live at Something in the Way Fest | The Sinclair | Indie/Alternative | Music podcast live show | [Details](https://www.sinclaircambridge.com/events/detail/1296081) |
 | 20260130-lilypad-noah-evan-gabriel | Jan 30, 2026 10:00 PM | Noah Mark / Evan Haskin / Gabriel Boyarin ⭐ | The Lilypad | Experimental | $10 admission / 10pm doors / 10:15 start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/1/30/gabe-boyarin-evan-haskin-noah-mark) |
 | 20260131-lilypad-armadi-tsayn | Jan 31, 2026 7:30 PM | Armadi Tsayn - EP Release Show | The Lilypad | Modern Folk | $15 / 7:30 doors / 8pm show / seated | [Details](https://www.lilypadinman.com/home/2026/1/armadi-tsayn) |
 | 20260131-sinclair-hyperlinkedin | Jan 31, 2026 | HyperLinkedIn: A Girl EDM/Hyperpop Party | The Sinclair | Experimental Electronic | Hyperpop party | [Details](https://www.sinclaircambridge.com/events/detail/1290149) |
@@ -34,7 +35,10 @@ updated_at: 2026-01-23T00:00:00Z
 | 20260203-sinclair-sprints | Feb 3, 2026 7:00 PM | SPRINTS | The Sinclair | Post-punk/Indie Rock | Dublin quartet with new album "All That Is Over". With My Transparent Eye. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1110201) |
 | 20260205-sinclair-electric-guest | Feb 5, 2026 | Electric Guest | The Sinclair | Indie/Electronic | | [Details](https://www.sinclaircambridge.com/events/detail/1125818) |
 | 20260206-sinclair-summer-salt | Feb 6, 2026 7:00 PM | Summer Salt | The Sinclair | Indie Rock | Reside North America Tour with Boyscott, Wabie. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1125826) |
-| 20260208-sinclair-dan-deacon | Feb 8, 2026 7:00 PM | Dan Deacon | The Sinclair | Experimental Electronic | 18+ | [Details](https://www.sinclaircambridge.com/events/detail/1211507) |
+| 20260208-sinclair-dan-deacon | Feb 8, 2026 7:00 PM | Dan Deacon ⭐ | The Sinclair | Experimental Electronic | 18+ | [Details](https://www.sinclaircambridge.com/events/detail/1211507) |
 | 20260212-bso-salonen | Feb 12, 2026 7:30 PM | Esa-Pekka Salonen conducts Bruckner | Symphony Hall (BSO) | Contemporary Classical | | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
 | 20260213-bso-salonen-2 | Feb 13, 2026 1:30 PM | Esa-Pekka Salonen conducts Bruckner | Symphony Hall (BSO) | Contemporary Classical | | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
 | 20260214-bso-salonen-3 | Feb 14, 2026 8:00 PM | Esa-Pekka Salonen conducts Bruckner | Symphony Hall (BSO) | Contemporary Classical | | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
+| 20260226-bso-ades | Feb 26, 2026 7:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
+| 20260227-bso-ades-2 | Feb 27, 2026 1:30 PM | Thomas Adès conducts Beethoven | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
+| 20260228-bso-ades-3 | Feb 28, 2026 8:00 PM | Thomas Adès conducts Beethoven | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
