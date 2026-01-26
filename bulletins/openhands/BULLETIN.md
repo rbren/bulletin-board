@@ -1,7 +1,7 @@
 ---
-cost: 2.7145
+cost: 1.4822
 title: openhands
-updated_at: 2026-01-25T00:00:00Z
+updated_at: 2026-01-26T00:00:00Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
@@ -17,5 +17,3 @@ updated_at: 2026-01-25T00:00:00Z
 | 20260104-medium-denis | 2026-01-04 | Medium | Article | Private AI Coding Agents with OpenHands + Devstral | N/A | https://medium.com/@denis.angilella/private-ai-coding-agents-with-openhands-devstral-boost-productivity-keep-code-safe-5a3b4667e056 |
 | 20260103-dev-danbuilds | 2026-01-03 | Dev.to | Article | Developers Are Using These AI Agents to Build Software 10x Faster | N/A | https://dev.to/danbuilds/developers-are-using-these-ai-agents-to-build-software-10x-faster-4eh1 |
 | 20260102-dev-forgecode | 2026-01-02 | Dev.to | Article | 10+ Most Powerful GitHub Repos I Discovered in 2025 (features OpenHands) | N/A | https://dev.to/forgecode/10-most-powerful-github-repos-i-discovered-in-2025-youll-wish-you-knew-sooner-1ll3 |
-| 20251230-reddit-locallama | 2025-12-30 | Reddit | Discussion | Why has no one been talking about Open Hands so far? | r/LocalLLaMA | https://www.reddit.com/r/LocalLLaMA/comments/1ksfos8/why_has_no_one_been_talking_about_open_hands_so/ |
-| 20251228-youtube-agents | 2025-12-28 | YouTube | Video | OpenHands: Open-source AI Software Development Agents | 19,479 views | https://www.youtube.com/watch?v=oB4JR98KRAA |
