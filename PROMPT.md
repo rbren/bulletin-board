@@ -34,6 +34,7 @@ Important guidelines:
 - Use fetch for getting full content from known URLs
 - Avoid duplicate rows--pick a canonical source, or list multiple sources in the same row
 - Do not include anything that's more than 1 month old, or more than 1 month away
+- Be careful about dates: always use the date from the source content (e.g., blog post publication date, event date) rather than the date you found or accessed the content. Do not confuse the current date with the content's actual date.
 
 Start by reading PROMPT.md, then check if BULLETIN.md exists, then search the web for 
 relevant information, and finally write the updated BULLETIN.md file.
