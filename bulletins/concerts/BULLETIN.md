@@ -1,15 +1,11 @@
 ---
-cost: 1.9707
+cost: 2.2767
 title: concerts
-updated_at: 2026-01-26T12:00:00Z
+updated_at: 2026-01-27T12:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260126-lilypad-elan-mehler | Jan 26, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz/Experimental | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2025/3/7/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8) |
-| 20260126-bso-gandelsman | Jan 26, 2026 7:00 PM | Johnny Gandelsman: This is America | Symphony Hall (BSO) | Contemporary Classical | Violin performance exploring American music | [Details](https://www.bso.org/events/jan-26-gandelsman-this-is-am) |
-| 20260126-lilypad-bergonzi | Jan 26, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/xcfste55a26cgz4-ay7g7-lsbds-d7cp4) |
-| 20260126-lilypad-fringe | Jan 26, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 @ the Door / $10 Students / Start 10:30pm / Doors 10pm / Seated Show | [Details](https://www.lilypadinman.com/home/td2fn85byd546ez-nl3ya-jsjga-bm485-j6skl-cjp9r-7s8pn-9a5z2-w2az3-kcyhx-34lac-c49x9-2d62j-c6w9r-b8kak-s7yt6-5jypx-hh853-te6dm-x8tad-ftz5b-hsxe3-tx3r7-z5j69-3n8bj) |
 | 20260127-lilypad-monique | Jan 27, 2026 10:00 PM | Time traveling with Monique ⭐ | The Lilypad | Experimental/Jazz | The Moniko Stride Duo & Friends - stride piano & tuba. $15 admission / $10 students / 10pm doors / 10:20 start | [Details](https://www.lilypadinman.com/home/2026/time-traveling-with-monique-and-moniko-stride) |
 | 20260128-lilypad-gill-aharon | Jan 28, 2026 8:15 PM | Gill Aharon Trio | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-4l2jm-s2bbk-zcskn-78epn-xlbl7-cngcg-npstz-hn6sj-dn6dt-bs8m9-z46ds-gmmnf-j3zwb-rpgbh) |
 | 20260128-bso-carlos-simon | Jan 28, 2026 6:00 PM | Vibe Check Live with Carlos Simon | Symphony Hall (BSO) | Contemporary Classical | Special guest Carlos Simon | [Details](https://www.bso.org/events/vibe-check-live-with-special-guest-carlos-simon) |
@@ -25,8 +21,12 @@ updated_at: 2026-01-26T12:00:00Z
 | 20260131-sinclair-hyperlinkedin | Jan 31, 2026 | HyperLinkedIn: A Girl EDM/Hyperpop Party ⭐ | The Sinclair | Experimental Electronic | Hyperpop party | [Details](https://www.sinclaircambridge.com/events/detail/1290149) |
 | 20260201-bso-hadelich | Feb 1, 2026 3:00 PM | American Road Trip with Augustin Hadelich | Symphony Hall (BSO) | Contemporary Classical | Violin performance | [Details](https://www.bso.org/events/american-road-trip-with-augustin-hadelich) |
 | 20260201-lilypad-souq-el-jazz | Feb 1, 2026 4:20 PM | Souq El-Jazz ⭐ | The Lilypad | Arabic Jazz/Experimental | $15 admission / 4:20 doors / 4:30 start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/2/1/souq-el-jazz) |
+| 20260201-lilypad-melissa-kassel | Feb 1, 2026 6:30 PM | Melissa Kassel & Tom Zicarelli Group | The Lilypad | Jazz | $15 / 6:30 start / seated | [Details](https://www.lilypadinman.com/home/2026/february-melissa-kassel-tom-zicarelli-group) |
 | 20260201-sinclair-jonah-kagen | Feb 1, 2026 7:00 PM | Jonah Kagen | The Sinclair | Indie | Sunflowers & Leather Tour with Anna Graves. 18+ | [Details](https://www.sinclaircambridge.com/events/detail/1150107) |
+| 20260202-lilypad-elan-mehler | Feb 2, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2025/3/7/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8-a3xg9) |
 | 20260202-sinclair-seahaven | Feb 2, 2026 7:00 PM | Seahaven | The Sinclair | Indie Rock | Performing Winter Forever in full (15 year anniversary) with Flycatcher, Spin. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1187871) |
+| 20260202-lilypad-jerry-bergonzi | Feb 2, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/xcfste55a26cgz4-ay7g7-lsbds-d7cp4-m4gd5) |
+| 20260202-lilypad-fringe | Feb 2, 2026 10:00 PM | The Fringe | The Lilypad | Jazz/Avant-garde | $15 @ the Door / $10 Students / Start 10:30pm / Doors 10pm / Seated Show | [Details](https://www.lilypadinman.com/home/the-fringe-2026) |
 | 20260203-sinclair-sprints | Feb 3, 2026 7:00 PM | SPRINTS | The Sinclair | Post-punk/Indie Rock | Dublin quartet with new album "All That Is Over". With My Transparent Eye. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1110201) |
 | 20260205-sinclair-electric-guest | Feb 5, 2026 | Electric Guest | The Sinclair | Indie/Electronic | | [Details](https://www.sinclaircambridge.com/events/detail/1125818) |
 | 20260206-sinclair-summer-salt | Feb 6, 2026 7:00 PM | Summer Salt | The Sinclair | Indie Rock | Reside North America Tour with Boyscott, Wabie. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1125826) |
@@ -37,6 +37,5 @@ updated_at: 2026-01-26T12:00:00Z
 | 20260214-bso-salonen-3 | Feb 14, 2026 8:00 PM | Esa-Pekka Salonen conducts Bruckner | Symphony Hall (BSO) | Contemporary Classical | | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
 | 20260226-bso-ades | Feb 26, 2026 7:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260227-bso-ades-2 | Feb 27, 2026 1:30 PM | Thomas Adès conducts Beethoven | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
-| 20260228-bso-ades-3 | Feb 28, 2026 8:00 PM | Thomas Adès conducts Beethoven | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 
 *Note: Unable to access Roadrunner venue website directly. Check their site for additional concerts.*
