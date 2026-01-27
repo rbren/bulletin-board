@@ -1,11 +1,15 @@
 ---
-cost: 1.4404
+cost: 1.5550
 title: industry-news
-updated_at: 2026-01-26T00:00:00Z
+updated_at: 2026-01-27T00:00:00Z
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
 |---|---|---|---|---|---|
+| 20260127-kimi-k25 | 2026-01-27 | Kimi | Kimi Releases K2.5 Open-Source Visual SOTA-Agentic Model | https://www.kimi.com/blog/kimi-k2-5.html | Kimi released K2.5, a 1T parameter model (32B active) with MIT license, featuring agent swarm capabilities with up to 100 sub-agents and 1,500 tool calls. The model claims SOTA performance on vision tasks and includes native INT4 quantization. |
+| 20260127-greptile-code-review | 2026-01-27 | Greptile | Greptile Declares "AI Code Review Bubble" as Competition Intensifies | https://www.greptile.com/blog/ai-code-review-bubble | Greptile analyzes the surge in AI code review tools from major players including OpenAI, Anthropic, Cursor, and Cognition. The company advocates for independent code validation agents separate from coding agents, predicting a future of fully automated code approval workflows. |
+| 20260126-dropbox-cursor | 2026-01-26 | Cursor | Dropbox Accepts 1M+ Lines of Agent-Generated Code Monthly with Cursor | https://www.cursor.com/blog/dropbox | Dropbox uses Cursor to index over 550,000 files and build an AI-native SDLC, accepting more than 1 million lines of agent-generated code monthly while improving PR velocity and cycle time across their engineering organization. |
+| 20260126-chatgpt-containers | 2026-01-26 | OpenAI | ChatGPT Containers Now Support Bash, Node.js, and 10+ Languages | https://simonwillison.net/2026/Jan/26/chatgpt-containers/ | ChatGPT's container feature received a major undocumented upgrade, now supporting direct Bash commands, Node.js, and 10 additional programming languages. New capabilities include pip/npm package installation via proxy and a container.download tool for fetching web files. |
 | 20260125-claude-swarms | 2026-01-25 | Anthropic | Claude Code's New Hidden Feature: Swarms | https://news.ycombinator.com/item?id=46743908 | Claude Code introduces a new "Swarms" feature enabling coordinated multi-agent coding capabilities, marking a significant advancement in AI-assisted development workflows. |
 | 20260124-openai-codex | 2026-01-24 | OpenAI | OpenAI Publishes Research on Unrolling the Codex Agent Loop | https://openai.com/index/unrolling-the-codex-agent-loop/ | OpenAI released new research on improving Codex agent performance through loop unrolling techniques, demonstrating significant improvements in code generation accuracy and efficiency. |
 | 20260122-anthropic-constitution | 2026-01-22 | Anthropic | Anthropic Writes 23,000-Word 'Constitution' for Claude | https://www.theregister.com/2026/01/22/anthropic_claude_constitution/ | Anthropic published Claude's new 23,000-word constitution under CC0 1.0, describing Claude as a "novel kind of entity" that may have "functional versions of emotions." The document outlines Anthropic's vision for Claude's values and behavior in unprecedented detail. |
