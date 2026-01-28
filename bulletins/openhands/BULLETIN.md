@@ -1,7 +1,7 @@
 ---
-cost: 1.8275
+cost: 1.9651
 title: openhands
-updated_at: 2026-01-27T00:00:00Z
+updated_at: 2026-01-28T00:00:00Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
