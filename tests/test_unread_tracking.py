@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the unread tracking functionality."""
+"""Tests for the unread tracking, star, and close functionality."""
 
 import json
 import sys
@@ -18,6 +18,7 @@ from generate_site import (
     get_unread_js,
     get_index_page_js,
     get_bulletin_page_js,
+    get_css,
 )
 
 
@@ -278,6 +279,143 @@ class TestIntegration:
             # At least one bulletin should have item IDs
             bulletins_with_ids = [b for b in bulletins if b.item_ids]
             assert len(bulletins_with_ids) > 0, "Expected at least one bulletin with item IDs"
+
+
+class TestStarFunctionality:
+    """Tests for the star functionality."""
+    
+    def test_star_storage_key_defined(self):
+        """Test that starred storage key is defined in JavaScript."""
+        js = get_unread_js()
+        assert "STARRED_STORAGE_KEY" in js
+        assert "bulletin-board-starred" in js
+    
+    def test_star_functions_exist(self):
+        """Test that all required star JavaScript functions are defined."""
+        js = get_unread_js()
+        assert "function getStarredItems()" in js
+        assert "function saveStarredItems(" in js
+        assert "function toggleStar(" in js
+        assert "function isStarred(" in js
+    
+    def test_star_button_in_cards(self):
+        """Test that star button is added to cards with IDs."""
+        lines = [
+            "| ID | Event | Date |",
+            "|---|---|---|",
+            "| event-001 | Concert A | Jan 1 |",
+        ]
+        html = convert_table_to_html(lines)
+        assert 'class="star-btn"' in html
+        assert 'title="Star this item"' in html
+    
+    def test_star_button_not_in_cards_without_id(self):
+        """Test that star button is not added to cards without IDs."""
+        lines = [
+            "| Event | Date |",
+            "|---|---|",
+            "| Concert A | Jan 1 |",
+        ]
+        html = convert_table_to_html(lines)
+        assert 'class="star-btn"' not in html
+    
+    def test_starred_css_exists(self):
+        """Test that starred item CSS is defined."""
+        css = get_css()
+        assert '.data-card.starred' in css
+        assert '.star-btn' in css
+    
+    def test_bulletin_page_js_has_star_logic(self):
+        """Test that bulletin page JS handles star functionality."""
+        js = get_bulletin_page_js()
+        assert "isStarred" in js
+        assert "toggleStar" in js
+        assert "starred" in js
+    
+    def test_bulletin_page_js_sorts_starred_to_top(self):
+        """Test that bulletin page JS sorts starred items to the top."""
+        js = get_bulletin_page_js()
+        assert "insertBefore" in js
+        assert "starredCards" in js
+
+
+class TestCloseFunctionality:
+    """Tests for the close functionality."""
+    
+    def test_close_storage_key_defined(self):
+        """Test that closed storage key is defined in JavaScript."""
+        js = get_unread_js()
+        assert "CLOSED_STORAGE_KEY" in js
+        assert "bulletin-board-closed" in js
+    
+    def test_close_functions_exist(self):
+        """Test that all required close JavaScript functions are defined."""
+        js = get_unread_js()
+        assert "function getClosedItems()" in js
+        assert "function saveClosedItems(" in js
+        assert "function closeItem(" in js
+        assert "function isClosed(" in js
+    
+    def test_close_button_in_cards(self):
+        """Test that close button is added to cards with IDs."""
+        lines = [
+            "| ID | Event | Date |",
+            "|---|---|---|",
+            "| event-001 | Concert A | Jan 1 |",
+        ]
+        html = convert_table_to_html(lines)
+        assert 'class="close-btn"' in html
+        assert 'title="Close this item"' in html
+    
+    def test_close_button_not_in_cards_without_id(self):
+        """Test that close button is not added to cards without IDs."""
+        lines = [
+            "| Event | Date |",
+            "|---|---|",
+            "| Concert A | Jan 1 |",
+        ]
+        html = convert_table_to_html(lines)
+        assert 'class="close-btn"' not in html
+    
+    def test_close_css_exists(self):
+        """Test that close button CSS is defined."""
+        css = get_css()
+        assert '.close-btn' in css
+    
+    def test_bulletin_page_js_has_close_logic(self):
+        """Test that bulletin page JS handles close functionality."""
+        js = get_bulletin_page_js()
+        assert "isClosed" in js
+        assert "closeItem" in js
+        assert "display = 'none'" in js
+    
+    def test_closed_items_excluded_from_unread_count(self):
+        """Test that closed items are excluded from unread count."""
+        js = get_unread_js()
+        # The countUnread function should check for closed items
+        assert "getClosedItems" in js
+        # Verify countUnread uses closedItems
+        assert "closedItems" in js
+
+
+class TestCardActions:
+    """Tests for card action buttons."""
+    
+    def test_card_actions_container_exists(self):
+        """Test that card actions container is added to cards with IDs."""
+        lines = [
+            "| ID | Event | Date |",
+            "|---|---|---|",
+            "| event-001 | Concert A | Jan 1 |",
+        ]
+        html = convert_table_to_html(lines)
+        assert 'class="card-actions"' in html
+    
+    def test_card_actions_css_exists(self):
+        """Test that card actions CSS is defined."""
+        css = get_css()
+        assert '.card-actions' in css
+        assert 'position: absolute' in css
 
 
 if __name__ == "__main__":

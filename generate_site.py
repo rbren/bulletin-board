@@ -364,6 +364,14 @@ def convert_table_to_html(lines: list[str]) -> str:
         row_id = row_ids[idx]
         data_id_attr = f' data-id="{row_id}"' if row_id else ''
         html.append(f'<div class="data-card"{data_id_attr}>')
+        
+        # Add action buttons (star and close) if the card has an ID
+        if row_id:
+            html.append('<div class="card-actions">')
+            html.append('<button class="star-btn" title="Star this item">☆</button>')
+            html.append('<button class="close-btn" title="Close this item">×</button>')
+            html.append('</div>')
+        
         for i, cell in enumerate(row):
             if i < len(filtered_headers):
                 header = filtered_headers[i]
@@ -919,7 +927,7 @@ footer::before {
     content: 'NEW';
     position: absolute;
     top: 8px;
-    right: 8px;
+    right: 70px;
     background: var(--accent-gradient);
     color: white;
     font-size: 0.65rem;
@@ -928,6 +936,73 @@ footer::before {
     border-radius: 4px;
     letter-spacing: 0.05em;
 }
+
+/* Card action buttons (star and close) */
+.card-actions {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    display: flex;
+    gap: 4px;
+    z-index: 10;
+}
+
+.star-btn, .close-btn {
+    background: rgba(30, 32, 48, 0.8);
+    border: 1px solid var(--glass-border);
+    color: var(--text-muted);
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+}
+
+.star-btn:hover {
+    background: rgba(251, 191, 36, 0.2);
+    border-color: var(--warning-color);
+    color: var(--warning-color);
+}
+
+.close-btn:hover {
+    background: rgba(239, 68, 68, 0.2);
+    border-color: #ef4444;
+    color: #ef4444;
+}
+
+/* Starred item styles */
+.data-card.starred {
+    border: 2px solid var(--warning-color);
+    box-shadow: 0 0 20px rgba(251, 191, 36, 0.2);
+}
+
+.data-card.starred .star-btn {
+    background: rgba(251, 191, 36, 0.3);
+    border-color: var(--warning-color);
+    color: var(--warning-color);
+}
+
+.data-card.starred .star-btn::after {
+    content: '★';
+    position: absolute;
+}
+
+.data-card.starred .star-btn {
+    color: transparent;
+}
+
+.data-card.starred .star-btn::after {
+    color: var(--warning-color);
+}
+
+/* Adjust unread badge position when card has actions */
+.data-card.starred.unread::before {
+    border-color: var(--warning-color);
+}
 """
 
 
@@ -935,6 +1010,8 @@ def get_unread_js() -> str:
     """Return the JavaScript for tracking unread items."""
     return """
 const STORAGE_KEY = 'bulletin-board-viewed';
+const STARRED_STORAGE_KEY = 'bulletin-board-starred';
+const CLOSED_STORAGE_KEY = 'bulletin-board-closed';
 const THREE_MONTHS_MS = 90 * 24 * 60 * 60 * 1000;
 
 function getViewedItems() {
@@ -988,7 +1065,71 @@ function isViewed(id) {
 
 function countUnread(itemIds) {
     const items = getViewedItems();
-    return itemIds.filter(id => !items[id]).length;
+    const closedItems = getClosedItems();
+    return itemIds.filter(id => !items[id] && !closedItems[id]).length;
+}
+
+// Star functionality
+function getStarredItems() {
+    try {
+        const data = localStorage.getItem(STARRED_STORAGE_KEY);
+        return data ? JSON.parse(data) : {};
+    } catch (e) {
+        return {};
+    }
+}
+
+function saveStarredItems(items) {
+    try {
+        localStorage.setItem(STARRED_STORAGE_KEY, JSON.stringify(items));
+    } catch (e) {
+        console.warn('Could not save starred items to localStorage:', e);
+    }
+}
+
+function toggleStar(id) {
+    const items = getStarredItems();
+    if (items[id]) {
+        delete items[id];
+    } else {
+        items[id] = Date.now();
+    }
+    saveStarredItems(items);
+    return !!items[id];
+}
+
+function isStarred(id) {
+    const items = getStarredItems();
+    return !!items[id];
+}
+
+// Close functionality
+function getClosedItems() {
+    try {
+        const data = localStorage.getItem(CLOSED_STORAGE_KEY);
+        return data ? JSON.parse(data) : {};
+    } catch (e) {
+        return {};
+    }
+}
+
+function saveClosedItems(items) {
+    try {
+        localStorage.setItem(CLOSED_STORAGE_KEY, JSON.stringify(items));
+    } catch (e) {
+        console.warn('Could not save closed items to localStorage:', e);
+    }
+}
+
+function closeItem(id) {
+    const items = getClosedItems();
+    items[id] = Date.now();
+    saveClosedItems(items);
+}
+
+function isClosed(id) {
+    const items = getClosedItems();
+    return !!items[id];
 }
 """
 
@@ -1032,12 +1173,66 @@ document.addEventListener('DOMContentLoaded', function() {
     
     const cards = document.querySelectorAll('.data-card[data-id]');
     
-    // Mark unread items with the unread class
+    // Hide closed items and mark starred/unread items
     cards.forEach(function(card) {
         const id = card.getAttribute('data-id');
-        if (id && !isViewed(id)) {
-            card.classList.add('unread');
+        if (id) {
+            if (isClosed(id)) {
+                card.style.display = 'none';
+            } else {
+                if (isStarred(id)) {
+                    card.classList.add('starred');
+                }
+                if (!isViewed(id)) {
+                    card.classList.add('unread');
+                }
+            }
         }
+    });
+    
+    // Sort starred items to the top within each cards-container
+    document.querySelectorAll('.cards-container').forEach(function(container) {
+        const cardsInContainer = Array.from(container.querySelectorAll('.data-card[data-id]'));
+        const starredCards = cardsInContainer.filter(function(card) {
+            return card.classList.contains('starred');
+        });
+        
+        // Move starred cards to the top
+        starredCards.forEach(function(card) {
+            container.insertBefore(card, container.firstChild);
+        });
+    });
+    
+    // Set up star button click handlers
+    document.querySelectorAll('.star-btn').forEach(function(btn) {
+        btn.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            const card = btn.closest('.data-card');
+            const id = card.getAttribute('data-id');
+            if (id) {
+                const nowStarred = toggleStar(id);
+                if (nowStarred) {
+                    card.classList.add('starred');
+                } else {
+                    card.classList.remove('starred');
+                }
+            }
+        });
+    });
+    
+    // Set up close button click handlers
+    document.querySelectorAll('.close-btn').forEach(function(btn) {
+        btn.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            const card = btn.closest('.data-card');
+            const id = card.getAttribute('data-id');
+            if (id) {
+                closeItem(id);
+                card.style.display = 'none';
+            }
+        });
     });
     
     // Set up IntersectionObserver to track when items are viewed
