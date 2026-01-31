@@ -1,7 +1,7 @@
 ---
-cost: 1.9624
+cost: 2.9175
 title: openhands
-updated_at: 2026-01-30T00:00:00Z
+updated_at: 2026-01-31T00:00:00Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
@@ -15,4 +15,3 @@ updated_at: 2026-01-30T00:00:00Z
 | 20260112-clarifai | 2026-01-12 | Clarifai Blog | Tutorial | Run Your Own AI Coding Agent Locally with GPT-OSS and OpenHands | N/A | https://www.clarifai.com/blog/run-your-own-ai-coding-agent-locally-with-gpt-oss-openhands |
 | 20260109-marktechpost | 2026-01-09 | Marktechpost | Research Article | Meta and Harvard Introduce Confucius Code Agent - Mentions OpenHands in SWE-Bench Comparisons | OpenHands: 72.8 on SWE-Bench Verified | https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ |
 | 20260104-daytona-demo | 2026-01-04 | YouTube | Video | This AI Agent Built an App While I Watched... (Open Hands + Daytona Demo) | 43 likes, 3,920 views | https://www.youtube.com/watch?v=DPtOIljNmOg |
-| 20251101-reddit-codeact | 2025-11-01 | Reddit | Discussion | All Hands AI Open Sources OpenHands CodeAct 2.1 | r/machinelearningnews | https://www.reddit.com/r/machinelearningnews/comments/1gh90vw/all_hands_ai_open_sources_openhands_codeact_21_a/ |
