@@ -1,16 +1,11 @@
 ---
-cost: 2.4829
+cost: 1.9355
 title: concerts
-updated_at: 2026-01-31T00:00:00Z
+updated_at: 2026-02-01T00:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260131-lilypad-brigids-day | Jan 31, 2026 2:30 PM | Brigid's Day: Cross Weaving, Storytelling, and Concert | The Lilypad | Irish Folk | Traditional Irish celebration with crafts and music. $10-30 sliding scale / 2:30 start / 2:15 doors / seated | [Details](https://www.lilypadinman.com/home/2026/1/31/brigids-day-celebration) |
-| 20260131-lilypad-armadi-tsayn | Jan 31, 2026 7:30 PM | Armadi Tsayn - EP Release Show | The Lilypad | Modern Folk/Armenian | Contemporary folk ensemble featuring oud, bass, and percussion. $15 / 7:30 doors / 8pm show / seated | [Details](https://www.lilypadinman.com/home/2026/1/armadi-tsayn) |
-| 20260131-bso-lang-simon | Jan 31, 2026 8:00 PM | David Lang & Carlos Simon ⭐ | Symphony Hall (BSO) | Contemporary Classical | With Jekalyn Carr | [Details](https://www.bso.org/events/jan-29-31-lang-simon) |
-| 20260131-sinclair-hyperlinkedin | Jan 31, 2026 | HyperLinkedIn: A Girl EDM/Hyperpop Party ⭐ | The Sinclair | Experimental Electronic | Hyperpop party | [Details](https://www.sinclaircambridge.com/events/detail/1290149) |
-| 20260131-roadrunner-something-way-fest | Jan 31, 2026 | Something in the Way Fest Day 1 ⭐ | Roadrunner | Indie/Emo/Alternative | Sunny Day Real Estate, Citizen, First Day Back, Glitterer, Glixen, Horse Jumper of Love, No Warning, Park National, Pelican, Pool Kids, Sheer Mag, WICCA PHASE SPRINGS ETERNAL | [Details](https://www.axs.com/events/1100148/something-in-the-way-fest-2026-tickets) |
 | 20260201-bso-hadelich | Feb 1, 2026 3:00 PM | American Road Trip with Augustin Hadelich | Symphony Hall (BSO) | Contemporary Classical | Violin performance | [Details](https://www.bso.org/events/american-road-trip-with-augustin-hadelich) |
 | 20260201-lilypad-souq-el-jazz | Feb 1, 2026 4:20 PM | Souq El-Jazz ⭐ | The Lilypad | Arabic Jazz/Experimental | $15 admission / 4:20 doors / 4:30 start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/2/1/souq-el-jazz) |
 | 20260201-lilypad-melissa-kassel | Feb 1, 2026 6:30 PM | Melissa Kassel & Tom Zicarelli Group | The Lilypad | Jazz | $15 / 6:30 start / seated | [Details](https://www.lilypadinman.com/home/2026/february-melissa-kassel-tom-zicarelli-group) |
@@ -40,7 +35,7 @@ updated_at: 2026-01-31T00:00:00Z
 | 20260221-roadrunner-ole60 | Feb 21, 2026 8:00 PM | Ole 60 | Roadrunner | Country/Rock | Smokestack Town Tour. All ages | [Details](https://www.axs.com/events/1240786/ole-60-tickets) |
 | 20260226-bso-ades | Feb 26, 2026 7:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting, featuring Augustin Hadelich performing Adès' violin concerto "Concentric Paths" | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260227-bso-ades-2 | Feb 27, 2026 1:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
-| 20260227-lilypad-moviola | Feb 27, 2026 | Moviola / Sleepyhead / Thalia Zedek ⭐ | The Lilypad | Indie Rock/Experimental | | [Details](https://www.lilypadinman.com/home/2026/2/27/moviola-sleepyhead-thalia-zedek) |
+| 20260227-lilypad-moviola | Feb 27, 2026 7:30 PM | Moviola / Sleepyhead / Thalia Zedek ⭐ | The Lilypad | Indie Rock/Experimental | Three indie lifer bands. $15 / 7pm doors / 7:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/2/27/moviola-sleepyhead-thalia-zedek) |
 | 20260227-lilypad-wasiafest | Feb 27, 2026 10:30 PM | WasiaFest | The Lilypad | Indie/AAPI | Cultural concert celebrating mixed Asian musicians. $15 / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/wasiafest-featuring-mehlani-amber-alex-catherine-claire) |
 | 20260228-bso-ades-3 | Feb 28, 2026 8:00 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260228-roadrunner-heated-rivalry | Feb 28, 2026 9:00 PM | Heated Rivalry Night | Roadrunner | DJ/Dance | 18+ | [Details](https://roadrunnerboston.com/events/detail/?event_id=1307908) |
