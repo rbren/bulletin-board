@@ -1,11 +1,13 @@
 ---
-cost: 2.8002
+cost: 2.1819
 title: industry-news
-updated_at: 2026-02-01T00:00:00Z
+updated_at: 2026-02-02T00:00:00Z
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
 |---|---|---|---|---|
+| 20260130-ai-agent-protocols | 2026-01-30 | Multiple | Deciphering the Alphabet Soup of Agentic AI Protocols | https://www.theregister.com/2026/01/30/agnetic_ai_protocols_mcp_utcp_a2a_etc/ | Industry struggles with competing AI agent protocols including MCP, A2A, UTCP, ANP, and NLIP. MCP has emerged as de facto standard for agent-to-tool communication despite security flaws, while A2A leads agent-to-agent protocols after merging with IBM's ACP under Linux Foundation. |
+| 20260130-ai-infrastructure-gdp | 2026-01-30 | Gartner | Countries Must Invest 1% of GDP in AI Infrastructure for Digital Sovereignty | https://www.theregister.com/2026/01/30/1pc_gdp_ai_gartner/ | Gartner predicts countries seeking digital sovereignty will need to invest at least 1% of GDP into AI infrastructure by 2029. 35% of countries will be locked into region-specific AI platforms by 2027, driving up costs through reduced collaboration and duplication of effort. |
 | 20260129-ai-agent-identity-crisis | 2026-01-29 | Multiple | AI Agents Running Wild: Companies Give Untrustworthy Bots Keys to the Kingdom | https://www.theregister.com/2026/01/29/ai_agent_identity_security/ | Security experts warn that corporate AI agents are "absolutely ungoverned" with companies treating them like "thousands of interns running around in production environments." Organizations struggle to manage agentic identities as 40% of enterprise apps will integrate AI agents by 2026. |
 | 20260129-meta-ai-infrastructure | 2026-01-29 | Meta | Meta to Pour $135B into AI Infrastructure in 2026 | https://www.theregister.com/2026/01/29/meta_2026_infrastructure_spend/ | Meta announces massive $135 billion infrastructure investment for 2026, betting big on "personal superintelligence" as Zuckerberg pushes to dominate the AI race with unprecedented spending on compute and data centers. |
 | 20260129-dow-chemical-ai-layoffs | 2026-01-29 | Dow Chemical | Dow Chemical Says AI is Behind 4,500 Job Cuts | https://www.theregister.com/2026/01/29/dow_chemical_ai_layoffs/ | The 129-year-old chemical company announces 4,500 layoffs driven by AI implementation using Palantir-rival C3's AI platform, marking one of the largest AI-driven workforce reductions in the industrial sector. |
