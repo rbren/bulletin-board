@@ -1,14 +1,11 @@
 ---
-cost: 1.9946
+cost: 2.1563
 title: concerts
-updated_at: 2026-02-03T00:00:00Z
+updated_at: 2026-02-04T00:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260203-lilypad-ben-cosgrove | Feb 3, 2026 7:30 PM | Ben Cosgrove: "Topograph" Album Release ⭐ | The Lilypad | Neoclassical/Folk | Album release show. $20 / 7:30 doors / 8pm start / seated | [Details](https://www.lilypadinman.com/home/2026/ben-cosgrove) |
-| 20260203-lilypad-jam-session | Feb 3, 2026 10:00 PM | Jam Session with Nick Brust and Liz Sinn | The Lilypad | Jazz | $15 / $10 students / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/2026/february-jam-session-with-nick-brust-and-liz-sinn) |
-| 20260203-sinclair-sprints | Feb 3, 2026 7:00 PM | SPRINTS | The Sinclair | Post-punk/Indie Rock | Dublin quartet with new album "All That Is Over". With My Transparent Eye. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1110201) |
 | 20260204-lilypad-bert-seager | Feb 4, 2026 7:00 PM | Bert Seager's Heart of Hearing | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/bert-seagers-heart-of-hearing) |
 | 20260204-lilypad-gill-aharon | Feb 4, 2026 8:15 PM | Gill Aharon Trio | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-gb4z2-3w2pe-rr726-zgrt7-y628j-cdy33-et8kd-xbtce-xphdf-yblfh-bwha4-bmk92-btpjh-bw956-rg8fz) |
 | 20260204-sinclair-antarctigo | Feb 4, 2026 7:00 PM | Antarctigo Vespucci ⭐ | The Sinclair | Indie Rock | With Golden Apples. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1234412) |
@@ -18,10 +15,15 @@ updated_at: 2026-02-03T00:00:00Z
 | 20260205-sinclair-electric-guest | Feb 5, 2026 7:00 PM | Electric Guest ⭐ | The Sinclair | Indie/Electronic | 18+ | [Details](https://www.sinclaircambridge.com/events/detail/1125818) |
 | 20260205-bso-smith-mozart | Feb 5, 2026 7:30 PM | Anna Handler conducts Smith & Mozart | Symphony Hall (BSO) | Classical | Mozart Sinfonia Concertante with Nathan Cole & Steven Ansell | [Details](https://www.bso.org/events/feb-5-7-smith-mozart-tchaik) |
 | 20260205-paradise-jazz-mandolin | Feb 5, 2026 7:00 PM | The Jazz Mandolin Project | Paradise Rock Club | Jazz/Experimental | An evening with The Jazz Mandolin Project. 18+ | [Details](https://crossroadspresents.com/events/detail/jazz-mandolin-project) |
-| 20260206-lilypad-cooper-moore | Feb 6, 2026 10:00 PM | Cooper Moore / Emily Irving / Alex Sanders ⭐ | The Lilypad | Singer-songwriter/Folk/Indie/Rock | Special performance | [Details](https://www.lilypadinman.com/home/2026/cooper-moore-emily-irving-alex-sanders) |
+| 20260206-lilypad-cooper-moore | Feb 6, 2026 10:00 PM | Cooper Moore / Emily Irving / Alex Sanders ⭐ | The Lilypad | Singer-songwriter/Folk/Indie/Rock | $15 / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/cooper-moore-emily-irving-alex-sanders) |
 | 20260206-sinclair-summer-salt | Feb 6, 2026 7:00 PM | Summer Salt | The Sinclair | Indie Rock | Reside North America Tour with Boyscott, Wabie. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1125826) |
 | 20260207-sinclair-koo-koo | Feb 7, 2026 12:00 PM | KOO KOO | The Sinclair | Indie | Camp Spork Tour. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1160781) |
+| 20260207-lilypad-homefried | Feb 7, 2026 4:30 PM | Homefried Valentines | The Lilypad | Americana/Rock | Free admission / 4:30 doors / 5pm start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/2/7/homefried-valentines) |
+| 20260207-lilypad-love-room | Feb 7, 2026 7:15 PM | The Love Room | The Lilypad | Various | $20 at door / $12 early bird / 7:30 start / 7:15 doors | [Details](https://www.lilypadinman.com/home/2026/2/7/the-love-room) |
 | 20260207-lilypad-tiny-indie-fest | Feb 7, 2026 10:00 PM | Tiny Indie Fest 2026 ⭐ | The Lilypad | Indie Rock/Pop | Cerussis, Holes In Socks, Medusa Luna, Olivia Helen. $10 / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/tiny-indie-fest) |
+| 20260208-lilypad-z-ep | Feb 8, 2026 5:15 PM | Z EP Release | The Lilypad | Jazz/Pop | $10 admission / 5:15 doors / 5:30 start / seated | [Details](https://www.lilypadinman.com/home/2026/z-ep-release-show) |
+| 20260208-lilypad-busc | Feb 8, 2026 7:00 PM | BUSC Songwriters Showcase | The Lilypad | Singer-songwriter | Boston University Songwriters Circle. $5 admission / 7pm doors / 7:15 start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/boston-university-songwriters-circle-showcase) |
+| 20260208-lilypad-juno-myers | Feb 8, 2026 10:30 PM | Juno Myers / Grace Lionato / Nasuree Van Gelder | The Lilypad | Rock | $10 / 10:30pm doors / standing | [Details](https://www.lilypadinman.com/home/2026/2/8/c3sokey817he4) |
 | 20260208-sinclair-dan-deacon | Feb 8, 2026 7:00 PM | Dan Deacon ⭐ | The Sinclair | Experimental Electronic | 18+ | [Details](https://www.sinclaircambridge.com/events/detail/1211507) |
 | 20260210-sinclair-10ft-ganja | Feb 10, 2026 7:00 PM | 10 Ft. Ganja Plant presents Unified with Jamaica | The Sinclair | Reggae/Experimental | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1273503) |
 | 20260211-sinclair-whitney-hanson | Feb 11, 2026 7:00 PM | Whitney Hanson | The Sinclair | Indie/Poetry | Words Never Die Tour 2026. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1182021) |
