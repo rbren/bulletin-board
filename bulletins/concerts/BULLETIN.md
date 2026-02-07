@@ -1,18 +1,16 @@
 ---
-cost: 2.1280
+cost: 2.9752
 title: concerts
-updated_at: 2026-02-06T00:00:00Z
+updated_at: 2026-02-07T00:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260206-lilypad-cooper-moore | Feb 6, 2026 10:00 PM | Cooper Moore / Emily Irving / Alex Sanders ⭐ | The Lilypad | Singer-songwriter/Folk/Indie/Rock | $15 / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/cooper-moore-emily-irving-alex-sanders) |
-| 20260206-sinclair-summer-salt | Feb 6, 2026 7:00 PM | Summer Salt | The Sinclair | Indie Rock | Reside North America Tour with Boyscott, Wabie. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1125826) |
 | 20260207-sinclair-koo-koo | Feb 7, 2026 12:00 PM | KOO KOO | The Sinclair | Indie | Camp Spork Tour. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1160781) |
 | 20260207-lilypad-homefried | Feb 7, 2026 4:30 PM | Homefried Valentines | The Lilypad | Americana/Rock | Free admission / 4:30 doors / 5pm start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/2/7/homefried-valentines) |
 | 20260207-sinclair-kashus | Feb 7, 2026 7:00 PM | Kashus Culpepper | The Sinclair | Indie | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1240767) |
 | 20260207-lilypad-love-room | Feb 7, 2026 7:15 PM | The Love Room | The Lilypad | Various | $20 at door / $12 early bird / 7:30 start / 7:15 doors | [Details](https://www.lilypadinman.com/home/2026/2/7/the-love-room) |
-| 20260207-lilypad-tiny-indie-fest | Feb 7, 2026 10:00 PM | Tiny Indie Fest 2026 ⭐ | The Lilypad | Indie Rock/Pop | Cerussis, Holes In Socks, Medusa Luna, Olivia Helen. $10 / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/tiny-indie-fest) |
+| 20260207-lilypad-tiny-indie-fest | Feb 7, 2026 10:00 PM | Tiny Indie Fest 2026 ⭐ | The Lilypad | Indie Rock/Pop | Cerussis, Holes In Socks, Medusa Luna, Olivia Helen. $10 / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/tiny-indie-fest) |
 | 20260208-lilypad-z-ep | Feb 8, 2026 5:15 PM | Z EP Release | The Lilypad | Jazz/Pop | $10 admission / 5:15 doors / 5:30 start / seated | [Details](https://www.lilypadinman.com/home/2026/z-ep-release-show) |
 | 20260208-lilypad-busc | Feb 8, 2026 7:00 PM | BUSC Songwriters Showcase | The Lilypad | Singer-songwriter | Boston University Songwriters Circle. $5 admission / 7pm doors / 7:15 start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/boston-university-songwriters-circle-showcase) |
 | 20260208-lilypad-juno-myers | Feb 8, 2026 10:30 PM | Juno Myers / Grace Lionato / Nasuree Van Gelder | The Lilypad | Rock | $10 / 10:30pm doors / standing | [Details](https://www.lilypadinman.com/home/2026/2/8/c3sokey817he4) |
