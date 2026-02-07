@@ -1,11 +1,13 @@
 ---
-cost: 1.8509
+cost: 1.9680
 title: industry-news
-updated_at: 2026-02-06T08:20:19.943787Z
+updated_at: 2026-02-07T12:00:00.000000Z
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
 |---|---|---|---|---|
+| 20260206-nvidia-cursor-3x-commits | 2026-02-06 | Cursor/NVIDIA | NVIDIA Commits 3x More Code Across 30,000 Developers with Cursor | https://www.cursor.com/blog/nvidia | NVIDIA has deployed Cursor to over 30,000 developers daily, driving a three-fold increase in committed code. The company has customized Cursor to automate entire workflows across the SDLC including code generation, testing, reviews, and debugging. |
+| 20260205-cursor-self-driving-codebases | 2026-02-05 | Cursor | Cursor Announces Self-Driving Codebases Research Preview | https://www.cursor.com/blog/self-driving-codebases | Cursor releases preview of multi-agent research harness that can orchestrate thousands of agents working together autonomously. The system ran continuously for one week making the vast majority of commits to a web browser project without human intervention. |
 | 20260205-openai-frontier-platform | 2026-02-05 | OpenAI | OpenAI Launches Frontier Enterprise AI Agent Platform | https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/ | OpenAI announces Frontier, an end-to-end platform for enterprises to build and manage AI agents. The open platform allows management of agents built outside OpenAI, with customers including HP, Oracle, State Farm, and Uber. |
 | 20260205-fundamental-255m-series-a | 2026-02-05 | Fundamental | Fundamental Raises $255M Series A for Big Data Platform | https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data/ | Two Stanford students launch Fundamental with a massive $255M Series A funding round, introducing a new approach to big data infrastructure for AI applications. |
 | 20260205-amazon-200b-ai-spending | 2026-02-05 | Amazon | Amazon Announces $200 Billion AI Infrastructure Investment | https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html | Amazon raises the stakes in the AI race with plans to invest $200 billion in AI infrastructure, focusing on increased automation and compute capacity. |
