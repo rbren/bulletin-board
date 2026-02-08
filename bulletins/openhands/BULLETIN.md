@@ -1,7 +1,7 @@
 ---
-cost: 2.0662
+cost: 2.8287
 title: openhands
-updated_at: 2026-02-07T12:00:00Z
+updated_at: 2026-02-08T12:00:00Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
@@ -24,4 +24,5 @@ updated_at: 2026-02-07T12:00:00Z
 | 20260115-clarifai-local-setup | 2026-01-15 | Clarifai | Tutorial | Run Your Own AI Coding Agent Locally with GPT-OSS and OpenHands | N/A | https://www.clarifai.com/blog/run-your-own-ai-coding-agent-locally-with-gpt-oss-openhands |
 | 20260110-linkedin-ide-support | 2026-01-10 | LinkedIn | Social | OpenHands announces IDE/editor support for VSCode, IntelliJ/PyCharm, Zed, Toad | 56 likes, 3 comments | https://www.linkedin.com/company/openhands-ai |
 | 20260109-linkedin-community-call | 2026-01-09 | LinkedIn | Social | OpenHands Community Call announcement for January 8 | 12 likes | https://www.linkedin.com/company/openhands-ai |
-| 20260107-medium-ai-employee | 2026-01-07 | Medium | Blog | OpenHands — Your Own AI employee or yet another GPT wrapper? - Review by Lior Strugach | N/A | https://medium.com/@liorstrugach/openhands-your-own-ai-employee-or-yet-another-gpt-wrapper-893e1507720f |
+
+*Note: This bulletin was updated on 2026-02-08. Due to API access limitations, comprehensive searches across social media platforms (Twitter/X, Reddit, LinkedIn, YouTube) were restricted. The bulletin has been updated to remove entries older than one month and retain recent mentions within the past 30 days.*
