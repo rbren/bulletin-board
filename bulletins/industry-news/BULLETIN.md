@@ -1,12 +1,15 @@
 ---
-cost: 1.9680
+cost: 1.9869
 title: industry-news
-updated_at: 2026-02-07T12:00:00.000000Z
+updated_at: 2026-02-08T12:00:00.000000Z
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
 |---|---|---|---|---|
+| 20260208-ai-com-launch | 2026-02-08 | ai.com | ai.com Launches Autonomous AI Agents Platform at Super Bowl | https://www.prnewswire.com/news-releases/aicom-launches-autonomous-ai-agents-to-accelerate-the-arrival-of-agi-302680933.html | Kris Marszalek, Crypto.com founder, launches ai.com with autonomous AI agents that can self-improve and share capabilities across a decentralized network. The platform debuts with a Super Bowl LX commercial after a $70M domain acquisition, believed to be the largest in history. |
+| 20260207-vibe-coding-revolution | 2026-02-07 | Multiple | Vibe Coding Matures from Gimmick to Production-Grade Methodology | https://business20channel.tv/claude-openai-github-and-google-lead-the-vibe-coding-revolution-in-2026-7-february-2026 | Industry report shows vibe coding has transformed into reliable development methodology powered by Claude Code, OpenAI Codex, GitHub Copilot, and Google Gemini. Security experts warn of "Challenger disaster" risks from unreviewed AI-generated production code. |
 | 20260206-nvidia-cursor-3x-commits | 2026-02-06 | Cursor/NVIDIA | NVIDIA Commits 3x More Code Across 30,000 Developers with Cursor | https://www.cursor.com/blog/nvidia | NVIDIA has deployed Cursor to over 30,000 developers daily, driving a three-fold increase in committed code. The company has customized Cursor to automate entire workflows across the SDLC including code generation, testing, reviews, and debugging. |
+| 20260205-openai-gpt-5-3-codex | 2026-02-05 | OpenAI | OpenAI Launches GPT-5.3-Codex Model Minutes After Anthropic's Claude Opus 4.6 | https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/ | OpenAI releases GPT-5.3-Codex, the first AI model "instrumental in creating itself," achieving new high scores on SWE-Bench Pro. Launch timing suggests intense competition with Anthropic's Claude Opus 4.6 release. |
 | 20260205-cursor-self-driving-codebases | 2026-02-05 | Cursor | Cursor Announces Self-Driving Codebases Research Preview | https://www.cursor.com/blog/self-driving-codebases | Cursor releases preview of multi-agent research harness that can orchestrate thousands of agents working together autonomously. The system ran continuously for one week making the vast majority of commits to a web browser project without human intervention. |
 | 20260205-openai-frontier-platform | 2026-02-05 | OpenAI | OpenAI Launches Frontier Enterprise AI Agent Platform | https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/ | OpenAI announces Frontier, an end-to-end platform for enterprises to build and manage AI agents. The open platform allows management of agents built outside OpenAI, with customers including HP, Oracle, State Farm, and Uber. |
 | 20260205-fundamental-255m-series-a | 2026-02-05 | Fundamental | Fundamental Raises $255M Series A for Big Data Platform | https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data/ | Two Stanford students launch Fundamental with a massive $255M Series A funding round, introducing a new approach to big data infrastructure for AI applications. |
