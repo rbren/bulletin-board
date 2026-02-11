@@ -1,19 +1,11 @@
 ---
-cost: 3.2594
+cost: 3.5552
 title: concerts
-updated_at: 2026-02-10T12:00:00Z
+updated_at: 2026-02-11T12:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260210-lilypad-point01 | Feb 10, 2026 7:00 PM | Point 01 Percent | The Lilypad | Various | $15 admission / 7pm doors / 7:30 start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/2/10/point01percent) |
-| 20260210-sinclair-10ft-ganja | Feb 10, 2026 7:00 PM | 10 Ft. Ganja Plant presents Unified with Jamaica ⭐ | The Sinclair | Reggae/Experimental | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1273503) |
-| 20260210-middle-east-spanghew | Feb 10, 2026 7:00 PM | Spanghew / The Forest Forgets / Corsica ⭐ | Middle East - Upstairs | Experimental/Indie | 18+ / 7pm doors | [Details](https://www.ticketweb.com/event/spanghew-the-forest-forgets-corsica-middle-east-upstairs-tickets/14122694) |
-| 20260210-bso-budapest | Feb 10, 2026 7:30 PM | Budapest Festival Orchestra | Symphony Hall (BSO) | Classical | Guest orchestra performance | [Details](https://www.bso.org/events/budapest-festival-orchestra) |
-| 20260210-lilypad-amphitrio | Feb 10, 2026 10:30 PM | Amphitrio - US Tour | The Lilypad | Various | $15 admission / 10:30 doors / 11pm start / standing | [Details](https://www.lilypadinman.com/home/2026/amphitrio) |
-| 20260211-lilypad-yoga | Feb 11, 2026 10:00 AM | Hatha Yoga | The Lilypad | Yoga | $10 - $20 sliding scale / all levels / every Wednesday | [Details](https://www.lilypadinman.com/home/yogawednesday-lhkjx-r3556-ean76-3ry3f-mzy22-f3xbh-8xlzb-g9f9f-6spf6-pwr78-6t2kt-p3nhg-yn99e-jczgk-9xgc2-y4jxy-nzj9y) |
-| 20260211-sinclair-whitney-hanson | Feb 11, 2026 7:00 PM | Whitney Hanson | The Sinclair | Indie/Poetry | Words Never Die Tour 2026. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1182021) |
-| 20260211-middle-east-militia | Feb 11, 2026 7:00 PM | Militia Rashad / Eat Crepes / AdLo | Middle East - Upstairs | Hip-Hop/Indie | 18+ / 7pm doors | [Details](https://www.ticketweb.com/event/militia-rashad-eat-crepes-adlo-middle-east-upstairs-tickets/14127794) |
 | 20260211-lilypad-gill-aharon | Feb 11, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | Experimental jazz performance. $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-4l2jm-s2bbk-zcskn-78epn-xlbl7-cngcg-npstz-hn6sj-dn6dt-bs8m9-z46ds-gmmnf-j3zwb-l2cnz) |
 | 20260211-lilypad-variety-show | Feb 11, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Various | Regular weekly variety show. $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/) |
 | 20260212-sinclair-agriculture | Feb 12, 2026 7:00 PM | Agriculture ⭐ | The Sinclair | Experimental Metal | The Spiritual Sound Tour with Knoll, Glacier. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165145) |
@@ -25,18 +17,18 @@ updated_at: 2026-02-10T12:00:00Z
 | 20260213-lilypad-otis-shanty | Feb 13, 2026 7:30 PM | Otis Shanty ⭐ | The Lilypad | Indie/Rock | Special performance. $18 admission / 7:30 doors / 8pm start / standing | [Details](https://www.lilypadinman.com/home/2026/otis-shanty) |
 | 20260213-bpo-mozart | Feb 13, 2026 8:00 PM | Boston Philharmonic Orchestra | Symphony Hall (BSO) | Classical | Mozart & Bruckner with Kristian Bezuidenhout | [Details](https://www.bso.org/events/bpo-mozart-bruckner-2026) |
 | 20260213-lilypad-luli-moon | Feb 13, 2026 10:00 PM | Luli Moon / Liv Pamp / giAnna | The Lilypad | Alternative/Pop/Indie | $10 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/luli-moon-liv-pamp-gianna) |
-| 20260214-lilypad-yoga-music | Feb 14, 2026 10:00 AM | Hatha Yoga w/ Live Music | The Lilypad | Yoga/Music | Special Valentine's Day yoga with live music | [Details](https://www.lilypadinman.com/) |
+| 20260214-lilypad-yoga-music | Feb 14, 2026 12:00 PM | Hatha Yoga w/ Live Music | The Lilypad | Yoga/Music | Special Valentine's Day yoga with live music. $20-25 at door / $18 advance | [Details](https://www.lilypadinman.com/home/livemusichatha-w5x5w-x6nfj-akrz8-5z2rc-cxk52-adef2-6rmez-pz8rg-ltykr-nz652-e3l7x-k9ra7-j9536-new7n-4mr52) |
 | 20260214-sinclair-fruitstand | Feb 14, 2026 7:00 PM | Fruitstand presents Hearted Rivalry | The Sinclair | Indie | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1303438) |
 | 20260214-lilypad-valentines | Feb 14, 2026 7:30 PM | Valentine's Party ⭐ | The Lilypad | Indie Rock/Folk | Noah Britton, Delons, Rattlord, Yes,chef! $10 / 7:30 doors / 8pm start / standing | [Details](https://www.lilypadinman.com/home/2026/valentinesparty) |
 | 20260214-bso-salonen-3 | Feb 14, 2026 8:00 PM | Esa-Pekka Salonen conducts Bruckner ⭐ | Symphony Hall (BSO) | Contemporary Classical | Finnish conductor Esa-Pekka Salonen | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
+| 20260215-lilypad-charlie-kohlhase | Feb 15, 2026 6:00 PM | Charlie Kohlhase's Explorers Club | The Lilypad | Jazz | $15 / 6pm doors / 6:30pm start / seated | [Details](https://www.lilypadinman.com/home/2026/charlie-kohlhases-expolorers-club-2546p) |
+| 20260215-lilypad-joe-hunt | Feb 15, 2026 8:00 PM | Joe Hunt Group | The Lilypad | Jazz | $15 Cover @ the Door / Start 8:30pm / Doors 8pm / Seated Show | [Details](https://www.lilypadinman.com/home/27pn34br4k23m36-4cf6n-kktjr-fp3bj-6xdnn-f4nfw-7lc6g-fm4xn-bga4p-548wk) |
+| 20260215-lilypad-zach-sorkin | Feb 15, 2026 10:00 PM | Zach Sorkin Quintet + Joaquin Valdebenito "A Call For Resonance" | The Lilypad | Jazz/Experimental | $15 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/2/15/zach-sorkin-joaquin-valdebenito) |
 | 20260217-sinclair-szn4 | Feb 17, 2026 7:00 PM | SZN4 | The Sinclair | Indie | NEXT STOP: THE TOUR with Kuper. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1181966) |
-| 20260217-lilypad-moontides | Feb 17, 2026 8:00 PM | Moontides EP Release Show ⭐ | The Lilypad | Indie | EP release show | [Details](https://do617.com/events/2026/2/17/moontides-ep-release-show-tickets) |
 | 20260218-lilypad-variety-show | Feb 18, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Various | Regular weekly variety show | [Details](https://www.lilypadinman.com/) |
 | 20260219-sinclair-langhorne-slim | Feb 19, 2026 7:00 PM | Langhorne Slim | The Sinclair | Indie Folk | The Dreamin' Kind Tour with Laney Jones and the Spirits. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1218490) |
-| 20260220-paradise-beach-fly | Feb 20, 2026 7:00 PM | Beach Fly | Paradise Rock Club | Indie Rock | With Twin Fin | [Details](https://www.shazam.com/event/beach-fly-paradise-rock-club) |
 | 20260220-sinclair-crush-dmb | Feb 20, 2026 7:00 PM | Crush: A Dave Matthews Band Tribute | The Sinclair | Tribute/Rock | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1216494) |
 | 20260221-sinclair-say-she-she | Feb 21, 2026 7:00 PM | Say She She | The Sinclair | Soul/Funk | 88.9 WERS presents Cut & Rewind Tour with Katzù Oso | [Details](https://www.sinclaircambridge.com/events/detail/1158525) |
-| 20260221-roadrunner-ole60 | Feb 21, 2026 8:00 PM | Ole 60 | Roadrunner | Country/Rock | Smokestack Town Tour. All ages | [Details](https://www.axs.com/events/1240786/ole-60-tickets) |
 | 20260221-bmop-mono-e-mono | Feb 21, 2026 8:00 PM | Boston Modern Orchestra Project: MONO E MONO ⭐ | Jordan Hall | Contemporary Classical | Three monodramas: Bolcom's Medusa, Perera's The White Whale, Floyd's Flower and Hawk | [Details](https://bmop.org/performances/mono-e-mono-e-mono/) |
 | 20260222-bso-conservatory | Feb 22, 2026 3:00 PM | Boston Conservatory: Crossing the Threshold | Symphony Hall (BSO) | Contemporary Classical | Boston Conservatory Orchestra performance | [Details](https://www.bso.org/events/boston-conservatory-crossing-the-threshold) |
 | 20260225-lilypad-variety-show | Feb 25, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Various | Regular weekly variety show | [Details](https://www.lilypadinman.com/) |
@@ -45,11 +37,8 @@ updated_at: 2026-02-10T12:00:00Z
 | 20260227-sinclair-earlybirds-2 | Feb 27, 2026 7:00 PM | Earlybirds Club | The Sinclair | Indie | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1147894) |
 | 20260227-lilypad-moviola | Feb 27, 2026 7:30 PM | Moviola / Sleepyhead / Thalia Zedek ⭐ | The Lilypad | Indie Rock/Experimental | Three indie lifer bands. $15 / 7pm doors / 7:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/2/27/moviola-sleepyhead-thalia-zedek) |
 | 20260227-bpyo-mahler | Feb 27, 2026 8:00 PM | Boston Philharmonic Youth Orchestra | Symphony Hall (BSO) | Classical | Debussy & Mahler program | [Details](https://www.bso.org/events/bpyo-debussy-mahler-2026) |
-| 20260227-lilypad-wasiafest | Feb 27, 2026 10:30 PM | WasiaFest | The Lilypad | Indie/AAPI | Cultural concert celebrating mixed Asian musicians. $15 / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/wasiafest-featuring-mehlani-amber-alex-catherine-claire) |
-| 20260228-paradise-rock-playhouse | Feb 28, 2026 11:00 AM | The Rock and Roll Playhouse | Paradise Rock Club | Family/Indie | Family-friendly rock show | [Details](https://www.shazam.com/event/rock-and-roll-playhouse-paradise-rock-club) |
 | 20260228-sinclair-ratboys | Feb 28, 2026 7:00 PM | Ratboys ⭐ | The Sinclair | Indie Rock | When the Sun Explodes Tour 2026 with Florry. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1143656) |
 | 20260228-bso-ades-3 | Feb 28, 2026 8:00 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
-| 20260228-middle-east-peggy | Feb 28, 2026 8:00 PM | Peggy | Middle East | Indie | Live performance | [Details](https://www.shazam.com/event/peggy-middle-east) |
 | 20260301-bso-chicago | Mar 1, 2026 5:00 PM | Chicago Symphony Orchestra | Symphony Hall (BSO) | Classical | Guest orchestra performance | [Details](https://www.bso.org/events/vivo-chicago-symphony-orchestra) |
 | 20260301-sinclair-briscoe | Mar 1, 2026 7:00 PM | Briscoe | The Sinclair | Indie | With Jack Blocker. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1174873) |
 | 20260303-sinclair-spiritual-cramp | Mar 3, 2026 6:30 PM | Spiritual Cramp ⭐ | The Sinclair | Experimental/Punk | With Radioactivity, Restraining Order. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1094958) |
