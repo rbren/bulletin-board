@@ -1,23 +1,25 @@
 ---
-cost: 3.5552
+cost: 2.3427
 title: concerts
-updated_at: 2026-02-11T12:00:00Z
+updated_at: 2026-02-12T00:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260211-lilypad-gill-aharon | Feb 11, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | Experimental jazz performance. $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-4l2jm-s2bbk-zcskn-78epn-xlbl7-cngcg-npstz-hn6sj-dn6dt-bs8m9-z46ds-gmmnf-j3zwb-l2cnz) |
-| 20260211-lilypad-variety-show | Feb 11, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Various | Regular weekly variety show. $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/) |
+| 20260212-sonia-victor-jones | Feb 12, 2026 6:30 PM | Victor Jones: The Construct Tour 2026 | Sonia | Electronic/Experimental | 18+ / 6:30pm show | [Details](https://www.ticketweb.com/event/victor-jones-the-construct-tour-sonia-tickets/14079394) |
 | 20260212-sinclair-agriculture | Feb 12, 2026 7:00 PM | Agriculture ⭐ | The Sinclair | Experimental Metal | The Spiritual Sound Tour with Knoll, Glacier. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165145) |
 | 20260212-middle-east-glen | Feb 12, 2026 7:00 PM | Glen David Andrews | Middle East - Upstairs | Jazz/Funk | New Orleans brass band. 18+ / 7pm doors | [Details](https://www.ticketweb.com/event/glen-david-andrews-middle-east-upstairs-tickets/14010354) |
 | 20260212-lilypad-anklebiters | Feb 12, 2026 7:30 PM | anklebiters / flutterer / Raccoon Road / Secondaries ⭐ | The Lilypad | Shoegaze/Alternative | Four Boston shoegaze/alternative bands. $15 admission / 7pm doors / 7:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/anklebiters-flutterer-raccoon-road-secondaries) |
 | 20260212-bso-salonen | Feb 12, 2026 7:30 PM | Esa-Pekka Salonen conducts Bruckner ⭐ | Symphony Hall (BSO) | Contemporary Classical | Finnish conductor Esa-Pekka Salonen | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
 | 20260213-bso-salonen-2 | Feb 13, 2026 1:30 PM | Esa-Pekka Salonen conducts Bruckner ⭐ | Symphony Hall (BSO) | Contemporary Classical | Finnish conductor Esa-Pekka Salonen | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
+| 20260213-sonia-nearest-neighbor | Feb 13, 2026 7:00 PM | Nearest Neighbor, Hill House, Tailwind | Sonia | Indie Rock | 18+ / 7pm show | [Details](https://www.ticketweb.com/event/nearest-neighbor-hill-house-tailwind-sonia-tickets/14013064) |
 | 20260213-sinclair-earlybirds | Feb 13, 2026 7:00 PM | Earlybirds Club | The Sinclair | Indie | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1240952) |
 | 20260213-lilypad-otis-shanty | Feb 13, 2026 7:30 PM | Otis Shanty ⭐ | The Lilypad | Indie/Rock | Special performance. $18 admission / 7:30 doors / 8pm start / standing | [Details](https://www.lilypadinman.com/home/2026/otis-shanty) |
+| 20260213-middle-east-music-farm | Feb 13, 2026 8:00 PM | Music Farm, Photoshoot, Hesh Mesh | Middle East - Upstairs | Indie/Alternative | 18+ / 8pm show | [Details](https://www.ticketweb.com/event/-music-farm-photoshoot-hesh-middle-east-upstairs-tickets/14707013) |
 | 20260213-bpo-mozart | Feb 13, 2026 8:00 PM | Boston Philharmonic Orchestra | Symphony Hall (BSO) | Classical | Mozart & Bruckner with Kristian Bezuidenhout | [Details](https://www.bso.org/events/bpo-mozart-bruckner-2026) |
 | 20260213-lilypad-luli-moon | Feb 13, 2026 10:00 PM | Luli Moon / Liv Pamp / giAnna | The Lilypad | Alternative/Pop/Indie | $10 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/luli-moon-liv-pamp-gianna) |
 | 20260214-lilypad-yoga-music | Feb 14, 2026 12:00 PM | Hatha Yoga w/ Live Music | The Lilypad | Yoga/Music | Special Valentine's Day yoga with live music. $20-25 at door / $18 advance | [Details](https://www.lilypadinman.com/home/livemusichatha-w5x5w-x6nfj-akrz8-5z2rc-cxk52-adef2-6rmez-pz8rg-ltykr-nz652-e3l7x-k9ra7-j9536-new7n-4mr52) |
+| 20260214-lilypad-plant-swap | Feb 14, 2026 2:00 PM | Valentine's Day Plant Swap & Sale | The Lilypad | Community Event | 2-5pm / free entry with drink purchase | [Details](https://www.lilypadinman.com/home/2026/2/14/valentines-day-plant-swap-and-sale) |
 | 20260214-sinclair-fruitstand | Feb 14, 2026 7:00 PM | Fruitstand presents Hearted Rivalry | The Sinclair | Indie | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1303438) |
 | 20260214-lilypad-valentines | Feb 14, 2026 7:30 PM | Valentine's Party ⭐ | The Lilypad | Indie Rock/Folk | Noah Britton, Delons, Rattlord, Yes,chef! $10 / 7:30 doors / 8pm start / standing | [Details](https://www.lilypadinman.com/home/2026/valentinesparty) |
 | 20260214-bso-salonen-3 | Feb 14, 2026 8:00 PM | Esa-Pekka Salonen conducts Bruckner ⭐ | Symphony Hall (BSO) | Contemporary Classical | Finnish conductor Esa-Pekka Salonen | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
@@ -27,10 +29,12 @@ updated_at: 2026-02-11T12:00:00Z
 | 20260217-sinclair-szn4 | Feb 17, 2026 7:00 PM | SZN4 | The Sinclair | Indie | NEXT STOP: THE TOUR with Kuper. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1181966) |
 | 20260218-lilypad-variety-show | Feb 18, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Various | Regular weekly variety show | [Details](https://www.lilypadinman.com/) |
 | 20260219-sinclair-langhorne-slim | Feb 19, 2026 7:00 PM | Langhorne Slim | The Sinclair | Indie Folk | The Dreamin' Kind Tour with Laney Jones and the Spirits. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1218490) |
+| 20260220-bso-community-chamber | Feb 20, 2026 1:30 PM | Community Chamber Concert | Symphony Hall (BSO) | Classical/Chamber | Free community chamber music performance | [Details](https://www.bso.org/events/feb-20-community-chamber) |
 | 20260220-sinclair-crush-dmb | Feb 20, 2026 7:00 PM | Crush: A Dave Matthews Band Tribute | The Sinclair | Tribute/Rock | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1216494) |
 | 20260221-sinclair-say-she-she | Feb 21, 2026 7:00 PM | Say She She | The Sinclair | Soul/Funk | 88.9 WERS presents Cut & Rewind Tour with Katzù Oso | [Details](https://www.sinclaircambridge.com/events/detail/1158525) |
 | 20260221-bmop-mono-e-mono | Feb 21, 2026 8:00 PM | Boston Modern Orchestra Project: MONO E MONO ⭐ | Jordan Hall | Contemporary Classical | Three monodramas: Bolcom's Medusa, Perera's The White Whale, Floyd's Flower and Hawk | [Details](https://bmop.org/performances/mono-e-mono-e-mono/) |
 | 20260222-bso-conservatory | Feb 22, 2026 3:00 PM | Boston Conservatory: Crossing the Threshold | Symphony Hall (BSO) | Contemporary Classical | Boston Conservatory Orchestra performance | [Details](https://www.bso.org/events/boston-conservatory-crossing-the-threshold) |
+| 20260222-bso-tli-chamber | Feb 22, 2026 3:00 PM | TLI Chamber Concert | Linde Center (BSO) | Classical/Chamber | Chamber music performance at the Linde Center | [Details](https://www.bso.org/events/feb-22-tli-chamber-concert) |
 | 20260225-lilypad-variety-show | Feb 25, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Various | Regular weekly variety show | [Details](https://www.lilypadinman.com/) |
 | 20260226-bso-ades | Feb 26, 2026 7:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting, featuring Augustin Hadelich performing Adès' violin concerto "Concentric Paths" | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260227-bso-ades-2 | Feb 27, 2026 1:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
@@ -43,5 +47,7 @@ updated_at: 2026-02-11T12:00:00Z
 | 20260301-sinclair-briscoe | Mar 1, 2026 7:00 PM | Briscoe | The Sinclair | Indie | With Jack Blocker. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1174873) |
 | 20260303-sinclair-spiritual-cramp | Mar 3, 2026 6:30 PM | Spiritual Cramp ⭐ | The Sinclair | Experimental/Punk | With Radioactivity, Restraining Order. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1094958) |
 | 20260305-sinclair-nailed-shut | Mar 5, 2026 6:00 PM | Nailed Shut MA | The Sinclair | Punk/Metal | With Slamwich, Frog Mallet, Edict. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1286623) |
+| 20260305-bso-blomstedt | Mar 5, 2026 7:30 PM | Herbert Blomstedt conducts Brahms | Symphony Hall (BSO) | Classical | Legendary conductor Herbert Blomstedt | [Details](https://www.bso.org/events/mar-5-7-brahms) |
+| 20260306-sinclair-greyboy | Mar 6, 2026 7:00 PM | The Greyboy Allstars | The Sinclair | Jazz/Funk/Experimental | Funk-jazz fusion collective. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165635) |
 
 *Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability.*
