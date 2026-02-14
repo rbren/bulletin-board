@@ -1,25 +1,16 @@
 ---
-cost: 2.8552
+cost: 2.5759
 title: concerts
-updated_at: 2026-02-13T00:00:00Z
+updated_at: 2026-02-14T00:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260213-bso-salonen-2 | Feb 13, 2026 1:30 PM | Esa-Pekka Salonen conducts Bruckner ⭐ | Symphony Hall (BSO) | Contemporary Classical | Finnish conductor Esa-Pekka Salonen | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
-| 20260213-sonia-nearest-neighbor | Feb 13, 2026 7:00 PM | Nearest Neighbor, Hill House, Tailwind | Sonia | Indie Rock | 18+ / 7pm show | [Details](https://www.ticketweb.com/event/nearest-neighbor-hill-house-tailwind-sonia-tickets/14013064) |
-| 20260213-sinclair-earlybirds | Feb 13, 2026 7:00 PM | Earlybirds Club | The Sinclair | Indie | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1240952) |
-| 20260213-lilypad-otis-shanty | Feb 13, 2026 7:30 PM | Otis Shanty ⭐ | The Lilypad | Indie/Rock | Special performance. $18 admission / 7:30 doors / 8pm start / standing | [Details](https://www.lilypadinman.com/home/2026/otis-shanty) |
-| 20260213-middle-east-music-farm | Feb 13, 2026 8:00 PM | Music Farm, Photoshoot, Hesh Mesh | Middle East - Upstairs | Indie/Alternative | 18+ / 8pm show | [Details](https://www.ticketweb.com/event/-music-farm-photoshoot-hesh-middle-east-upstairs-tickets/14707013) |
-| 20260213-bpo-mozart | Feb 13, 2026 8:00 PM | Boston Philharmonic Orchestra | Symphony Hall (BSO) | Classical | Mozart & Bruckner with Kristian Bezuidenhout | [Details](https://www.bso.org/events/bpo-mozart-bruckner-2026) |
-| 20260213-lilypad-luli-moon | Feb 13, 2026 10:00 PM | Luli Moon / Liv Pamp / giAnna | The Lilypad | Alternative/Pop/Indie | $10 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/luli-moon-liv-pamp-gianna) |
-| 20260214-lilypad-yoga-music | Feb 14, 2026 12:00 PM | Hatha Yoga w/ Live Music | The Lilypad | Yoga/Music | Special Valentine's Day yoga with live music. $20-25 at door / $18 advance | [Details](https://www.lilypadinman.com/home/livemusichatha-w5x5w-x6nfj-akrz8-5z2rc-cxk52-adef2-6rmez-pz8rg-ltykr-nz652-e3l7x-k9ra7-j9536-new7n-4mr52) |
-| 20260214-lilypad-plant-swap | Feb 14, 2026 2:00 PM | Valentine's Day Plant Swap & Sale | The Lilypad | Community Event | 2-5pm / free entry with drink purchase | [Details](https://www.lilypadinman.com/home/2026/2/14/valentines-day-plant-swap-and-sale) |
-| 20260214-middle-east-galaxy-cake | Feb 14, 2026 7:00 PM | Galaxy Cake, American Ocelot, Happy Little Clouds, Girl With A Hawk | Middle East - Upstairs | Indie/Alternative | Valentine's Day show. 18+ | [Details](https://www.mideastoffers.com/) |
+| 20260214-middle-east-galaxy-cake | Feb 14, 2026 7:00 PM | Galaxy Cake, American Ocelot, Happy Little Clouds, Girl With A Hawk | Middle East - Upstairs | Indie/Alternative | Valentine's Day show. 18+ | [Details](https://www.ticketweb.com/event/galaxy-cake-american-ocelot-happy-middle-east-upstairs-tickets/14085714) |
 | 20260214-sinclair-fruitstand | Feb 14, 2026 7:00 PM | Fruitstand presents Hearted Rivalry | The Sinclair | Indie | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1303438) |
 | 20260214-lilypad-valentines | Feb 14, 2026 7:30 PM | Valentine's Party ⭐ | The Lilypad | Indie Rock/Folk | Noah Britton, Delons, Rattlord, Yes,chef! $10 / 7:30 doors / 8pm start / standing | [Details](https://www.lilypadinman.com/home/2026/valentinesparty) |
-| 20260214-bso-salonen-3 | Feb 14, 2026 8:00 PM | Esa-Pekka Salonen conducts Bruckner ⭐ | Symphony Hall (BSO) | Contemporary Classical | Finnish conductor Esa-Pekka Salonen | [Details](https://www.bso.org/events/feb-12-14-salonen-bruckner) |
 | 20260215-lilypad-charlie-kohlhase | Feb 15, 2026 6:00 PM | Charlie Kohlhase's Explorers Club | The Lilypad | Jazz | $15 / 6pm doors / 6:30pm start / seated | [Details](https://www.lilypadinman.com/home/2026/charlie-kohlhases-expolorers-club-2546p) |
+| 20260215-black-heart-procession | Feb 15, 2026 6:30 PM | The Black Heart Procession, Chris Brokaw ⭐ | Sonia | Indie/Experimental | 18+ / 6:30pm show | [Details](https://www.ticketweb.com/event/the-black-heart-procession-chris-sonia-tickets/13985254) |
 | 20260215-lilypad-joe-hunt | Feb 15, 2026 8:00 PM | Joe Hunt Group | The Lilypad | Jazz | $15 Cover @ the Door / Start 8:30pm / Doors 8pm / Seated Show | [Details](https://www.lilypadinman.com/home/27pn34br4k23m36-4cf6n-kktjr-fp3bj-6xdnn-f4nfw-7lc6g-fm4xn-bga4p-548wk) |
 | 20260215-lilypad-zach-sorkin | Feb 15, 2026 10:00 PM | Zach Sorkin Quintet + Joaquin Valdebenito "A Call For Resonance" ⭐ | The Lilypad | Jazz/Experimental | $15 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/2/15/zach-sorkin-joaquin-valdebenito) |
 | 20260216-lilypad-elan-mehler | Feb 16, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/2-elan-mehler-trio) |
@@ -27,7 +18,7 @@ updated_at: 2026-02-13T00:00:00Z
 | 20260216-lilypad-the-fringe | Feb 16, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb) |
 | 20260217-sinclair-szn4 | Feb 17, 2026 7:00 PM | SZN4 | The Sinclair | Indie | NEXT STOP: THE TOUR with Kuper. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1181966) |
 | 20260217-lilypad-moontides | Feb 17, 2026 7:30 PM | Moontides EP Release Show | The Lilypad | Classical/Folk | $5 admission / 7:30 doors / 8pm show / seated | [Details](https://www.lilypadinman.com/home/2026/2/17/moontides-ep-release-show) |
-| 20260218-lilypad-jesse-gallagher | Feb 18, 2026 7:30 PM | Jesse Gallagher + Steve Fell ⭐ | The Lilypad | Experimental/Jazz | Special experimental performance | [Details](https://www.lilypadinman.com/) |
+| 20260218-lilypad-jesse-gallagher | Feb 18, 2026 7:00 PM | Jesse Gallagher + Steve Fell ⭐ | The Lilypad | Pop/Singer-songwriter/Electronic | Special experimental performance. $10 admission / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/jesse-gallagher-steve-fell-l4sd9-l9hcp) |
 | 20260219-sinclair-langhorne-slim | Feb 19, 2026 7:00 PM | Langhorne Slim | The Sinclair | Indie Folk | The Dreamin' Kind Tour with Laney Jones and the Spirits. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1218490) |
 | 20260220-bso-community-chamber | Feb 20, 2026 1:30 PM | Community Chamber Concert | Symphony Hall (BSO) | Classical/Chamber | Free community chamber music performance | [Details](https://www.bso.org/events/feb-20-community-chamber) |
 | 20260220-sinclair-crush-dmb | Feb 20, 2026 7:00 PM | Crush: A Dave Matthews Band Tribute | The Sinclair | Tribute/Rock | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1216494) |
