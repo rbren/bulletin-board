@@ -1,11 +1,41 @@
 ---
-cost: 2.1496
+cost: 1.5599
 title: openhands
-updated_at: 2026-02-17T00:00:00Z
+updated_at: 2026-02-18T00:00:00Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
+| 20260218-youtube-devstral-local | 2026-02-18 | YouTube | Video | OpenHands + Devstral = A Fully Local Coding Agent | N/A | https://www.youtube.com/watch?v=oV9tAkS2Xic |
+| 20260218-youtube-ai-engineer | 2026-02-18 | YouTube | Video | OpenHands: AI Software Engineer - Generate Complex Apps End-to-End! (Opensource) | N/A | https://www.youtube.com/watch?v=Q3DyeIV96tY |
+| 20260218-youtube-daytona-demo | 2026-02-18 | YouTube | Video | This AI Agent Built an App While I Watched... (Open Hands + Daytona Demo) | N/A | https://www.youtube.com/watch?v=DPtOIljNmOg |
+| 20260218-youtube-tool-review | 2026-02-18 | YouTube | Video | Open Hands Tool Review | N/A | https://www.youtube.com/watch?v=VC5zmmLk7B4 |
+| 20260218-youtube-build-prompts | 2026-02-18 | YouTube | Video | Build Apps With Prompts! - OpenHands | N/A | https://www.youtube.com/watch?v=WDP2S4MOXPY |
+| 20260217-medium-private-devstral | 2026-02-17 | Medium | Blog | Private AI Coding Agents with OpenHands + Devstral - Boost productivity, keep code safe | N/A | https://medium.com/@denis.angilella/private-ai-coding-agents-with-openhands-devstral-boost-productivity-keep-code-safe-5a3b4667e056 |
+| 20260217-linkedin-build-locally | 2026-02-17 | LinkedIn | Post | Build your own AI Coding Agent Locally with OpenHands + GPT-OSS | N/A | https://www.linkedin.com/pulse/build-your-wwn-ai-coding-agent-locally-openhands-gpt-oss-clarifai-p3ake |
+| 20260217-medium-llm-future | 2026-02-17 | Medium | Blog | OpenHands: Large Language Models and the Future of Coding | N/A | https://medium.com/@psetlur/openhands-large-language-models-and-the-future-of-coding-167d77e30ded |
+| 20260217-medium-no-code | 2026-02-17 | Medium | Blog | OpenHands: Write code without writing a single line of code | N/A | https://medium.com/@venku.buragadda/openhands-write-code-without-writing-a-single-line-of-code-9f2fde3dfdae |
+| 20260217-medium-cli-terminal | 2026-02-17 | Medium | Blog | OpenHands CLI: AI coding assistant for developers in the terminal | N/A | https://medium.com/@rysysth-insights/openhands-cli-ai-coding-assistant-for-developers-in-the-terminal-aa164e5f8f8c |
+| 20260217-medium-exploring-agent | 2026-02-17 | Medium | Blog | Redefining Dev Workflows: Exploring OpenHands - An Open-Source AI Developer Agent | N/A | https://medium.com/@niarsdet/redefining-dev-workflows-exploring-openhands-an-open-source-ai-developer-agent-4d579c6e5f40 |
+| 20260217-medium-gke-deployment | 2026-02-17 | Medium | Blog | Serving the OpenHands LM Coding Model: A GKE and vLLM Deployment Guide | N/A | https://medium.com/google-cloud/serving-the-openhands-lm-coding-model-a-gke-and-vllm-deployment-guide-96ab7932586a |
+| 20260217-medium-real-experience | 2026-02-17 | Medium | Blog | Real-world experience with development using AI and OpenHands | N/A | https://medium.com/@mchechulin/real-world-experience-with-development-using-ai-and-openhands-61d267bc6cd2 |
+| 20260217-medium-ai-employee | 2026-02-17 | Medium | Blog | OpenHands — Your Own AI employee or yet another GPT wrapper? | N/A | https://medium.com/@liorstrugach/openhands-your-own-ai-employee-or-yet-another-gpt-wrapper-893e1507720f |
+| 20260217-reddit-codeact-release | 2026-02-17 | Reddit | Post | All Hands AI Open Sources OpenHands CodeAct 2.1: First to solve over 50% of real GitHub issues in SWE-Bench | N/A | https://www.reddit.com/r/machinelearningnews/comments/1gh90vw/all_hands_ai_open_sources_openhands_codeact_21_a/ |
+| 20260217-reddit-why-no-talk | 2026-02-17 | Reddit | Discussion | Why has no one been talking about Open Hands so far? | N/A | https://www.reddit.com/r/LocalLLaMA/comments/1ksfos8/why_has_no_one_been_talking_about_open_hands_so/ |
+| 20260217-reddit-anyone-use | 2026-02-17 | Reddit | Discussion | Does anyone use Openhands agent? | N/A | https://www.reddit.com/r/ChatGPTCoding/comments/1k9lnp0/does_anyone_use_openhands_agent/ |
+| 20260217-reddit-thoughts | 2026-02-17 | Reddit | Discussion | Your thoughts on OpenHands (formerly OpenDevin)? | N/A | https://www.reddit.com/r/ChatGPTCoding/comments/1icbrua/your_thoughts_on_openhands_formerly_opendevin/ |
+| 20260217-linkedin-sdk-announcement | 2026-02-17 | LinkedIn | Post | Introducing OpenHands Software Agent SDK: Simplify Repetitive Tasks | N/A | https://www.linkedin.com/posts/openhands-ai_what-do-these-tasks-have-in-common-fixing-activity-7392250297173098496-leG6 |
+| 20260217-linkedin-why-joined | 2026-02-17 | LinkedIn | Article | Why I joined OpenHands - #1 ranked OSS AI coding agent project with 64k+ GitHub stars | N/A | https://www.linkedin.com/pulse/why-i-joined-openhands-ben-solari-fnz9c |
+| 20260217-linkedin-autonomous-coder | 2026-02-17 | LinkedIn | Article | Exploring an Autonomous Coder Agent with OpenHands SDK | N/A | https://www.linkedin.com/pulse/exploring-autonomous-coder-agent-openhands-sdk-kubernetes-boiko-p5hzc |
+| 20260217-linkedin-api-usage | 2026-02-17 | LinkedIn | Post | Use OpenHands API for AI coding and maintenance tasks | N/A | https://www.linkedin.com/posts/all-hands-ai_want-to-programmatically-use-ai-agents-to-activity-7326307931698659328-kkcj |
+| 20260217-linkedin-mac-setup | 2026-02-17 | LinkedIn | Article | Getting Started with OpenHands Code Assistance on Mac | N/A | https://www.linkedin.com/pulse/getting-started-openhands-code-assistance-mac-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0-gmk5c |
+| 20260217-dev-to-ai-agents | 2026-02-17 | Dev.to | Blog | Developers Are Using These AI Agents to Build Software 10x Faster | N/A | https://dev.to/danbuilds/developers-are-using-these-ai-agents-to-build-software-10x-faster-4eh1 |
+| 20260217-dev-to-44-solutions | 2026-02-17 | Dev.to | Blog | My 44 Favorite Open-Source Solutions for AI Agent Developers | N/A | https://dev.to/paoloap/my-44-favorite-open-source-solutions-for-ai-agent-developers-100k |
+| 20260217-dev-to-9-tools | 2026-02-17 | Dev.to | Blog | 9 open-source AI coding tools that every developer should know | N/A | https://dev.to/composiodev/9-open-source-ai-coding-tools-that-every-developer-should-know-28l4 |
+| 20260217-dev-to-local-llm | 2026-02-17 | Dev.to | Blog | How to Run OpenHands with a Local LLM Using LM Studio | N/A | https://dev.to/udiko/how-to-run-openhands-with-a-local-llm-using-lm-studio-41j6 |
+| 20260217-substack-devops | 2026-02-17 | Substack | Blog | Introducing Openhands - DevOps Notes | N/A | https://substack.com/home/post/p-152684828 |
+| 20260217-madrona-investment | 2026-02-17 | Madrona | Article | Our Investment in OpenHands: Building the OS for Agentic Software Development - 60K+ stars | N/A | https://www.madrona.com/our-investment-in-openhands-building-the-os-for-agentic-software-development/ |
+| 20260217-oreate-github-report | 2026-02-17 | Oreate AI | Article | GitHub's Best Open Source Projects Report: Analysis of OpenHands low-code platform | N/A | https://www.oreateai.com/blog/githubs-best-open-source-projects-report-analysis-of-the-openhands-lowcode-platform-and-its-ecosystem-january-7-2025/300e9413a35cd56ba873885d006fd88d |
 | 20260214-amplifilabs-agentic-coding | 2026-02-14 | Amplifi Labs | Blog | OpenHands: The Open-Source Leap for Agentic AI Coding - Fullstack engineers can build on top of AI | N/A | https://www.amplifilabs.com/post/openhands-the-open-source-leap-for-agentic-ai-coding |
 | 20260213-linkedin-free-cloud | 2026-02-13 | LinkedIn | Post | Graham Neubig announces OpenHands Cloud basic tier is now FREE - Use with self-hosted LMs | 129 reactions, 2 comments | https://www.linkedin.com/posts/graham-neubig-10b41616b_big-news-we-made-the-basic-tier-of-the-openhands-activity-7391837003119620096-9I4M |
 | 20260212-youtube-openhands-index | 2026-02-12 | YouTube | Video | OpenHands Index Explained in Community Call plus AMD and Digital Ocean integrations | N/A | https://www.youtube.com/watch?v=NKPwFRu_CgA |
@@ -13,4 +43,3 @@ updated_at: 2026-02-17T00:00:00Z
 | 20260210-youtube-daytona-shorts | 2026-02-10 | YouTube | Short | OpenHands AI Agent Quick Start #aiagent #aicode #coding | 51 likes, 2,620 views | https://www.youtube.com/shorts/wgD3PfwXYi0 |
 | 20260209-marktechpost-confucius | 2026-02-09 | MarkTechPost | Article | Meta and Harvard's Confucius Code Agent compared to OpenHands - achieves 74.6% on SWE-Bench Verified vs OpenHands' 72.8% | N/A | https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ |
 | 20260209-clarifai-local-setup | 2026-02-09 | Clarifai | Blog | Run Your Own AI Coding Agent Locally with GPT-OSS and OpenHands - Complete setup guide | N/A | https://www.clarifai.com/blog/run-your-own-ai-coding-agent-locally-with-gpt-oss-openhands |
-| 20260217-search-limitations | 2026-02-17 | Note | Update | Extensive search conducted across social media (Twitter/X, Reddit, YouTube), tech news sites, AI blogs, and developer forums - most platforms restrict autonomous access via robots.txt. No new OpenHands mentions found since Feb 16 | N/A | N/A |
