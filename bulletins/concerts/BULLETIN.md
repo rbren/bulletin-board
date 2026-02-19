@@ -1,12 +1,11 @@
 ---
-cost: 1.9166
+cost: 1.7000
 title: concerts
-updated_at: 2026-02-18T00:00:00Z
+updated_at: 2026-02-19T00:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260218-lilypad-jesse-gallagher | Feb 18, 2026 7:00 PM | Jesse Gallagher + Steve Fell ⭐ | The Lilypad | Pop/Singer-songwriter/Electronic | $10 admission / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/jesse-gallagher-steve-fell-l4sd9-l9hcp) |
 | 20260219-sinclair-langhorne-slim | Feb 19, 2026 7:00 PM | Langhorne Slim | The Sinclair | Indie Folk | The Dreamin' Kind Tour with Laney Jones and the Spirits. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1218490) |
 | 20260219-lilypad-benefit-luce | Feb 19, 2026 7:00 PM | A Benefit for LUCE Hotline | The Lilypad | Various | $15 - $25 admission / 7pm doors / seated & standing | [Details](https://www.lilypadinman.com/home/2026/2/19/a-benefit-for-luce-hotline) |
 | 20260219-lilypad-kelvin-francis | Feb 19, 2026 10:30 PM | Kelvin Francis / Marianthi Olympia / Emilio Rodriguez ⭐ | The Lilypad | Indie/Pop/Rock/Soul | $10 advance / $13 at the door / 10:30 doors / 11pm start | [Details](https://www.lilypadinman.com/home/2026/2/19/kelvin-francis-marianthi-olympia-emilio-rodriguez) |
@@ -14,6 +13,7 @@ updated_at: 2026-02-18T00:00:00Z
 | 20260220-sinclair-crush-dmb | Feb 20, 2026 7:00 PM | Crush: A Dave Matthews Band Tribute | The Sinclair | Tribute/Rock | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1216494) |
 | 20260220-vivo-caroline-shaw | Feb 20, 2026 8:00 PM | Ringdown: Caroline Shaw & Danni Lee Parpan ⭐ | Vivo Performing Arts | Contemporary Classical/Electro-pop | Cinematic electro-pop duo featuring Pulitzer Prize winner Caroline Shaw | [Details](https://tickets.celebrityseries.org/4599/4686) |
 | 20260220-lilypad-tiny-indie-fest | Feb 20, 2026 10:00 PM | Tiny Indie Fest 2026 ⭐ | The Lilypad | Indie/Rock/Pop/Alternative | $10 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/tiny-indie-fest) |
+| 20260221-roadrunner-ole60 | Feb 21, 2026 | Ole 60 | Roadrunner | Country | Country music concert | [Details](https://www.jambase.com/venue/roadrunner) |
 | 20260221-sinclair-say-she-she | Feb 21, 2026 7:00 PM | Say She She | The Sinclair | Soul/Funk | 88.9 WERS presents Cut & Rewind Tour with Katzù Oso | [Details](https://www.sinclaircambridge.com/events/detail/1158525) |
 | 20260221-lilypad-tap-dance-jam | Feb 21, 2026 7:30 PM | "The Floor" Tap Dance Jam | The Lilypad | Dance/Performance | $5-10 suggested donation / 7:30 start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/the-floor-tap-dance-jam) |
 | 20260221-bmop-mono-e-mono | Feb 21, 2026 8:00 PM | Boston Modern Orchestra Project: MONO E MONO ⭐ | Jordan Hall | Contemporary Classical | Three monodramas: Bolcom's Medusa, Perera's The White Whale, Floyd's Flower and Hawk | [Details](https://bmop.org/performances/mono-e-mono-e-mono/) |
@@ -28,18 +28,20 @@ updated_at: 2026-02-18T00:00:00Z
 | 20260227-bpyo-mahler | Feb 27, 2026 8:00 PM | Boston Philharmonic Youth Orchestra | Symphony Hall (BSO) | Classical | Debussy & Mahler program | [Details](https://www.bso.org/events/bpyo-debussy-mahler-2026) |
 | 20260228-sinclair-ratboys | Feb 28, 2026 7:00 PM | Ratboys ⭐ | The Sinclair | Indie Rock | When the Sun Explodes Tour 2026 with Florry. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1143656) |
 | 20260228-bso-ades-3 | Feb 28, 2026 8:00 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
+| 20260228-lilypad-veronica-lewis | Feb 28, 2026 | Veronica Lewis | The Lilypad | Jazz/Soul | Jazz and soul performance | [Details](https://www.jambase.com/venue/the-lilypad) |
 | 20260301-bso-chicago | Mar 1, 2026 5:00 PM | Chicago Symphony Orchestra | Symphony Hall (BSO) | Classical | Guest orchestra performance | [Details](https://www.bso.org/events/vivo-chicago-symphony-orchestra) |
 | 20260301-sinclair-briscoe | Mar 1, 2026 7:00 PM | Briscoe | The Sinclair | Indie | With Jack Blocker. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1174873) |
 | 20260303-sinclair-spiritual-cramp | Mar 3, 2026 6:30 PM | Spiritual Cramp ⭐ | The Sinclair | Experimental/Punk | With Radioactivity, Restraining Order. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1094958) |
+| 20260304-roadrunner-cat-power | Mar 4, 2026 8:00 PM | Cat Power - The Greatest Tour ⭐ | Roadrunner | Indie Rock | 20th anniversary of the album performed in its entirety | [Details](https://roadrunnerboston.com/events/detail/) |
 | 20260305-sinclair-nailed-shut | Mar 5, 2026 6:00 PM | Nailed Shut MA | The Sinclair | Punk/Metal | With Slamwich, Frog Mallet, Edict. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1286623) |
 | 20260305-bso-blomstedt | Mar 5, 2026 7:30 PM | Herbert Blomstedt conducts Brahms | Symphony Hall (BSO) | Classical | Legendary conductor Herbert Blomstedt | [Details](https://www.bso.org/events/mar-5-7-brahms) |
 | 20260306-sinclair-greyboy | Mar 6, 2026 7:00 PM | The Greyboy Allstars ⭐ | The Sinclair | Jazz/Funk/Experimental | Funk-jazz fusion collective. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165635) |
 | 20260308-sinclair-slackers | Mar 8, 2026 6:30 PM | The Slackers | The Sinclair | Ska/Reggae | With The Attractors. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1263095) |
 | 20260309-bso-death-stranding | Mar 9, 2026 8:00 PM | Death Stranding in Concert | Symphony Hall (BSO) | Video Game Music | Video game soundtrack performed live | [Details](https://www.bso.org/events/death-stranding) |
 | 20260310-sinclair-whatmore | Mar 10, 2026 7:00 PM | Whatmore | The Sinclair | Indie | EASTCOAST W MY DOGS TOUR. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1308360) |
+| 20260315-gardner-borromeo | Mar 15, 2026 | Borromeo String Quartet | Isabella Stewart Gardner Museum | Classical | Program includes Schubert's "Death and the Maiden" quartet | [Details](https://www.gardnermuseum.org/announcing-isabella-stewart-gardner-museums-winterspring-2026-weekend-concert-series) |
 | 20260326-roadrunner-format | Mar 26, 2026 | The Format ⭐ | Roadrunner | Indie Rock | Indie rock reunion show | [Details](https://www.jambase.com/show/the-format-roadrunner-20260326) |
 | 20260328-nonevent-evicshen | Mar 28, 2026 | Evicshen, Cursed Image, Kelly Bray ⭐ | Boston City Hall | Experimental | Non-Event experimental music series | [Details](https://www.nonevent.org/concerts/2026-03-28-evicshen-cursed-image) |
+| 20260329-lilypad-david-haas | Mar 29, 2026 | The David Haas Group: A Coalition of the Willing | The Lilypad | Jazz/Experimental | Jazz and experimental music performance | [Details](https://www.lilypadinman.com/home/2026/3/29/the-david-haas-group-a-coalition-of-the-willing-mm6fs) |
 
-*Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability.*
-
-*Update: Found several concerts featuring Caroline Shaw, experimental artists, and indie rock bands. Roadrunner has limited listings available online but The Format show was confirmed.*
+*Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). LCD Soundsystem announced a Boston residency for Spring 2026 but specific dates/venue not yet confirmed. Check venue websites directly for additional concerts and ticket availability.*
