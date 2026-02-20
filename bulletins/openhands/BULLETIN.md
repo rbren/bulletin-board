@@ -1,11 +1,15 @@
 ---
-cost: 2.1052
+cost: 2.6065
 title: openhands
-updated_at: 2026-02-19T00:00:00Z
+updated_at: 2026-02-20T00:00:00Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
+| 20260220-emergentmind-perf-agent | 2026-02-20 | Emergent Mind | Article | OpenHands-Perf-Agent: Optimizing Performance Bugs - Performance-aware agentic software engineering | N/A | https://www.emergentmind.com/topics/openhands-perf-agent |
+| 20260220-bssw-coding-agents | 2026-02-20 | BSSW | Article | AI Coding Agents: What Works and What Doesn't - OpenHands mentioned as leading solution | N/A | https://bssw.io/items/ai-coding-agents-what-works-and-what-doesn-t |
+| 20260220-sider-ai-review | 2026-02-20 | Sider AI | Review | AI OpenHands Review: Can This Open-Source 'AI Developer' Really Ship Code? | N/A | https://sider.ai/blog/ai-tools/ai-openhands-review-can-this-open-source-ai-developer-really-ship-code |
+| 20260219-amd-local-ai | 2026-02-19 | AMD | Technical Article | Local AI for Developers: OpenHands + AMD Bring Coding Agents to Your Workstation | N/A | https://www.amd.com/en/developer/resources/technical-articles/2025/OpenHands.html |
 | 20260218-youtube-devstral-local | 2026-02-18 | YouTube | Video | OpenHands + Devstral = A Fully Local Coding Agent | N/A | https://www.youtube.com/watch?v=oV9tAkS2Xic |
 | 20260218-youtube-ai-engineer | 2026-02-18 | YouTube | Video | OpenHands: AI Software Engineer - Generate Complex Apps End-to-End! (Opensource) | N/A | https://www.youtube.com/watch?v=Q3DyeIV96tY |
 | 20260218-youtube-daytona-demo | 2026-02-18 | YouTube | Video | This AI Agent Built an App While I Watched... (Open Hands + Daytona Demo) | N/A | https://www.youtube.com/watch?v=DPtOIljNmOg |
@@ -38,5 +42,3 @@ updated_at: 2026-02-19T00:00:00Z
 | 20260217-oreate-github-report | 2026-02-17 | Oreate AI | Article | GitHub's Best Open Source Projects Report: Analysis of OpenHands low-code platform | N/A | https://www.oreateai.com/blog/githubs-best-open-source-projects-report-analysis-of-the-openhands-lowcode-platform-and-its-ecosystem-january-7-2025/300e9413a35cd56ba873885d006fd88d |
 | 20260214-amplifilabs-agentic-coding | 2026-02-14 | Amplifi Labs | Blog | OpenHands: The Open-Source Leap for Agentic AI Coding - Fullstack engineers can build on top of AI | N/A | https://www.amplifilabs.com/post/openhands-the-open-source-leap-for-agentic-ai-coding |
 | 20260213-linkedin-free-cloud | 2026-02-13 | LinkedIn | Post | Graham Neubig announces OpenHands Cloud basic tier is now FREE - Use with self-hosted LMs | 129 reactions, 2 comments | https://www.linkedin.com/posts/graham-neubig-10b41616b_big-news-we-made-the-basic-tier-of-the-openhands-activity-7391837003119620096-9I4M |
-| 20260212-youtube-openhands-index | 2026-02-12 | YouTube | Video | OpenHands Index Explained in Community Call plus AMD and Digital Ocean integrations | N/A | https://www.youtube.com/watch?v=NKPwFRu_CgA |
-| 20260219-search-note | 2026-02-19 | Note | Update | Unable to access social media platforms directly for new mentions - robots.txt restrictions on Twitter, Reddit, LinkedIn, YouTube | N/A | N/A |
