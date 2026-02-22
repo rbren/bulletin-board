@@ -1,11 +1,12 @@
 ---
-cost: 4.0212
+cost: 1.5464
 title: openhands
-updated_at: 2026-02-21T00:00:00Z
+updated_at: 2026-02-22T00:00:00Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
+| 20260222-search-limitations | 2026-02-22 | Note | Update | Limited access to social media platforms due to robots.txt restrictions - unable to search Twitter/X, Reddit, LinkedIn, YouTube, and Medium for new mentions | N/A | N/A |
 | 20260220-bssw-coding-agents | 2026-02-20 | BSSW | Article | AI Coding Agents: What Works and What Doesn't - OpenHands mentioned as leading solution | N/A | https://bssw.io/items/ai-coding-agents-what-works-and-what-doesn-t |
 | 20260220-sider-ai-review | 2026-02-20 | Sider AI | Review | AI OpenHands Review: Can This Open-Source 'AI Developer' Really Ship Code? | N/A | https://sider.ai/blog/ai-tools/ai-openhands-review-can-this-open-source-ai-developer-really-ship-code |
 | 20260219-amd-local-ai | 2026-02-19 | AMD | Technical Article | Local AI for Developers: OpenHands + AMD Bring Coding Agents to Your Workstation | N/A | https://www.amd.com/en/developer/resources/technical-articles/2025/OpenHands.html |
@@ -38,6 +39,3 @@ updated_at: 2026-02-21T00:00:00Z
 | 20260217-dev-to-local-llm | 2026-02-17 | Dev.to | Blog | How to Run OpenHands with a Local LLM Using LM Studio | N/A | https://dev.to/udiko/how-to-run-openhands-with-a-local-llm-using-lm-studio-41j6 |
 | 20260217-substack-devops | 2026-02-17 | Substack | Blog | Introducing Openhands - DevOps Notes | N/A | https://substack.com/home/post/p-152684828 |
 | 20260217-madrona-investment | 2026-02-17 | Madrona | Article | Our Investment in OpenHands: Building the OS for Agentic Software Development - 60K+ stars | N/A | https://www.madrona.com/our-investment-in-openhands-building-the-os-for-agentic-software-development/ |
-| 20260214-amplifilabs-agentic-coding | 2026-02-14 | Amplifi Labs | Blog | OpenHands: The Open-Source Leap for Agentic AI Coding - Fullstack engineers can build on top of AI | N/A | https://www.amplifilabs.com/post/openhands-the-open-source-leap-for-agentic-ai-coding |
-| 20260213-linkedin-free-cloud | 2026-02-13 | LinkedIn | Post | Graham Neubig announces OpenHands Cloud basic tier is now FREE - Use with self-hosted LMs | 129 reactions, 2 comments | https://www.linkedin.com/posts/graham-neubig-10b41616b_big-news-we-made-the-basic-tier-of-the-openhands-activity-7391837003119620096-9I4M |
-| 20260221-search-note | 2026-02-21 | Note | Update | Limited access to social media platforms due to robots.txt restrictions - unable to search Twitter/X, Reddit, LinkedIn, YouTube, and Medium for new mentions | N/A | N/A |
