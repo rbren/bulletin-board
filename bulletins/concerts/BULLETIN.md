@@ -1,21 +1,18 @@
 ---
-cost: 2.6338
+cost: 1.6371
 title: concerts
-updated_at: 2026-02-22T00:00:00Z
+updated_at: 2026-02-23T00:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260222-bso-conservatory | Feb 22, 2026 3:00 PM | Boston Conservatory: Crossing the Threshold | Symphony Hall (BSO) | Contemporary Classical | Boston Conservatory Orchestra performance | [Details](https://www.bso.org/events/boston-conservatory-crossing-the-threshold) |
-| 20260222-bso-tli-chamber | Feb 22, 2026 3:00 PM | TLI Chamber Concert | Linde Center (BSO) | Classical/Chamber | Chamber music performance at the Linde Center | [Details](https://www.bso.org/events/feb-22-tli-chamber-concert) |
-| 20260222-lilypad-baymele | Feb 22, 2026 3:30 PM | Baymele w/ Adah Hetko | The Lilypad | Klezmer/Folk | $20 cover / $15 students (NOTAFLOF) / 3:30pm doors | [Details](https://www.lilypadinman.com/home/2026/baymele-with-adah-hetko) |
-| 20260222-lilypad-grace-sofia | Feb 22, 2026 9:40 PM | The Right Path: Grace Lionato and Sofia Devitt ⭐ | The Lilypad | Alternative/Rock | $12 cover / 9:40 doors / 10pm start / standing | [Details](https://www.lilypadinman.com/home/2026/grace-lionato-and-sofia-devitt) |
 | 20260223-lilypad-elan-mehler | Feb 23, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-d5m) |
 | 20260223-lilypad-bergonzi | Feb 23, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/xcfste55a26cgz4-ay7g7-lsbds-d7cp4-bsg4s-6a8j8-2e5c6) |
 | 20260223-lilypad-fringe | Feb 23, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry) |
 | 20260224-lilypad-bruce-gertz | Feb 24, 2026 7:00 PM | Bruce Gertz Quintet | The Lilypad | Jazz | $15 / $10 students / 7pm doors / 7:30 start / seated | [Details](https://www.lilypadinman.com/home/bruce-gertz-quintetp-bxtpm) |
 | 20260224-lilypad-community-care | Feb 24, 2026 10:00 PM | Community Care fundraiser | The Lilypad | Various | $5-25 suggested donation / 10pm doors / standing | [Details](https://www.lilypadinman.com/home/2026/2/12/community-care-fundraiser) |
 | 20260225-lilypad-gill-aharon | Feb 25, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-4l2jm-s2bbk-zcskn-78epn-xlbl7-cngcg-npstz-hn6sj-dn6dt-bs8m9-z46ds-gmmnf-j3zwb-l2cnz-znt7t) |
+| 20260225-lilypad-variety-show | Feb 25, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf) |
 | 20260225-sinclair-barr-brothers | Feb 25, 2026 7:00 PM | The Barr Brothers ⭐ | The Sinclair | Indie Rock | With Land of Talk. 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/) |
 | 20260226-bso-ades | Feb 26, 2026 7:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting, featuring Augustin Hadelich performing Adès' violin concerto "Concentric Paths" | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260226-radius-seasons | Feb 26, 2026 8:00 PM | Radius Ensemble: SEASONS ⭐ | Pickman Hall at Longy | Contemporary Classical | Features Caroline Shaw's "Winter Carol" and world premiere of Michael Gandolfi's "Autumn Music" | [Details](https://radiusensemble.org/products/seasons) |
@@ -25,6 +22,7 @@ updated_at: 2026-02-22T00:00:00Z
 | 20260227-lilypad-moviola | Feb 27, 2026 7:00 PM | Moviola / Sleepyhead / Thalia Zedek ⭐ | The Lilypad | Indie Rock/Experimental | Three indie lifer bands. $15 / 7pm doors / 7:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/2/27/moviola-sleepyhead-thalia-zedek) |
 | 20260227-bpyo-mahler | Feb 27, 2026 8:00 PM | Boston Philharmonic Youth Orchestra | Symphony Hall (BSO) | Classical | Debussy & Mahler program | [Details](https://www.bso.org/events/bpyo-debussy-mahler-2026) |
 | 20260227-lilypad-wasiafest | Feb 27, 2026 10:00 PM | WasiaFest | The Lilypad | Pop/Rock | $15 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/wasiafest-featuring-mehlani-amber-alex-catherine-claire) |
+| 20260228-lilypad-yoga-music | Feb 28, 2026 12:00 PM | Hatha Yoga w/ Live Music ⭐ | The Lilypad | Experimental/Wellness | $20-25 at door / $12 students & seniors / All Levels | [Details](https://www.lilypadinman.com/home/livemusichatha-w5x5w-x6nfj-akrz8-5z2rc-cxk52-adef2-6rmez-pz8rg-ltykr-nz652-e3l7x-k9ra7-j9536-new7n-hkyzb) |
 | 20260228-sinclair-ratboys | Feb 28, 2026 7:00 PM | Ratboys ⭐ | The Sinclair | Indie Rock | When the Sun Explodes Tour 2026 with Florry. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1143656) |
 | 20260228-bso-ades-3 | Feb 28, 2026 8:00 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260301-bso-chicago | Mar 1, 2026 5:00 PM | Chicago Symphony Orchestra | Symphony Hall (BSO) | Classical | Guest orchestra performance | [Details](https://www.bso.org/events/vivo-chicago-symphony-orchestra) |
@@ -35,6 +33,7 @@ updated_at: 2026-02-22T00:00:00Z
 | 20260305-bso-blomstedt | Mar 5, 2026 7:30 PM | Herbert Blomstedt conducts Brahms | Symphony Hall (BSO) | Classical | Legendary conductor Herbert Blomstedt | [Details](https://www.bso.org/events/mar-5-7-brahms) |
 | 20260306-sinclair-greyboy | Mar 6, 2026 7:00 PM | The Greyboy Allstars ⭐ | The Sinclair | Jazz/Funk/Experimental | Funk-jazz fusion collective. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165635) |
 | 20260306-nonevent-nmperign | Mar 6, 2026 | Nmperign and Brittany Karlson/Nick Neuberg ⭐ | TBA | Experimental/Improv | Rare local performance by saxophone/trumpet duo Bhob Rainey and Greg Kelley | [Details](https://www.nonevent.org/concerts/2026-03-06-nmperign-karlson-neuberg) |
+| 20260308-bso-tli-chamber | Mar 8, 2026 3:00 PM | TLI Chamber Concert | Linde Center (BSO) | Classical/Chamber | Chamber music performance at the Linde Center | [Details](https://www.bso.org/events/mar-8-tli-chamber-concert) |
 | 20260308-sinclair-slackers | Mar 8, 2026 6:30 PM | The Slackers | The Sinclair | Ska/Reggae | With The Attractors. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1263095) |
 | 20260309-bso-death-stranding | Mar 9, 2026 8:00 PM | Death Stranding in Concert | Symphony Hall (BSO) | Video Game Music | Video game soundtrack performed live | [Details](https://www.bso.org/events/death-stranding) |
 | 20260310-sinclair-whatmore | Mar 10, 2026 7:00 PM | Whatmore | The Sinclair | Indie | EASTCOAST W MY DOGS TOUR. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1308360) |
