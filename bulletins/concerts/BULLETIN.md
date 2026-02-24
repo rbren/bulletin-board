@@ -1,22 +1,21 @@
 ---
-cost: 1.6371
+cost: 2.2096
 title: concerts
-updated_at: 2026-02-23T00:00:00Z
+updated_at: 2026-02-24T12:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260223-lilypad-elan-mehler | Feb 23, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-d5m) |
-| 20260223-lilypad-bergonzi | Feb 23, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/xcfste55a26cgz4-ay7g7-lsbds-d7cp4-bsg4s-6a8j8-2e5c6) |
-| 20260223-lilypad-fringe | Feb 23, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry) |
 | 20260224-lilypad-bruce-gertz | Feb 24, 2026 7:00 PM | Bruce Gertz Quintet | The Lilypad | Jazz | $15 / $10 students / 7pm doors / 7:30 start / seated | [Details](https://www.lilypadinman.com/home/bruce-gertz-quintetp-bxtpm) |
 | 20260224-lilypad-community-care | Feb 24, 2026 10:00 PM | Community Care fundraiser | The Lilypad | Various | $5-25 suggested donation / 10pm doors / standing | [Details](https://www.lilypadinman.com/home/2026/2/12/community-care-fundraiser) |
 | 20260225-lilypad-gill-aharon | Feb 25, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-4l2jm-s2bbk-zcskn-78epn-xlbl7-cngcg-npstz-hn6sj-dn6dt-bs8m9-z46ds-gmmnf-j3zwb-l2cnz-znt7t) |
 | 20260225-lilypad-variety-show | Feb 25, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf) |
 | 20260225-sinclair-barr-brothers | Feb 25, 2026 7:00 PM | The Barr Brothers ⭐ | The Sinclair | Indie Rock | With Land of Talk. 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/) |
+| 20260225-mideast-vasya-oblomov | Feb 25, 2026 8:00 PM | Vasya Oblomov | Sonia (Middle East) | Experimental/Electronic | Party Time Boston presents. 18+ | [Details](https://www.mideastoffers.com/) |
 | 20260226-bso-ades | Feb 26, 2026 7:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting, featuring Augustin Hadelich performing Adès' violin concerto "Concentric Paths" | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260226-radius-seasons | Feb 26, 2026 8:00 PM | Radius Ensemble: SEASONS ⭐ | Pickman Hall at Longy | Contemporary Classical | Features Caroline Shaw's "Winter Carol" and world premiere of Michael Gandolfi's "Autumn Music" | [Details](https://radiusensemble.org/products/seasons) |
 | 20260226-lilypad-folk-storytellers | Feb 26, 2026 10:15 PM | Folk Storytellers Showcase | The Lilypad | Folk/Singer-songwriter | $10 admission / 10:30 start / 10:15 doors / standing | [Details](https://www.lilypadinman.com/home/2026/2/26/folk-storytellers-showcase) |
+| 20260226-gardner-reich | Feb 26, 2026 | Steve Reich: Music for 18 Musicians ⭐ | Isabella Stewart Gardner Museum | Contemporary Classical/Minimalist | Ensemble Signal performs Reich's seminal minimalist work for the 50th anniversary. Thursday Night Music series | [Details](https://www.gardnermuseum.org/calendar) |
 | 20260227-bso-ades-2 | Feb 27, 2026 1:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260227-sinclair-earlybirds | Feb 27, 2026 7:00 PM | Earlybirds Club | The Sinclair | Indie | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1147894) |
 | 20260227-lilypad-moviola | Feb 27, 2026 7:00 PM | Moviola / Sleepyhead / Thalia Zedek ⭐ | The Lilypad | Indie Rock/Experimental | Three indie lifer bands. $15 / 7pm doors / 7:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/2/27/moviola-sleepyhead-thalia-zedek) |
@@ -42,5 +41,6 @@ updated_at: 2026-02-23T00:00:00Z
 | 20260313-sinclair-spafford | Mar 13, 2026 7:00 PM | Spafford | The Sinclair | Jam Band | 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/1258021) |
 | 20260314-sinclair-whethan | Mar 14, 2026 6:30 PM | Whethan | The Sinclair | Electronic | 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/1221007) |
 | 20260315-gardner-borromeo | Mar 15, 2026 | Borromeo String Quartet ⭐ | Isabella Stewart Gardner Museum | Classical/Contemporary | Program includes Schubert's "Death and the Maiden" quartet, works by Vijay Iyer, Caroline Shaw, and Jessie Montgomery | [Details](https://www.gardnermuseum.org/announcing-isabella-stewart-gardner-museums-winterspring-2026-weekend-concert-series) |
+| 20260328-nonevent-evicshen | Mar 28, 2026 | Evicshen, Cursed Image ⭐ | Boston City Hall | Experimental/Noise | NonEvent presents Evicshen's first area performance in five years, with art/noise duo Cursed Image and trumpeter Kelly Bray | [Details](https://www.nonevent.org/concerts/2026-03-28-evicshen-cursed-image) |
 
 *Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability.*
