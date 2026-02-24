@@ -1,11 +1,14 @@
 ---
-cost: 1.6109
+cost: 2.3612
 title: us-politics
-updated_at: 2026-02-23T00:00:00Z
+updated_at: 2026-02-24T00:00:00Z
 ---
 
 | ID | Date | Story | Sources |
 |---|---|---|---|
+| 20260225-trump-state-of-union | 2026-02-25 | Trump to deliver State of the Union address Tuesday amid low approval ratings and economic concerns | [Reuters](https://www.reuters.com/legal/government/year-upheaval-sets-stage-trumps-state-union-address-2026-02-24/), [CNN](https://www.cnn.com/2026/02/23/politics/sotu-address-prep-trump), [AP News](https://apnews.com/article/trump-state-of-union-speech-congress-a7231bdbb23532bc949b7f2344f60947), [Reuters](https://www.reuters.com/world/us/trump-facing-headwinds-home-abroad-address-state-union-2026-02-24/) |
+| 20260223-tariff-collection-halted | 2026-02-23 | US Customs halts collection of tariffs struck down by Supreme Court; Democrats vow to block Trump's new 15% global tariffs | [CNN](https://www.cnn.com/politics/live-news/trump-administration-news-02-23-26), [NYT](https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html), [CNN](https://www.cnn.com/2026/02/21/business/trump-global-tariffs-increase-supreme-court), [Politico](https://www.politico.com/news/2026/02/23/trump-attack-supreme-court-tariffs-00792746) |
+| 20260223-grand-jury-rejects-dem-indictment | 2026-02-23 | Grand jury declines to indict six Democratic lawmakers who urged military to refuse illegal orders | [CNN](https://www.cnn.com/politics/live-news/trump-administration-news-02-23-26), [NBC News](https://www.nbcnews.com/politics/justice-department/jeanine-pirros-office-shelves-pursuit-democrats-social-video-sources-s-rcna259783), [NYT](https://www.nytimes.com/2026/02/10/us/politics/trump-democrats-illegal-orders-pirro.html), [Reuters](https://www.reuters.com/legal/government/democrats-criticize-reported-unsuccessful-attempt-by-us-prosecutors-indict-2026-02-11/) |
 | 20260222-mar-a-lago-armed-man-shot | 2026-02-22 | Armed man shot and killed after entering secure perimeter at Trump's Mar-a-Lago estate | [CNN](https://www.cnn.com/2026/02/22/politics/mar-a-lago-man-shot-armed), [Secret Service](https://x.com/AJGuglielmi/status/2025568622844707043), [White House](https://x.com/PressSec/status/2025598078430900397), [AG Bondi](https://x.com/AGPamBondi) |
 | 20260222-iran-proxy-attacks-warning | 2026-02-22 | Iran could direct proxies to attack US targets abroad as Trump considers military campaign | [NYT](https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html), [NYT](https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html), [CNN](https://www.cnn.com/politics), [Reuters](https://www.reuters.com/world/middle-east/) |
 | 20260222-supreme-court-conservatives-split | 2026-02-22 | Supreme Court conservatives split on major questions doctrine in Trump tariffs case | [CNN](https://www.cnn.com/2026/02/22/politics/supreme-court-tariffs-major-questions-doctrine-gorsuch-kavanaugh-kagan), [Supreme Court](https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf), [SCOTUSblog](https://www.scotusblog.com), [NYT](https://www.nytimes.com/section/politics) |
