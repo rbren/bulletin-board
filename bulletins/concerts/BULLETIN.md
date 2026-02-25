@@ -1,17 +1,15 @@
 ---
-cost: 2.2096
+cost: 2.7266
 title: concerts
-updated_at: 2026-02-24T12:00:00Z
+updated_at: 2026-02-25T12:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260224-lilypad-bruce-gertz | Feb 24, 2026 7:00 PM | Bruce Gertz Quintet | The Lilypad | Jazz | $15 / $10 students / 7pm doors / 7:30 start / seated | [Details](https://www.lilypadinman.com/home/bruce-gertz-quintetp-bxtpm) |
-| 20260224-lilypad-community-care | Feb 24, 2026 10:00 PM | Community Care fundraiser | The Lilypad | Various | $5-25 suggested donation / 10pm doors / standing | [Details](https://www.lilypadinman.com/home/2026/2/12/community-care-fundraiser) |
 | 20260225-lilypad-gill-aharon | Feb 25, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-4l2jm-s2bbk-zcskn-78epn-xlbl7-cngcg-npstz-hn6sj-dn6dt-bs8m9-z46ds-gmmnf-j3zwb-l2cnz-znt7t) |
+| 20260225-mideast-vasya-oblomov | Feb 25, 2026 8:00 PM | Vasya Oblomov ⭐ | Sonia (Middle East) | Experimental/Electronic | Party Time Boston presents. 18+ | [Details](https://www.ticketweb.com/event/party-time-boston-presents-sonia-tickets/14103534) |
 | 20260225-lilypad-variety-show | Feb 25, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf) |
-| 20260225-sinclair-barr-brothers | Feb 25, 2026 7:00 PM | The Barr Brothers ⭐ | The Sinclair | Indie Rock | With Land of Talk. 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/) |
-| 20260225-mideast-vasya-oblomov | Feb 25, 2026 8:00 PM | Vasya Oblomov | Sonia (Middle East) | Experimental/Electronic | Party Time Boston presents. 18+ | [Details](https://www.mideastoffers.com/) |
+| 20260226-mideast-sumerlands | Feb 26, 2026 6:30 PM | Sumerlands, Eternal Champion | Sonia (Middle East) | Metal/Experimental | With Final Gasp, Concilium. 18+ | [Details](https://www.ticketweb.com/event/sumerlands-eternal-champion-final-gasp-sonia-tickets/14121284) |
 | 20260226-bso-ades | Feb 26, 2026 7:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting, featuring Augustin Hadelich performing Adès' violin concerto "Concentric Paths" | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260226-radius-seasons | Feb 26, 2026 8:00 PM | Radius Ensemble: SEASONS ⭐ | Pickman Hall at Longy | Contemporary Classical | Features Caroline Shaw's "Winter Carol" and world premiere of Michael Gandolfi's "Autumn Music" | [Details](https://radiusensemble.org/products/seasons) |
 | 20260226-lilypad-folk-storytellers | Feb 26, 2026 10:15 PM | Folk Storytellers Showcase | The Lilypad | Folk/Singer-songwriter | $10 admission / 10:30 start / 10:15 doors / standing | [Details](https://www.lilypadinman.com/home/2026/2/26/folk-storytellers-showcase) |
