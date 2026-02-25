@@ -1,11 +1,13 @@
 ---
-cost: 2.3441
+cost: 1.8424
 title: industry-news
-updated_at: 2026-02-24T00:00:00.000Z
+updated_at: 2026-02-25T00:00:00.000Z
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
 |---|---|---|---|---|
+| 20260225-cognition-government-launch | 2026-02-25 | Cognition | Cognition Launches AI Software Engineering Platform for U.S. Government | https://www.cognition.ai/blog/cognition-for-government | Cognition launches Windsurf and Devin for federal agencies with FedRAMP High authorization and DoD IL4/5/6 accreditation. Platform already in use across U.S. Army, Navy, Treasury, and NASA-JPL. Addresses the $100B annual IT spend where 80% goes to maintaining legacy systems. |
+| 20260224-cursor-agent-computer-use | 2026-02-24 | Cursor | Cursor Cloud Agents Can Now Control Their Own Computers | https://www.cursor.com/blog/agent-computer-use | Cursor releases cloud agents with full VM environments that can test software and produce artifacts. Over 30% of Cursor's internal PRs are now created by autonomous agents. Agents can build, interact with software, navigate web pages, and validate their own work before submitting. |
 | 20260223-anthropic-claude-code-security-preview | 2026-02-23 | Anthropic | Anthropic Launches Claude Code Security in Limited Preview | https://www.netizen.net/news/post/7683/netizen-monday-security-brief-2-23-2026 | Anthropic introduces Claude Code Security, an AI-assisted vulnerability scanning feature for Enterprise and Team customers. The system identifies potential vulnerabilities, assigns severity levels, and proposes remediation steps with human approval required. Goes beyond traditional SAST tools by reasoning about codebases like a human security reviewer. |
 | 20260222-code-metal-125m-series-b | 2026-02-22 | Code Metal | Code Metal Raises $125M Series B for Verifiable Code Translation | https://news.crunchbase.com/venture/biggest-funding-rounds-cloud-energy-ai-world-labs/ | Code Metal secures $125M Series B led by Salesforce Ventures at $1.25B valuation, just three months after Series A. The Boston-based startup provides verifiable code translation tools for AI-driven development workflows. |
 | 20260220-anthropic-claude-code-security | 2026-02-20 | Anthropic | Anthropic Launches Claude Code Security for Autonomous Bug Hunting | https://fortune.com/2026/02/20/exclusive-anthropic-rolls-out-ai-tool-that-can-hunt-software-bugs-on-its-own-including-the-most-dangerous-ones-humans-miss/ | Anthropic releases Claude Code Security, an AI tool that autonomously finds and patches security vulnerabilities. Using Claude Opus 4.6, the tool found over 500 vulnerabilities in production open-source code that had gone undetected for decades. Available as limited research preview for Enterprise/Team customers with free access for open-source maintainers. |
