@@ -1,14 +1,12 @@
 ---
-cost: 2.7266
+cost: 1.8810
 title: concerts
-updated_at: 2026-02-25T12:00:00Z
+updated_at: 2026-02-26T12:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260225-lilypad-gill-aharon | Feb 25, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-4l2jm-s2bbk-zcskn-78epn-xlbl7-cngcg-npstz-hn6sj-dn6dt-bs8m9-z46ds-gmmnf-j3zwb-l2cnz-znt7t) |
-| 20260225-mideast-vasya-oblomov | Feb 25, 2026 8:00 PM | Vasya Oblomov ⭐ | Sonia (Middle East) | Experimental/Electronic | Party Time Boston presents. 18+ | [Details](https://www.ticketweb.com/event/party-time-boston-presents-sonia-tickets/14103534) |
-| 20260225-lilypad-variety-show | Feb 25, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf) |
+| 20260226-lilypad-kaleidoscope | Feb 26, 2026 7:45 PM | David Warren Harewood: Kaleidoscope Series ⭐ | The Lilypad | Improvisation/Experimental | $15 admission / 7:45pm doors / 8pm start / seated | [Details](https://www.lilypadinman.com/home/2026/david-warren-harewood-february-8sx7n) |
 | 20260226-mideast-sumerlands | Feb 26, 2026 6:30 PM | Sumerlands, Eternal Champion | Sonia (Middle East) | Metal/Experimental | With Final Gasp, Concilium. 18+ | [Details](https://www.ticketweb.com/event/sumerlands-eternal-champion-final-gasp-sonia-tickets/14121284) |
 | 20260226-bso-ades | Feb 26, 2026 7:30 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting, featuring Augustin Hadelich performing Adès' violin concerto "Concentric Paths" | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
 | 20260226-radius-seasons | Feb 26, 2026 8:00 PM | Radius Ensemble: SEASONS ⭐ | Pickman Hall at Longy | Contemporary Classical | Features Caroline Shaw's "Winter Carol" and world premiere of Michael Gandolfi's "Autumn Music" | [Details](https://radiusensemble.org/products/seasons) |
@@ -19,12 +17,20 @@ updated_at: 2026-02-25T12:00:00Z
 | 20260227-lilypad-moviola | Feb 27, 2026 7:00 PM | Moviola / Sleepyhead / Thalia Zedek ⭐ | The Lilypad | Indie Rock/Experimental | Three indie lifer bands. $15 / 7pm doors / 7:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/2/27/moviola-sleepyhead-thalia-zedek) |
 | 20260227-bpyo-mahler | Feb 27, 2026 8:00 PM | Boston Philharmonic Youth Orchestra | Symphony Hall (BSO) | Classical | Debussy & Mahler program | [Details](https://www.bso.org/events/bpyo-debussy-mahler-2026) |
 | 20260227-lilypad-wasiafest | Feb 27, 2026 10:00 PM | WasiaFest | The Lilypad | Pop/Rock | $15 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/wasiafest-featuring-mehlani-amber-alex-catherine-claire) |
+| 20260227-mideast-author-punisher | Feb 27, 2026 7:00 PM | Author & Punisher ⭐ | Sonia (Middle East) | Experimental/Industrial | With King Yosef, Black Magnet. 18+ | [Details](https://www.ticketweb.com/event/author-punisher-king-yosef-sonia-tickets/14532393) |
 | 20260228-lilypad-yoga-music | Feb 28, 2026 12:00 PM | Hatha Yoga w/ Live Music ⭐ | The Lilypad | Experimental/Wellness | $20-25 at door / $12 students & seniors / All Levels | [Details](https://www.lilypadinman.com/home/livemusichatha-w5x5w-x6nfj-akrz8-5z2rc-cxk52-adef2-6rmez-pz8rg-ltykr-nz652-e3l7x-k9ra7-j9536-new7n-hkyzb) |
+| 20260228-lilypad-veronica-lewis | Feb 28, 2026 7:30 PM | Veronica Lewis | The Lilypad | Alternative/Indie Rock | $15 admission / $13 advance tix / 7:30 doors / All Ages | [Details](https://www.lilypadinman.com/home/2026/2/28-veronica-lewis) |
 | 20260228-sinclair-ratboys | Feb 28, 2026 7:00 PM | Ratboys ⭐ | The Sinclair | Indie Rock | When the Sun Explodes Tour 2026 with Florry. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1143656) |
 | 20260228-bso-ades-3 | Feb 28, 2026 8:00 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
+| 20260228-lilypad-lane | Feb 28, 2026 10:00 PM | Lane / The P.A.'s / Jack O. Lantern | The Lilypad | Rock | $10 cover / 10pm doors / standing | [Details](https://www.lilypadinman.com/home/2026/2/28/lane-the-pas-jack-o-lantern) |
 | 20260301-bso-chicago | Mar 1, 2026 5:00 PM | Chicago Symphony Orchestra | Symphony Hall (BSO) | Classical | Guest orchestra performance | [Details](https://www.bso.org/events/vivo-chicago-symphony-orchestra) |
 | 20260301-sinclair-briscoe | Mar 1, 2026 7:00 PM | Briscoe | The Sinclair | Indie | With Jack Blocker. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1174873) |
+| 20260302-lilypad-elan-mehler | Mar 2, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2025/3/7/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8-a3xg9-gdhty-94d5m-mx832) |
+| 20260302-lilypad-bergonzi | Mar 2, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026-7w8rm) |
+| 20260302-lilypad-fringe | Mar 2, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry-b53aw) |
 | 20260303-sinclair-spiritual-cramp | Mar 3, 2026 6:30 PM | Spiritual Cramp ⭐ | The Sinclair | Experimental/Punk | With Radioactivity, Restraining Order. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1094958) |
+| 20260303-lilypad-jam-session | Mar 3, 2026 10:00 PM | Jam Session with Nick Brust and Liz Sinn | The Lilypad | Jazz/Jam Session | $15 / $10 students / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/2026/february-jam-session-with-nick-brust-and-liz-sinn-9zlkr) |
+| 20260304-lilypad-bert-seager | Mar 4, 2026 7:00 PM | Bert Seager's Heart of Hearing | The Lilypad | Jazz | Details TBA | [Details](https://www.lilypadinman.com/home/2026/bert-seagers-heart-of-hearing-4w63b) |
 | 20260304-roadrunner-cat-power | Mar 4, 2026 8:00 PM | Cat Power - The Greatest Tour ⭐ | Roadrunner | Indie Rock | 20th anniversary of the album performed in its entirety | [Details](https://roadrunnerboston.com/events/detail/) |
 | 20260305-sinclair-nailed-shut | Mar 5, 2026 6:00 PM | Nailed Shut MA | The Sinclair | Punk/Metal | With Slamwich, Frog Mallet, Edict. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1286623) |
 | 20260305-bso-blomstedt | Mar 5, 2026 7:30 PM | Herbert Blomstedt conducts Brahms | Symphony Hall (BSO) | Classical | Legendary conductor Herbert Blomstedt | [Details](https://www.bso.org/events/mar-5-7-brahms) |
