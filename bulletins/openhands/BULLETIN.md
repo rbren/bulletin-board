@@ -1,7 +1,7 @@
 ---
-cost: 2.0255
+cost: 2.4460
 title: openhands
-updated_at: 2026-02-26T00:00:00Z
+updated_at: 2026-02-27T08:30:00Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
@@ -15,6 +15,5 @@ updated_at: 2026-02-26T00:00:00Z
 | 20260219-amd-local-ai | 2026-02-19 | AMD | Technical Article | Local AI for Developers: OpenHands + AMD Bring Coding Agents to Your Workstation | N/A | https://www.amd.com/en/developer/resources/technical-articles/2025/OpenHands.html |
 | 20260213-twitter-gamedev | 2026-02-13 | Twitter/X | Social Media | OpenHands team shares new GameDevBench benchmark results showing better performance with OpenHands+Claude than Claude Code | 1.8K views | https://x.com/OpenHandsDev |
 | 20260206-twitter-webinar | 2026-02-06 | Twitter/X | Social Media | OpenHands announces webinar on Building Reliable Autonomous Agentic AI Systems with Chief Architect Ray Myers | 393 views | https://x.com/OpenHandsDev/status/2019773072979410944 |
-| 20260202-umu-qa | 2026-01-02 | UMU | Q&A | Community Q&A discussing OpenHands AI key features including ML capabilities, automated code reviews, and real-time collaboration | N/A | https://www.umu.com/ask/a11122301573854450218 |
 | 20260129-maven-course | 2026-01-29 | Maven | Course | OpenHands: AI software development agent platform - Course by Ray Myers (Chief Architect at All Hands) covering agentic AI coding and OpenHands SDK | 129 students | https://maven.com/p/0fe39a |
-| 20251118-madrona-investment | 2025-11-18 | Madrona | Investment | Our Investment in OpenHands: Building the OS for Agentic Software Development - $18.8M Series A funding announcement | N/A | https://www.madrona.com/our-investment-in-openhands-building-the-os-for-agentic-software-development/ |
+| 20260109-marktechpost-confucius | 2026-01-09 | MarkTechPost | Article | Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA) - Comparison shows OpenHands achieving 72.8% on SWE-Bench Verified vs CCA's 74.6% | N/A | https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ |
