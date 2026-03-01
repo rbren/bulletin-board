@@ -1,17 +1,11 @@
 ---
-cost: 2.1661
+cost: 2.0278
 title: concerts
-updated_at: 2026-02-28T12:00:00Z
+updated_at: 2026-03-01T00:00:00Z
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260228-lilypad-yoga-music | Feb 28, 2026 12:00 PM | Hatha Yoga w/ Live Music ⭐ | The Lilypad | Experimental/Wellness | $20-25 at door / $12 students & seniors / All Levels | [Details](https://www.lilypadinman.com/home/livemusichatha-w5x5w-x6nfj-akrz8-5z2rc-cxk52-adef2-6rmez-pz8rg-ltykr-nz652-e3l7x-k9ra7-j9536-new7n-hkyzb) |
-| 20260228-lilypad-veronica-lewis | Feb 28, 2026 7:30 PM | CANCELLED: Veronica Lewis | The Lilypad | Alternative/Indie Rock | This show has been cancelled | [Details](https://www.lilypadinman.com/home/2026/2/28-veronica-lewis) |
-| 20260228-sinclair-ratboys | Feb 28, 2026 7:00 PM | Ratboys ⭐ | The Sinclair | Indie Rock | When the Sun Explodes Tour 2026 with Florry. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1143656) |
-| 20260228-bso-ades-3 | Feb 28, 2026 8:00 PM | Thomas Adès conducts Beethoven ⭐ | Symphony Hall (BSO) | Contemporary Classical | Contemporary composer Thomas Adès conducting | [Details](https://www.bso.org/events/feb-26-28-ades-beethoven) |
-| 20260228-lilypad-lane | Feb 28, 2026 10:00 PM | Lane / The P.A.'s / Jack O. Lantern | The Lilypad | Rock | $10 cover / 10pm doors / standing | [Details](https://www.lilypadinman.com/home/2026/2/28/lane-the-pas-jack-o-lantern) |
-| 20260228-sinclair-hyperlinked | Feb 28, 2026 | Hyperlinked: An Inter-Planetary Girl EDM/Hyperpop Party ⭐ | The Sinclair | Electronic/Experimental | EDM and hyperpop party | [Details](https://www.sinclaircambridge.com/events/detail/1329971) |
 | 20260301-bso-chicago | Mar 1, 2026 5:00 PM | Chicago Symphony Orchestra | Symphony Hall (BSO) | Classical | Guest orchestra performance | [Details](https://www.bso.org/events/vivo-chicago-symphony-orchestra) |
 | 20260301-sinclair-briscoe | Mar 1, 2026 7:00 PM | Briscoe | The Sinclair | Indie | With Jack Blocker. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1174873) |
 | 20260301-gardner-goldmund | Mar 1, 2026 | Goldmund Quartet with Gloria Chien ⭐ | Isabella Stewart Gardner Museum | Classical/Contemporary | Gloria Chien joins the Goldmund Quartet to play Amy Beach's Piano Quintet | [Details](https://www.gardnermuseum.org/calendar) |
@@ -19,14 +13,18 @@ updated_at: 2026-02-28T12:00:00Z
 | 20260302-lilypad-bergonzi | Mar 2, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026-7w8rm) |
 | 20260302-lilypad-fringe | Mar 2, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry-b53aw) |
 | 20260303-sinclair-spiritual-cramp | Mar 3, 2026 6:30 PM | Spiritual Cramp ⭐ | The Sinclair | Experimental/Punk | With Radioactivity, Restraining Order, How Much Art. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1094958) |
-| 20260303-sonia-nobu-woods | Mar 3, 2026 6:30 PM | Nobu Woods, ISAIAH KALEO | Sonia (Middle East) | Indie/Alternative | All ages | [Details](https://www.ticketweb.com/event/nobu-woods-isaiah-kaleo-sonia-tickets/14678793) |
 | 20260303-lilypad-jam-session | Mar 3, 2026 10:00 PM | Jam Session with Nick Brust and Liz Sinn | The Lilypad | Jazz/Jam Session | $15 / $10 students / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/2026/february-jam-session-with-nick-brust-and-liz-sinn-9zlkr) |
-| 20260304-lilypad-bert-seager | Mar 4, 2026 7:00 PM | Bert Seager's Heart of Hearing | The Lilypad | Jazz | Details TBA | [Details](https://www.lilypadinman.com/home/2026/bert-seagers-heart-of-hearing-4w63b) |
-| 20260304-roadrunner-cat-power | Mar 4, 2026 8:00 PM | Cat Power - The Greatest Tour ⭐ | Roadrunner | Indie Rock | 20th anniversary of the album performed in its entirety | [Details](https://roadrunnerboston.com/events/detail/) |
+| 20260304-lilypad-bert-seager | Mar 4, 2026 7:00 PM | Bert Seager's Heart of Hearing | The Lilypad | Jazz | 7pm start / $15 suggested donation / $5 students | [Details](https://www.lilypadinman.com/home/2026/bert-seagers-heart-of-hearing-4w63b) |
+| 20260304-lilypad-gill-aharon | Mar 4, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-4l2jm-s2bbk-zcskn-78epn-xlbl7-cngcg-npstz-hn6sj-dn6dt-bs8m9-z46ds-gmmnf-j3zwb-l2cnz-znt7t-yzzsk) |
+| 20260304-lilypad-variety-show | Mar 4, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf-76pd3) |
+| 20260305-lilypad-kai-rush | Mar 5, 2026 10:00 PM | Kai Rush / Anthony Napolitano / LKF ⭐ | The Lilypad | Indie/Pop/Alternative | $10 advance / $12 at the door / 10:15 doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/3/5/kai-rush-anthony-napolitano-lkf) |
 | 20260305-sinclair-nailed-shut | Mar 5, 2026 6:00 PM | Nailed Shut MA | The Sinclair | Punk/Metal | With Slamwich, Frog Mallet, Edict. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1286623) |
 | 20260305-bso-blomstedt | Mar 5, 2026 7:30 PM | Herbert Blomstedt conducts Brahms | Symphony Hall (BSO) | Classical | Legendary conductor Herbert Blomstedt | [Details](https://www.bso.org/events/mar-5-7-brahms) |
+| 20260306-lilypad-sam-saomek | Mar 6, 2026 7:30 PM | Sam Saomek - "A GREAT MERCY" - Album Release Show | The Lilypad | Indie/Alternative | $15 admission / $10 students / 7:30 doors / 8pm start / seated | [Details](https://www.lilypadinman.com/home/2026/3/6/sam-saomek-a-great-mercy-album-release-show) |
 | 20260306-sinclair-greyboy | Mar 6, 2026 7:00 PM | The Greyboy Allstars ⭐ | The Sinclair | Jazz/Funk/Experimental | Funk-jazz fusion collective. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165635) |
 | 20260306-nonevent-nmperign | Mar 6, 2026 | Nmperign and Brittany Karlson/Nick Neuberg ⭐ | TBA | Experimental/Improv | Rare local performance by saxophone/trumpet duo Bhob Rainey and Greg Kelley | [Details](https://www.nonevent.org/concerts/2026-03-06-nmperign-karlson-neuberg) |
+| 20260307-lilypad-alex-lemski | Mar 7, 2026 2:00 PM | A Musical Celebration of the Life and Work of Alex Lemski | The Lilypad | Memorial/Various | Musical celebration event | [Details](https://www.lilypadinman.com/home/2026/alex-lemski-celebration-of-life) |
+| 20260307-lilypad-yoga-music | Mar 7, 2026 12:00 PM | Hatha Yoga w/ Live Music ⭐ | The Lilypad | Experimental/Wellness | $20-25 at door / $12 students & seniors / All Levels | [Details](https://www.lilypadinman.com/home/livemusichatha-w5x5w-x6nfj-akrz8-5z2rc-cxk52-adef2-6rmez-pz8rg-ltykr-nz652-e3l7x-k9ra7-j9536-new7n-hkyzb-kge98) |
 | 20260307-sinclair-vendredi | Mar 7, 2026 | Vendredi sur Mer | The Sinclair | Indie/French Pop | French indie pop artist | [Details](https://www.sinclaircambridge.com/events/detail/1193968) |
 | 20260308-bso-tli-chamber | Mar 8, 2026 3:00 PM | TLI Chamber Concert | Linde Center (BSO) | Classical/Chamber | Chamber music performance at the Linde Center | [Details](https://www.bso.org/events/mar-8-tli-chamber-concert) |
 | 20260308-sinclair-slackers | Mar 8, 2026 6:30 PM | The Slackers | The Sinclair | Ska/Reggae | With The Attractors. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1263095) |
