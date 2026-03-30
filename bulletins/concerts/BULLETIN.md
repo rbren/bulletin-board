@@ -1,45 +1,46 @@
 ---
-cost: 3.1755
+cost: 2.7417
 title: concerts
-updated_at: 2026-03-02T08:30:00Z
+updated_at: 2026-03-30T19:18:43.337981
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260302-lilypad-elan-mehler | Mar 2, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2025/3/7/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8-a3xg9-gdhty-94d5m-mx832) |
-| 20260302-lilypad-bergonzi | Mar 2, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026-7w8rm) |
-| 20260302-lilypad-fringe | Mar 2, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry-b53aw) |
-| 20260303-sinclair-spiritual-cramp | Mar 3, 2026 6:30 PM | Spiritual Cramp ⭐ | The Sinclair | Experimental/Punk | With Radioactivity, Restraining Order, How Much Art. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1094958) |
-| 20260303-lilypad-jam-session | Mar 3, 2026 10:00 PM | Jam Session with Nick Brust and Liz Sinn | The Lilypad | Jazz/Jam Session | $15 / $10 students / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/2026/february-jam-session-with-nick-brust-and-liz-sinn-9zlkr) |
-| 20260304-lilypad-bert-seager | Mar 4, 2026 7:00 PM | Bert Seager's Heart of Hearing | The Lilypad | Jazz | 7pm start / $15 suggested donation / $5 students | [Details](https://www.lilypadinman.com/home/2026/bert-seagers-heart-of-hearing-4w63b) |
-| 20260304-lilypad-gill-aharon | Mar 4, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-4l2jm-s2bbk-zcskn-78epn-xlbl7-cngcg-npstz-hn6sj-dn6dt-bs8m9-z46ds-gmmnf-j3zwb-l2cnz-znt7t-yzzsk) |
-| 20260304-lilypad-variety-show | Mar 4, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf-76pd3) |
-| 20260305-sinclair-nailed-shut | Mar 5, 2026 6:00 PM | Nailed Shut MA | The Sinclair | Punk/Metal | With Slamwich, Frog Mallet, Edict. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1286623) |
-| 20260305-bso-blomstedt | Mar 5, 2026 7:30 PM | Herbert Blomstedt conducts Brahms | Symphony Hall (BSO) | Classical | Legendary conductor Herbert Blomstedt | [Details](https://www.bso.org/events/mar-5-7-brahms) |
-| 20260305-lilypad-kai-rush | Mar 5, 2026 10:00 PM | Kai Rush / Anthony Napolitano / LKF ⭐ | The Lilypad | Indie/Pop/Alternative | $10 advance / $12 at the door / 10:15 doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/3/5/kai-rush-anthony-napolitano-lkf) |
-| 20260306-sinclair-greyboy | Mar 6, 2026 7:00 PM | The Greyboy Allstars ⭐ | The Sinclair | Jazz/Funk/Experimental | Funk-jazz fusion collective. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165635) |
-| 20260306-lilypad-sam-saomek | Mar 6, 2026 7:30 PM | Sam Saomek - "A GREAT MERCY" - Album Release Show | The Lilypad | Indie/Alternative | $15 admission / $10 students / 7:30 doors / 8pm start / seated | [Details](https://www.lilypadinman.com/home/2026/3/6/sam-saomek-a-great-mercy-album-release-show) |
-| 20260306-nonevent-nmperign | Mar 6, 2026 | Nmperign and Brittany Karlson/Nick Neuberg ⭐ | TBA | Experimental/Improv | Rare local performance by saxophone/trumpet duo Bhob Rainey and Greg Kelley | [Details](https://www.nonevent.org/concerts/2026-03-06-nmperign-karlson-neuberg) |
-| 20260307-lilypad-yoga-music | Mar 7, 2026 12:00 PM | Hatha Yoga w/ Live Music ⭐ | The Lilypad | Experimental/Wellness | $20-25 at door / $12 students & seniors / All Levels | [Details](https://www.lilypadinman.com/home/livemusichatha-w5x5w-x6nfj-akrz8-5z2rc-cxk52-adef2-6rmez-pz8rg-ltykr-nz652-e3l7x-k9ra7-j9536-new7n-hkyzb-kge98) |
-| 20260307-lilypad-alex-lemski | Mar 7, 2026 2:00 PM | A Musical Celebration of the Life and Work of Alex Lemski | The Lilypad | Memorial/Various | Musical celebration event | [Details](https://www.lilypadinman.com/home/2026/alex-lemski-celebration-of-life) |
-| 20260307-sinclair-vendredi | Mar 7, 2026 | Vendredi sur Mer | The Sinclair | Indie/French Pop | French indie pop artist | [Details](https://www.sinclaircambridge.com/events/detail/1193968) |
-| 20260308-bso-tli-chamber | Mar 8, 2026 3:00 PM | TLI Chamber Concert | Linde Center (BSO) | Classical/Chamber | Chamber music performance at the Linde Center | [Details](https://www.bso.org/events/mar-8-tli-chamber-concert) |
-| 20260308-sinclair-slackers | Mar 8, 2026 6:30 PM | The Slackers | The Sinclair | Ska/Reggae | With The Attractors. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1263095) |
-| 20260308-lilypad-stace-brandt | Mar 8, 2026 7:30 PM | Stace Brandt & Jasper Jones | The Lilypad | Indie/Folk | $18 admission / $15 advance / 7:30 doors / 8pm show / all ages | [Details](https://www.lilypadinman.com/home/2026/3/8/stace-brandt-and-jasper-jones) |
-| 20260308-gardner-odette | Mar 8, 2026 | Paul O'Dette, lute | Isabella Stewart Gardner Museum | Classical/Early Music | Recital celebrating John Dowland with dances and laments of exquisite Tudor melancholy | [Details](https://www.gardnermuseum.org/calendar) |
-| 20260309-lilypad-elan-mehler-2 | Mar 9, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8-a3xg9-gdhty-94d5m-mx832-swe24) |
-| 20260309-bso-death-stranding | Mar 9, 2026 8:00 PM | Death Stranding in Concert | Symphony Hall (BSO) | Video Game Music | Video game soundtrack performed live | [Details](https://www.bso.org/events/death-stranding) |
-| 20260310-sinclair-whatmore | Mar 10, 2026 7:00 PM | Whatmore | The Sinclair | Indie | EASTCOAST W MY DOGS TOUR. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1308360) |
-| 20260311-sinclair-amelia-day | Mar 11, 2026 7:00 PM | Amelia Day | The Sinclair | Indie | With Maya Manuela, Zola Simone. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1240809) |
-| 20260312-sinclair-ben-quad | Mar 12, 2026 7:00 PM | Ben Quad | The Sinclair | Indie | With Riley, Footballhead, Aren't We Amphibians. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1240817) |
-| 20260313-sinclair-spafford | Mar 13, 2026 7:00 PM | Spafford | The Sinclair | Jam Band | 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/1258021) |
-| 20260314-sinclair-whethan | Mar 14, 2026 6:30 PM | Whethan | The Sinclair | Electronic | 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/1221007) |
-| 20260314-bso-mission | Mar 14, 2026 7:00 PM | The Mission (Film with Live Orchestra) | Symphony Hall (BSO) | Film/Classical | Film screening with live orchestral accompaniment | [Details](https://www.bso.org/events/mar-14-winter-tli-cinematics) |
-| 20260315-gardner-borromeo | Mar 15, 2026 | Borromeo String Quartet ⭐ | Isabella Stewart Gardner Museum | Classical/Contemporary | Program includes Schubert's "Death and the Maiden" quartet, works by Vijay Iyer, Caroline Shaw, and Jessie Montgomery | [Details](https://www.gardnermuseum.org/announcing-isabella-stewart-gardner-museums-winterspring-2026-weekend-concert-series) |
-| 20260315-sinclair-eli | Mar 15, 2026 7:00 PM | Eli | The Sinclair | Indie | All ages | [Details](https://www.sinclaircambridge.com/events/detail/1287821) |
-| 20260316-sinclair-dj-raphi | Mar 16, 2026 5:00 PM | DJ Raphi | The Sinclair | Electronic/DJ | 2026 USA Hype Tour. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1175388) |
-| 20260317-sinclair-sweet-pill | Mar 17, 2026 7:00 PM | Sweet Pill | The Sinclair | Indie Rock | Still There's a Glow Tour. With Heart To Gold, Spaced. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1222072) |
-| 20260322-nonevent-mundy | Mar 22, 2026 | Charlotte Mundy and Madison Greenstone ⭐ | TBA | Contemporary Classical/Experimental | Vocalist Charlotte Mundy performs Morton Feldman's "Three Voices" and clarinetist Morgan Greenstone presents "exstatic resonances" | [Details](https://www.nonevent.org/concerts/2026-03-22-mundy-greenstone) |
-| 20260328-nonevent-evicshen | Mar 28, 2026 | Evicshen, Cursed Image ⭐ | Boston City Hall | Experimental/Noise | NonEvent presents Evicshen's first area performance in five years, with art/noise duo Cursed Image and trumpeter Kelly Bray | [Details](https://www.nonevent.org/concerts/2026-03-28-evicshen-cursed-image) |
+| 20260330-lilypad-mehler | Mar 30, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-7fyr) |
+| 20260330-lilypad-bergonzi | Mar 30, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026) |
+| 20260330-lilypad-fringe | Mar 30, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry-b53aw-7c7kh-sj23g-aj762-b3lte) |
+| 20260330-sinclair-tigers-jaw | Mar 30, 2026 7:30 PM | Tigers Jaw ⭐ | The Sinclair | Indie Rock | With Hot Flash Heat Wave, Creeks (solo). All ages | [Details](https://www.sinclaircambridge.com/events/detail/tigers-jaw) |
+| 20260331-lilypad-krolak | Mar 31, 2026 7:30 PM | Nicholas Krolak Album Release | The Lilypad | Jazz | Album release show | [Details](https://www.lilypadinman.com/home/2026/3/31/nicholas-krolak) |
+| 20260401-roadrunner-wednesday | Apr 1, 2026 8:00 PM | Wednesday ⭐ | Roadrunner | Indie Rock/Experimental | With Gouge Away. All ages | [Details](https://roadrunnerboston.com/calendar/) |
+| 20260402-sinclair-nothing | Apr 2, 2026 8:00 PM | Nothing ⭐ | The Sinclair | Indie Rock/Shoegaze | With full body 2, Cryogeyser. All ages | [Details](https://www.sinclaircambridge.com/events) |
+| 20260404-sinclair-dirty-three | Apr 4, 2026 | Dirty Three ⭐ | The Sinclair | Experimental/Post-Rock | Australian instrumental legends | [Details](https://www.sinclaircambridge.com/events) |
+| 20260406-sinclair-angel-dust | Apr 6, 2026 7:30 PM | Angel Du$t | The Sinclair | Punk/Alternative | With Outta Pocket, JIVEBOMB, Recollection. All ages | [Details](https://www.sinclaircambridge.com/events) |
+| 20260408-sinclair-wedding-present | Apr 8, 2026 | The Wedding Present ⭐ | The Sinclair | Indie Rock | Seamonsters 35th Anniversary Tour | [Details](https://www.sinclaircambridge.com/events) |
+| 20260410-roadrunner-lany | Apr 10, 2026 7:30 PM | LANY | Roadrunner | Indie Pop | With Aidan Bissett, RIAH. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260412-gardner-goosby | Apr 12, 2026 1:30 PM | Randall Goosby & Zhu Wang ⭐ | Isabella Stewart Gardner Museum | Classical | Debussy, Beethoven, Amy Beach program | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260413-roadrunner-bob-moses | Apr 13, 2026 8:00 PM | Bob Moses & Cannons | Roadrunner | Electronic/Indie | All ages | [Details](https://roadrunnerboston.com/) |
+| 20260413-sinclair-wallice | Apr 13, 2026 8:00 PM | Wallice | The Sinclair | Indie Rock | With Fake Dad. All ages | [Details](https://www.sinclaircambridge.com/events) |
+| 20260415-roadrunner-snarky-puppy | Apr 15, 2026 8:00 PM | Snarky Puppy ⭐ | Roadrunner | Jazz Fusion/Experimental | All ages | [Details](https://roadrunnerboston.com/) |
+| 20260416-roadrunner-good-kid | Apr 16, 2026 8:00 PM | Good Kid | Roadrunner | Indie Rock | With INOHA. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260416-bso-malki-norman | Apr 16-18, 2026 | BSO: Andrew Norman Premiere ⭐ | Symphony Hall | Contemporary Classical | Susanna Mälkki conducts world premiere for two pianos, plus Ravel & Rachmaninoff | [Details](https://www.bso.org/events) |
+| 20260418-roadrunner-last-dinner | Apr 18, 2026 8:00 PM | The Last Dinner Party | Roadrunner | Indie Rock/Art Pop | With Florence Road. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260419-gardner-imani | Apr 19, 2026 1:30 PM | Imani Winds ⭐ | Isabella Stewart Gardner Museum | Contemporary Classical/Jazz | Program includes Stevie Wonder, Valerie Coleman, Fazil Say | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260419-roadrunner-microwave | Apr 19, 2026 7:00 PM | Microwave | Roadrunner | Indie Rock/Post-Hardcore | With Anthony Green, Hunny, Moving Mountains. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260424-nonevent-waterworks | Apr 24-25, 2026 7:30 PM | Waterworks 2026 Festival ⭐ | Metropolitan Waterworks Museum | Experimental | Two-night experimental sound festival curated by NonEvent | [Details](https://www.nonevent.org/concerts/waterworks-fest-2026) |
+| 20260426-gardner-butter | Apr 26, 2026 1:30 PM | Butter Quartet ⭐ | Isabella Stewart Gardner Museum | Classical | Period instrument ensemble | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260430-roadrunner-lcd1 | Apr 30, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260501-roadrunner-lcd2 | May 1, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Night 2 of 4. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260501-sinclair-hold-steady | May 1, 2026 8:00 PM | The Hold Steady ⭐ | The Sinclair | Indie Rock | All ages | [Details](https://www.sinclaircambridge.com/events) |
+| 20260502-roadrunner-lcd3 | May 2, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Night 3 of 4. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260503-roadrunner-lcd4 | May 3, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Final night. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260510-sinclair-cribs | May 10, 2026 8:00 PM | The Cribs ⭐ | The Sinclair | Indie Rock | UK indie legends | [Details](https://www.sinclaircambridge.com/events) |
+| 20260510-gardner-kanneh | May 10, 2026 1:30 PM | Isata Kanneh-Mason ⭐ | Isabella Stewart Gardner Museum | Classical | Beethoven Moonlight & Waldstein sonatas, Ravel, Dobrinka Tabakova | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260513-roadrunner-courtney | May 13, 2026 8:00 PM | Courtney Barnett ⭐ | Roadrunner | Indie Rock | With Momma, Truman Sinclair. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260513-sinclair-failure | May 13, 2026 8:30 PM | Failure ⭐ | The Sinclair | Alternative Rock/Space Rock | With All Under Heaven | [Details](https://www.sinclaircambridge.com/events) |
+| 20260516-roadrunner-ashnikko | May 16, 2026 8:00 PM | Ashnikko | Roadrunner | Alternative/Electronic | With Googly Eyes. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260517-gardner-renaissance | May 17, 2026 1:30 PM | Renaissance String Quartet ⭐ | Isabella Stewart Gardner Museum | Contemporary Classical | Randall Goosby, works by Florence Price, Brahms, Daniel Hass | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260527-sinclair-leven-kali | May 27, 2026 8:30 PM | Leven Kali | The Sinclair | R&B/Experimental | All ages | [Details](https://www.sinclaircambridge.com/events) |
+| 20260530-roadrunner-acid-bath | May 30, 2026 6:00 PM | Acid Bath ⭐ | Roadrunner | Metal/Experimental | With Napalm Death, Pig Destroyer. Reunion show. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260531-roadrunner-james-blake | May 31, 2026 8:00 PM | James Blake ⭐ | Roadrunner | Electronic/Experimental | All ages | [Details](https://roadrunnerboston.com/) |
 
-*Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability.*
+*Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability. Events at The Lilypad highlighted are special non-regular programming as requested.*
