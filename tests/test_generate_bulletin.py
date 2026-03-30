@@ -83,8 +83,7 @@ class BuildMcpConfigTests(unittest.TestCase):
             config = module.build_mcp_config()
 
         self.assertEqual(config["mcpServers"]["tavily"], {
-            "url": "https://mcp.tavily.com/mcp",
-            "api_key": "test-api-key",
+            "url": "https://mcp.tavily.com/mcp/?tavilyApiKey=test-api-key",
         })
 
     def test_omits_tavily_server_when_api_key_is_missing(self):

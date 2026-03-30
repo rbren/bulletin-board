@@ -50,8 +50,7 @@ def build_mcp_config() -> dict:
     tavily_api_key = os.getenv("TAVILY_API_KEY")
     if tavily_api_key:
         mcp_config["mcpServers"]["tavily"] = {
-            "url": "https://mcp.tavily.com/mcp",
-            "api_key": tavily_api_key,
+            "url": f"https://mcp.tavily.com/mcp/?tavilyApiKey={tavily_api_key}",
         }
         logger.info("Tavily MCP server enabled")
     else:
