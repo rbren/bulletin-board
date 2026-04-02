@@ -1,7 +1,7 @@
 ---
-cost: 1.9033
+cost: 2.5933
 title: openhands
-updated_at: 2026-04-01T08:33:07Z
+updated_at: 2026-04-02T08:26:44Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
@@ -21,6 +21,8 @@ updated_at: 2026-04-01T08:33:07Z
 | 20260315-medium-evoked-security | 2026-03-15 | Medium/EVOKED | Security Analysis | Fifteen Frameworks, One Missing Layer - OpenHands zero-click data exfiltration vulnerability via Markdown rendering discussed | N/A | https://medium.com/@EVOKED/fifteen-frameworks-one-missing-layer-93b695dd1b04 |
 | 20260314-medium-adnan-playbook | 2026-03-14 | Medium | Guide | Agentic Software Development: The Complete Playbook - OpenHands mentioned as key player in agentic development ecosystem | N/A | https://medium.com/@adnanmasood/agentic-software-development-the-complete-playbook-bounded-tasks-clean-context-and-ruthless-4d8c4cf9ab37 |
 | 20260313-airesponsibly-survey | 2026-03-13 | Responsible AI Substack | Survey | Open-Source AI Coding Agents: A Survey - Reviews OpenHands, Aider, Continue, OpenDevin, SWE-agent, and Cody | N/A | https://airesponsibly.substack.com/p/open-source-ai-coding-agents-a-survey |
+| 20260312-reddit-claude-skills | 2026-03-12 | Reddit r/AI_Agents | Discussion | The Claude Code skills actually worth installing right now (March 2026) - Mentions competition with OpenHands | 182 upvotes | https://www.reddit.com/r/AI_Agents/ |
+| 20260312-medium-dave-patten | 2026-03-12 | Medium | Technical Article | The State of AI Coding Agents (2026): From Pair Programming to Autonomous AI Teams - OpenHands mentioned as influential tool | 678 views | https://medium.com/@dave-patten/the-state-of-ai-coding-agents-2026-from-pair-programming-to-autonomous-ai-teams-b11f2b39232a |
 | 20260311-github-release | 2026-03-11 | GitHub | Release | OpenHands 1.5.0 released - Over 100 releases and 3,500+ commits since March 2024, reached 70.1K GitHub stars | 70.1K stars, 8.8K forks | https://github.com/OpenHands/OpenHands |
 | 20260309-medium-unicodeveloper | 2026-03-09 | Medium | Article | 10 Must-Have Skills for Claude (and Any Coding Agent) in 2026 - Guide applicable to OpenHands and other coding assistants | 939 views | https://medium.com/@unicodeveloper |
 | 20260306-github-hermes-feature | 2026-03-06 | GitHub | Feature Request | Feature: OpenHands Coding Agent Skill for Hermes Agent - Model-agnostic sandboxed code agent delegation with 68.6K+ stars | 68.6K+ stars | https://github.com/NousResearch/hermes-agent/issues/477 |
