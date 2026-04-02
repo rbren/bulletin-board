@@ -1,15 +1,13 @@
 ---
-cost: 2.2448
+cost: 1.5248
 title: industry-news
-updated_at: 2026-04-01T08:33:13.457381
+updated_at: 2026-04-02T08:26:39.754734
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
 |---|---|---|---|---|
+| 20260401-claude-code-leak | 2026-04-01 | Anthropic | Claude Code Source Code Accidentally Leaked | https://build.ms/2026/4/1/the-claude-code-leak/ | Anthropic accidentally leaked Claude Code's source code, revealing a "vibe coded" codebase that still achieved $2.5B ARR in under a year. The company sent DMCA notices to remove repos, including accidentally targeting their own forks. The leak sparked discussions about code quality vs product-market fit. |
 | 20260330-openai-windsurf-talks | 2026-03-30 | OpenAI | OpenAI in Advanced Talks to Acquire Windsurf for $3B | https://www.computerworld.com/article/3978426/openai-to-acquire-ai-coding-tool-windsurf-for-3b.html | OpenAI is reportedly in discussions to acquire AI coding tool Windsurf (formerly Codeium) for approximately $3 billion, marking its largest acquisition to date. The deal would give OpenAI a developer-native IDE to compete directly with GitHub Copilot and Anthropic's Claude Code. |
 | 20260330-qodo-raises-70m | 2026-03-30 | Qodo | Qodo Raises $70M for Code Verification as AI Coding Scales | https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/ | AI code verification startup Qodo raises $70M Series B led by Qumra Capital, bringing total funding to $120M. The company focuses on ensuring AI-generated code quality and reliability as enterprises accelerate adoption of AI coding tools. |
 | 20260327-cursor-real-time-rl | 2026-03-27 | Cursor | Cursor Implements Real-time RL for Composer Improvements | https://cursor.com/blog/real-time-rl-for-composer | Cursor introduces "Real-time RL," a technique using real inference tokens for training that allows them to ship improved versions of Composer as often as every five hours based on user response signals. |
 | 20260327-github-copilot-data-policy | 2026-03-27 | GitHub | GitHub to Use Copilot Data for AI Model Training Starting April 24 | https://www.reddit.com/r/github/comments/1s3kvms/starting_april_24_2026_github_will_begin_using/ | Starting April 24, 2026, GitHub will begin using Copilot interactions (inputs, outputs, and code snippets) to train and improve their AI models unless users opt out. Users who previously opted out will retain their preference. |
-| 20260326-cognition-devin-race | 2026-03-26 | Cognition | Cognition's Devin Racing to Build AI Software Engineer | https://sfstandard.com/2026/03/24/grind-sf-startup-racing-build-ai-software-engineer/ | Profile on Cognition's efforts to build Devin, an AI software engineer that can build software from start to finish. CEO Scott Wu believes the technology will allow engineers to focus on the best parts of the job while sparing them grunt work. |
-| 20260325-openai-sora-shutdown | 2026-03-25 | OpenAI | OpenAI Winds Down Sora to Focus on "Spud" Model | https://x.com/soraofficialapp/status/2036546752535470382 | OpenAI discontinues its Sora AI video generator to free up compute for "Spud," its next major model. The move affects Disney's $1B investment partnership, with Sora team shifting focus to "world simulation" for robotics. |
-| 20260325-hark-ai-device | 2026-03-25 | Hark | Figure AI Founder Launches $100M AI Device Startup Hark | https://hark.com/ | Brett Adcock launches Hark with $100M personal investment, targeting "most advanced personal AI ever built" with dedicated hardware. 45-person team from Apple, Google, Meta, Tesla building AI devices for personal and home use with thousands of NVIDIA B200 GPUs arriving April. |
