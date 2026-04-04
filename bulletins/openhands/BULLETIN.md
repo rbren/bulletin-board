@@ -1,12 +1,15 @@
 ---
-cost: 1.9433
+cost: 2.7045
 title: openhands
-updated_at: 2026-04-03T08:22:57Z
+updated_at: 2026-04-04T08:16:58Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
+| 20260404-agentsindex-github-alternatives | 2026-04-04 | AgentsIndex | Analysis | 22 Free Alternatives to GitHub Copilot - OpenHands listed as open-source autonomous agent for end-to-end software development | N/A | https://agentsindex.ai/alternatives/github-copilot/free |
+| 20260403-vision2web-benchmark | 2026-04-03 | arXiv | Research | Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification - OpenHands vs Claude Code performance comparison | N/A | https://arxiv.org/html/2603.26648v2 |
 | 20260403-reddit-opensource-devin | 2026-04-03 | Reddit r/OpenSourceAI | Discussion | OpenHands (formerly OpenDevin): is this the closest we've gotten to an open-source Devin? | N/A | https://www.reddit.com/r/OpenSourceeAI/comments/1s8g7t1/openhands_formerly_opendevin_is_this_the_closest/ |
+| 20260402-headlines-claude-leak | 2026-04-02 | Headlines Briefing | News | Developer & AI Newsletter - Mentions Claude Code leak and AI coding tools surge in quality for open source maintenance | N/A | https://headlinesbriefing.com/p/developer-and-ai-thursday-april-2 |
 | 20260402-reddit-multi-ai-orchestration | 2026-04-02 | Reddit r/AI_Agents | Discussion | Need help regarding multi ai orchestration evaluation - comparing custom multi-agent system with OpenHands | N/A | https://www.reddit.com/r/AI_Agents/comments/1s9ixek/need_help_regarding_multi_ai_orchestration/ |
 | 20260401-vibecoding-review | 2026-04-01 | Vibe Coding Blog | Review | OpenHands Review 2026 - Worth the Setup? Detailed review of open-source AI software engineer | N/A | https://vibecoding.app/blog/openhands-review |
 | 20260401-apidog-comparison | 2026-04-01 | Apidog Blog | Comparison | OpenHands vs Devin AI: The Open-Source AI Developer for Engineers | N/A | https://apidog.com/blog/openhands-the-open-source-devin-ai-alternative/ |
@@ -19,4 +22,3 @@ updated_at: 2026-04-03T08:22:57Z
 | 20260330-youtube-multi-agent-obsolete | 2026-03-30 | YouTube | Analysis | Are Multi-Agent Coding Frameworks Obsolete? - Discusses team of dev AI frameworks vs Claude 3.7 Sonnet capabilities | N/A | https://www.youtube.com/watch?v=oAoAIGtHxS0 |
 | 20260329-facebook-odsc-interview | 2026-03-29 | Facebook/ODSC | Interview Post | Robert Brennan (OpenHands CEO) discusses AI coding agents evolution, agent orchestrators, and parallel agent deployment | N/A | https://www.facebook.com/OPENDATASCI/posts/%EF%B8%8Fin-this-episode-we-speak-with-robert-brennan-co-founder-and-ceo-of-openhands-ab/1352818156880895/ |
 | 20260328-reddit-local-llm-qwen | 2026-03-28 | Reddit r/LocalLLaMA | Technical | Running Qwen3.5-27B locally as the primary model in OpenCode - setup guide for local LLM with agentic coding assistants | N/A | https://www.reddit.com/r/LocalLLaMA/comments/1s7p0u9/running_qwen3527b_locally_as_the_primary_model_in/ |
-| 20260327-localaimaster-comparison | 2026-03-27 | LocalAIMaster Blog | Comparison | OpenHands vs SWE-Agent: Best AI Coding Agent 2026 - Detailed architecture comparison and benchmarks | N/A | https://localaimaster.com/blog/openhands-vs-swe-agent |
