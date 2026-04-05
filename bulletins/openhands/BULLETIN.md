@@ -1,11 +1,13 @@
 ---
-cost: 2.7045
+cost: 2.0139
 title: openhands
-updated_at: 2026-04-04T08:16:58Z
+updated_at: 2026-04-05T08:16:06Z
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
+| 20260405-github-explore-collection | 2026-04-05 | GitHub/explore | PR | Add AI Coding Agents collection - OpenHands listed with 71k stars as AI-driven development platform | 71k stars | https://github.com/github/explore/pull/5104 |
+| 20260404-hn-coding-agent-components | 2026-04-04 | Hacker News | Comment | Components of a Coding Agent discussion - Mentions OpenHands software-agent-sdk | N/A | https://news.ycombinator.com/item?id=47644030 |
 | 20260404-agentsindex-github-alternatives | 2026-04-04 | AgentsIndex | Analysis | 22 Free Alternatives to GitHub Copilot - OpenHands listed as open-source autonomous agent for end-to-end software development | N/A | https://agentsindex.ai/alternatives/github-copilot/free |
 | 20260403-vision2web-benchmark | 2026-04-03 | arXiv | Research | Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification - OpenHands vs Claude Code performance comparison | N/A | https://arxiv.org/html/2603.26648v2 |
 | 20260403-reddit-opensource-devin | 2026-04-03 | Reddit r/OpenSourceAI | Discussion | OpenHands (formerly OpenDevin): is this the closest we've gotten to an open-source Devin? | N/A | https://www.reddit.com/r/OpenSourceeAI/comments/1s8g7t1/openhands_formerly_opendevin_is_this_the_closest/ |
@@ -21,4 +23,3 @@ updated_at: 2026-04-04T08:16:58Z
 | 20260330-opendatascience-podcast | 2026-03-30 | Open Data Science | Podcast | Open Source Coding Agents: The Future of AI-Driven Software Development - ODSC Team discusses OpenHands SDK and production deployment | N/A | https://opendatascience.com/open-source-coding-agents-the-future-of-ai-driven-software-development/ |
 | 20260330-youtube-multi-agent-obsolete | 2026-03-30 | YouTube | Analysis | Are Multi-Agent Coding Frameworks Obsolete? - Discusses team of dev AI frameworks vs Claude 3.7 Sonnet capabilities | N/A | https://www.youtube.com/watch?v=oAoAIGtHxS0 |
 | 20260329-facebook-odsc-interview | 2026-03-29 | Facebook/ODSC | Interview Post | Robert Brennan (OpenHands CEO) discusses AI coding agents evolution, agent orchestrators, and parallel agent deployment | N/A | https://www.facebook.com/OPENDATASCI/posts/%EF%B8%8Fin-this-episode-we-speak-with-robert-brennan-co-founder-and-ceo-of-openhands-ab/1352818156880895/ |
-| 20260328-reddit-local-llm-qwen | 2026-03-28 | Reddit r/LocalLLaMA | Technical | Running Qwen3.5-27B locally as the primary model in OpenCode - setup guide for local LLM with agentic coding assistants | N/A | https://www.reddit.com/r/LocalLLaMA/comments/1s7p0u9/running_qwen3527b_locally_as_the_primary_model_in/ |
