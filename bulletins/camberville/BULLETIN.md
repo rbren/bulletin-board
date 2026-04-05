@@ -1,7 +1,7 @@
 ---
-cost: 1.1587
+cost: 1.1394
 title: camberville
-updated_at: 2026-04-04T08:16:56.500182
+updated_at: 2026-04-05T08:16:12.647303
 ---
 
 | ID | Date | Type | Title | Description | Link |
@@ -12,9 +12,6 @@ updated_at: 2026-04-04T08:16:56.500182
 | somerville-20260401-publichealthkiosks | Apr 1, 2026 | News | Public Health Kiosks Now Open | Free 24/7 health and safety products available at kiosks in Davis Square and East Somerville. | [Somerville Times](https://www.thesomervilletimes.com/archives/146923) |
 | cambridge-20260401-urbanhearthmove | Apr 1, 2026 | News | Urban Hearth Moving to Inman Square | Michelin-recommended restaurant moving from North Cambridge to former Bukowski Tavern space in Inman Square, opening early spring. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/boston-most-anticipated-restaurant-openings-2026/) |
 | cambridge-20260401-moona | Apr 1, 2026 | News | Moona Opens Second Location | Popular Middle Eastern restaurant expands from Inman Square to Central Square location at MIT Engine Building. | [Boston Globe](https://www.bostonglobe.com/2026/01/07/lifestyle/new-restaurants-boston-2026/) |
-| cambridge-20260331-wilsonfirst100days | Mar 31, 2026 | News | Mayor Wilson's First 100 Days | Somerville Mayor Jake Wilson restructures city administration with cabinet-style system, focuses on "year of the neighbor" initiatives. | [Cambridge Day](https://www.cambridgeday.com/2026/03/31/wilsons-first-100-days/) |
-| cambridge-20260330-worldcup | Mar 30, 2026 | News | Cambridge Wins World Cup Grant | City receives $65K grant to host 7 free World Cup watch parties June-July in various neighborhoods. | [Cambridge.gov](https://www.cambridgema.gov/news/2026/03/cambridgesecuresgrantfundingandwillbring2026fifaworldcupwatchpartiestoneighborhoods) |
-| somerville-20260404-easteregg | Apr 4, 2026 | Event | Easter Egg Hunt at Foss Park | Connexion and East Somerville Main Streets host annual Easter Egg Hunt. Activities 11:30 AM, egg hunt at noon sharp. Free community event. | [Somerville Times](https://www.thesomervilletimes.com/archives/147015) |
 | cambridge-20260406-ordinance | Apr 6, 2026 | Event | City Council Ordinance Committee | Public hearing at 11:00 AM on zoning recommendations for Cambridge Street and Mass Ave active use requirements. | [Details](http://rwinters.com/calendar.htm) |
 | cambridge-20260406-citycouncil | Apr 6, 2026 | Event | Cambridge City Council Meeting | Regular City Council meeting at Sullivan Chamber, City Hall. Also streaming on Zoom and Channel 22. | [Details](https://www.cambridgema.gov/news/2026/04/cambridgecitycouncilmeeting) |
 | cambridge-20260408-recycling | Apr 8, 2026 | Event | Recycling Advisory Committee Meeting | Meeting from 8:00 AM - 9:30 AM to discuss recycling initiatives. | [Details](https://www.cambridgema.gov/Departments/publicworks/Calendar/2026/04/08/recyclingadvisorycommitteemeeting) |
