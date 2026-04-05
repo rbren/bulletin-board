@@ -1,7 +1,7 @@
 ---
-cost: 2.0916
+cost: 1.0874
 title: industry-news
-updated_at: 2026-04-04T08:32:00.000000
+updated_at: 2026-04-05T08:16:11.099750
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
@@ -15,4 +15,3 @@ updated_at: 2026-04-04T08:32:00.000000
 | 20260401-cognition-funding-round | 2026-04-01 | Cognition | Cognition AI Reaches $10.2B Valuation After $400M Funding | https://news.ssbcrack.com/cognition-ai-valuation-soars-to-10-2-billion-after-400-million-funding-round | Cognition AI (maker of Devin) raised $400M led by Founders Fund, reaching $10.2B valuation, up from $4B earlier this year. Annual recurring revenue from Devin soared to $73M as of June, up from $1M in September 2024. Company acquired AI coding startup Windsurf in July after Google recruited several Windsurf leaders. |
 | 20260330-openai-windsurf-talks | 2026-03-30 | OpenAI | OpenAI in Advanced Talks to Acquire Windsurf for $3B | https://www.computerworld.com/article/3978426/openai-to-acquire-ai-coding-tool-windsurf-for-3b.html | OpenAI is reportedly in discussions to acquire AI coding tool Windsurf (formerly Codeium) for approximately $3 billion, marking its largest acquisition to date. The deal would give OpenAI a developer-native IDE to compete directly with GitHub Copilot and Anthropic's Claude Code. |
 | 20260330-qodo-raises-70m | 2026-03-30 | Qodo | Qodo Raises $70M for Code Verification as AI Coding Scales | https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/ | AI code verification startup Qodo raises $70M Series B led by Qumra Capital, bringing total funding to $120M. The company focuses on ensuring AI-generated code quality and reliability as enterprises accelerate adoption of AI coding tools. |
-| 20260329-google-anthropic-investment | 2026-03-29 | Anthropic | Google Invests $3B in Anthropic, Will Finance Multi-Billion Data Center | https://gardenzhome.com/anthripic-claude-news-updates-today | Google has invested $3 billion in Anthropic and will finance a multibillion-dollar data center for the company. Google is also a major cloud provider for Anthropic. The investment comes as Anthropic's paid users have doubled in 2026 and are increasing according to analysis of 28 million paying US subscribers. |
