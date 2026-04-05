@@ -1,27 +1,35 @@
 ---
-cost: 2.0984
+cost: 4.0146
 title: concerts
-updated_at: 2026-04-04T08:16:58.734177
+updated_at: 2026-04-05T08:16:12.484329
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260404-lilypad-sonic | Apr 4, 2026 3:30 PM | Sonic Environments ⭐ | The Lilypad | Experimental | Killick Hinds, Rebekkah Palov, Federico Balducci + Becca Pasley. $10 admission / 3pm doors / seated | [Details](https://www.lilypadinman.com/home/2026/4/sonic-environments) |
-| 20260404-sinclair-dirty-three | Apr 4, 2026 8:00 PM | Dirty Three ⭐ | The Sinclair | Experimental/Post-Rock | Australian instrumental legends. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1204046) |
-| 20260404-lilypad-viruette | Apr 4, 2026 7:30 PM | Viruette / Modern Ego / Golem ⭐ | The Lilypad | Indie Rock | $18 day of show / $15 advance / 7:30 doors / 8pm show / all ages | [Details](https://www.lilypadinman.com/home/2026/viruette-modern-ego-golem) |
-| 20260405-lilypad-edens | Apr 5, 2026 7:00 PM | Eliza Edens | The Lilypad | Folk | $18 day of show / $15 advance / 6:30 doors / 7pm start / all ages | [Details](https://www.lilypadinman.com/home/2026/4/5/eliza-edens) |
 | 20260405-gardner-galbraith | Apr 5, 2026 1:30 PM | Paul Galbraith ⭐ | Isabella Stewart Gardner Museum | Classical | Superstar guitarist. SOLD OUT | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260405-lilypad-perez-albela | Apr 5, 2026 4:00 PM | Jorge Perez-Albela Trio with Kenny Werner and John Lockwood | The Lilypad | Jazz | $35 at the door / 4pm start / 3:45 doors / seated | [Details](https://www.lilypadinman.com/home/2026/4/5/jorge-perez-albela-trio) |
+| 20260405-lilypad-edens | Apr 5, 2026 6:30 PM | Eliza Edens | The Lilypad | Folk | $18 day of show / $15 advance / 6:30 doors / 7pm start / all ages | [Details](https://www.lilypadinman.com/home/2026/4/5/eliza-edens) |
+| 20260406-lilypad-mehler | Apr 6, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8-a3xg9-gdhty-94d5m-mx832-swe24-pwdbh-bfezz-5mgwg) |
 | 20260406-sinclair-angel-dust | Apr 6, 2026 7:30 PM | Angel Du$t | The Sinclair | Punk/Alternative | With Outta Pocket, JIVEBOMB, Recollection. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1228350) |
-| 20260407-lilypad-sharp | Apr 7, 2026 10:00 PM | Elliott Sharp ⭐ | The Lilypad | Experimental | Avant-garde guitarist. $20 cover / $10 students / 10pm doors | [Details](https://www.lilypadinman.com/home/2026/elliott-sharp) |
+| 20260406-lilypad-bergonzi | Apr 6, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026-ppejb) |
+| 20260406-lilypad-fringe | Apr 6, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry-b53aw-7c7kh-sj23g-aj762-b3lte-nhlks) |
+| 20260407-lilypad-shepup | Apr 7, 2026 7:00 PM | 4la7la / shepup / Analise / Samantha DeLuca | The Lilypad | Folk/Singer-songwriter | $15 admission / 7pm doors / 7:30 start / seated | [Details](https://www.lilypadinman.com/home/2026/4/7/shepup-4la7la) |
 | 20260407-sinclair-yung-kai | Apr 7, 2026 8:00 PM | yung kai | The Sinclair | Indie Pop | With Rin. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1183829) |
+| 20260407-lilypad-sharp | Apr 7, 2026 10:00 PM | Elliott Sharp ⭐ | The Lilypad | Experimental | Avant-garde guitarist. $20 cover / $10 students / 10pm doors | [Details](https://www.lilypadinman.com/home/2026/elliott-sharp) |
 | 20260408-sinclair-wedding-present | Apr 8, 2026 8:00 PM | The Wedding Present ⭐ | The Sinclair | Indie Rock | Seamonsters 35th Anniversary Tour with Mark Robinson sings Unrest | [Details](https://www.sinclaircambridge.com/events/detail/1189006) |
+| 20260408-lilypad-variety | Apr 8, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf-76pd3-y7ch7-8hmx7-55f5l-wn392-phe7k) |
+| 20260409-lilypad-round | Apr 9, 2026 7:45 PM | In The Round: Cece Benz / Rowan Grace / Jane Kristiansen / Maeve Zamuner | The Lilypad | Singer-songwriter | $15 admission / $10 advance / 7:45 doors / 8:15 show | [Details](https://www.lilypadinman.com/home/2026/4/9/in-the-round-cece-benz-rowan-grace-jane-kristiansen-amp-maeve-zamuner) |
 | 20260409-sinclair-hannah-cohen | Apr 9, 2026 8:00 PM | Hannah Cohen | The Sinclair | Indie Folk | With mmeadows. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1231513) |
+| 20260409-lilypad-vlachos | Apr 9, 2026 10:00 PM | Ali Vlachos, Mollie, Jules Kessler, and jace | The Lilypad | Folk/Indie/Pop/Rock | $15 admission / $12 students / 10pm doors / 10:30 start | [Details](https://www.lilypadinman.com/home/2026/4/9/ali-vlachos-mollie-jules-kessler-and-jace) |
 | 20260410-roadrunner-lany | Apr 10, 2026 7:30 PM | LANY | Roadrunner | Indie Pop | With Aidan Bissett, RIAH. All ages | [Details](https://roadrunnerboston.com/) |
+| 20260410-lilypad-robo-pumpkin | Apr 10, 2026 7:30 PM | Robo Pumpkin / Jam Poetry / Today Junior ⭐ | The Lilypad | Indie Rock | $15 admission / $13 advance / 7:30pm doors / 8pm start | [Details](https://www.lilypadinman.com/home/2026/4/10/robo-pumpkin-jam-poetry-today-junior) |
 | 20260410-sinclair-whitney | Apr 10, 2026 8:00 PM | Whitney | The Sinclair | Indie Rock | With Dari Bay. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1130783) |
+| 20260410-lilypad-kasper | Apr 10, 2026 10:00 PM | Julien Kasper | The Lilypad | Jazz | $20 admission / $10 students / 10pm doors / 10:30 start | [Details](https://www.lilypadinman.com/home/2026/julien-kasper) |
+| 20260411-lilypad-nakatani | Apr 11, 2026 4:30 PM | Tatsuya Nakatani / Marie Carroll / Forbes Graham ⭐ | The Lilypad | Experimental | $20 suggested donation / 4:30 doors / 5pm start | [Details](https://www.lilypadinman.com/home/2026/4/11/tatsuya-nakatani-marie-carroll-forbes-graham) |
+| 20260411-lilypad-seventh-gate | Apr 11, 2026 7:15 PM | The Seventh Gate - Elly Kace, Cautionary Tale and Aznjujube | The Lilypad | Indie | $15 / 7:15 doors / show start TBD | [Details](https://www.lilypadinman.com/home/2026/the-seventh-gate-elly-kace) |
 | 20260411-sinclair-whitney2 | Apr 11, 2026 8:00 PM | Whitney | The Sinclair | Indie Rock | With Dari Bay. All ages. Second night | [Details](https://www.sinclaircambridge.com/events/detail/1130792) |
-| 20260411-lilypad-nakatani | Apr 11, 2026 5:00 PM | Tatsuya Nakatani / Marie Carroll / Forbes Graham ⭐ | The Lilypad | Experimental | $20 suggested donation / 4:30 doors / 5pm start | [Details](https://www.lilypadinman.com/home/2026/4/11/tatsuya-nakatani-marie-carroll-forbes-graham) |
-| 20260412-sinclair-club-delf | Apr 12, 2026 7:30 PM | Club d'Elf ⭐ | The Sinclair | Experimental Jazz | Loon and Thrust Album Release with Descent Theory | [Details](https://www.sinclaircambridge.com/events/detail/1338114) |
 | 20260412-gardner-goosby | Apr 12, 2026 1:30 PM | Randall Goosby & Zhu Wang ⭐ | Isabella Stewart Gardner Museum | Classical | Violin and piano recital. SOLD OUT | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260412-sinclair-club-delf | Apr 12, 2026 7:30 PM | Club d'Elf ⭐ | The Sinclair | Experimental Jazz | Loon and Thrust Album Release with Descent Theory | [Details](https://www.sinclaircambridge.com/events/detail/1338114) |
 | 20260413-roadrunner-bob-moses | Apr 13, 2026 8:00 PM | Bob Moses & Cannons | Roadrunner | Electronic/Indie | With Oxis. All ages | [Details](https://roadrunnerboston.com/) |
 | 20260413-sinclair-wallice | Apr 13, 2026 8:00 PM | Wallice | The Sinclair | Indie Rock | With Fake Dad. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1238316) |
 | 20260414-sinclair-lala-lala | Apr 14, 2026 8:00 PM | Lala Lala | The Sinclair | Indie Rock | With Mother Soki. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1270089) |
