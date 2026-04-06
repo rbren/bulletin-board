@@ -1,14 +1,11 @@
 ---
-cost: 4.0146
+cost: 1.3937
 title: concerts
-updated_at: 2026-04-05T08:16:12.484329
+updated_at: 2026-04-06T08:37:34.224644
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260405-gardner-galbraith | Apr 5, 2026 1:30 PM | Paul Galbraith ⭐ | Isabella Stewart Gardner Museum | Classical | Superstar guitarist. SOLD OUT | [Details](https://www.gardnermuseum.org/calendar) |
-| 20260405-lilypad-perez-albela | Apr 5, 2026 4:00 PM | Jorge Perez-Albela Trio with Kenny Werner and John Lockwood | The Lilypad | Jazz | $35 at the door / 4pm start / 3:45 doors / seated | [Details](https://www.lilypadinman.com/home/2026/4/5/jorge-perez-albela-trio) |
-| 20260405-lilypad-edens | Apr 5, 2026 6:30 PM | Eliza Edens | The Lilypad | Folk | $18 day of show / $15 advance / 6:30 doors / 7pm start / all ages | [Details](https://www.lilypadinman.com/home/2026/4/5/eliza-edens) |
 | 20260406-lilypad-mehler | Apr 6, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8-a3xg9-gdhty-94d5m-mx832-swe24-pwdbh-bfezz-5mgwg) |
 | 20260406-sinclair-angel-dust | Apr 6, 2026 7:30 PM | Angel Du$t | The Sinclair | Punk/Alternative | With Outta Pocket, JIVEBOMB, Recollection. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1228350) |
 | 20260406-lilypad-bergonzi | Apr 6, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026-ppejb) |
