@@ -1,7 +1,7 @@
 ---
-cost: 1.0874
+cost: 0.8624
 title: industry-news
-updated_at: 2026-04-05T08:16:11.099750
+updated_at: 2026-04-06T08:37:41.353563
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
@@ -14,4 +14,3 @@ updated_at: 2026-04-05T08:16:11.099750
 | 20260401-claude-code-leak | 2026-04-01 | Anthropic | Claude Code Source Code Accidentally Leaked | https://www.brightdefense.com/news/claude-source-code-leak/ | Anthropic accidentally exposed 500,000 lines of Claude Code's source code, prompting widespread DMCA takedowns. The incident revealed internal architecture and competitive intelligence, though no customer data was exposed. Anthropic released v2.1.89 as remediation. |
 | 20260401-cognition-funding-round | 2026-04-01 | Cognition | Cognition AI Reaches $10.2B Valuation After $400M Funding | https://news.ssbcrack.com/cognition-ai-valuation-soars-to-10-2-billion-after-400-million-funding-round | Cognition AI (maker of Devin) raised $400M led by Founders Fund, reaching $10.2B valuation, up from $4B earlier this year. Annual recurring revenue from Devin soared to $73M as of June, up from $1M in September 2024. Company acquired AI coding startup Windsurf in July after Google recruited several Windsurf leaders. |
 | 20260330-openai-windsurf-talks | 2026-03-30 | OpenAI | OpenAI in Advanced Talks to Acquire Windsurf for $3B | https://www.computerworld.com/article/3978426/openai-to-acquire-ai-coding-tool-windsurf-for-3b.html | OpenAI is reportedly in discussions to acquire AI coding tool Windsurf (formerly Codeium) for approximately $3 billion, marking its largest acquisition to date. The deal would give OpenAI a developer-native IDE to compete directly with GitHub Copilot and Anthropic's Claude Code. |
-| 20260330-qodo-raises-70m | 2026-03-30 | Qodo | Qodo Raises $70M for Code Verification as AI Coding Scales | https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/ | AI code verification startup Qodo raises $70M Series B led by Qumra Capital, bringing total funding to $120M. The company focuses on ensuring AI-generated code quality and reliability as enterprises accelerate adoption of AI coding tools. |
