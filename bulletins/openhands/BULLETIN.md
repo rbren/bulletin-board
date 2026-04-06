@@ -1,7 +1,7 @@
 ---
-cost: 2.0139
+cost: 1.0617
 title: openhands
-updated_at: 2026-04-05T08:16:06Z
+updated_at: 2026-04-06T08:37:34.212535
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
@@ -19,7 +19,3 @@ updated_at: 2026-04-05T08:16:06Z
 | 20260401-reddit-docker-containerize | 2026-04-01 | Reddit r/LocalLLaMA | Technical | Struggling to containerize OpenHands & OpenCode for OpenClaw orchestration + DGX Spark setup | N/A | https://www.reddit.com/r/LocalLLaMA/comments/1s6hv8f/struggling_to_containerize_openhands_opencode_for/ |
 | 20260331-claude-code-leak | 2026-03-31 | GitHub/36kr | Controversy | Claude Code source code leaked via npm sourcemap - 512K lines exposed, 60K+ forks overnight, mentions competition with OpenHands | 60K+ forks | https://eu.36kr.com/en/p/3747613304193796 |
 | 20260331-youtube-code-story | 2026-03-31 | YouTube/Code Story | Interview | S12 E12: Robert Brennan, OpenHands - Insights from Startup Tech Leaders podcast | N/A | https://www.youtube.com/watch?v=vSW0WqSqTqU |
-| 20260330-openhands-v160-release | 2026-03-30 | GitHub | Release | OpenHands 1.6.0 released - Reached 70.3K GitHub stars, 8.8K forks, 433 watchers | 70.3K stars, 8.8K forks | https://github.com/OpenHands/OpenHands |
-| 20260330-opendatascience-podcast | 2026-03-30 | Open Data Science | Podcast | Open Source Coding Agents: The Future of AI-Driven Software Development - ODSC Team discusses OpenHands SDK and production deployment | N/A | https://opendatascience.com/open-source-coding-agents-the-future-of-ai-driven-software-development/ |
-| 20260330-youtube-multi-agent-obsolete | 2026-03-30 | YouTube | Analysis | Are Multi-Agent Coding Frameworks Obsolete? - Discusses team of dev AI frameworks vs Claude 3.7 Sonnet capabilities | N/A | https://www.youtube.com/watch?v=oAoAIGtHxS0 |
-| 20260329-facebook-odsc-interview | 2026-03-29 | Facebook/ODSC | Interview Post | Robert Brennan (OpenHands CEO) discusses AI coding agents evolution, agent orchestrators, and parallel agent deployment | N/A | https://www.facebook.com/OPENDATASCI/posts/%EF%B8%8Fin-this-episode-we-speak-with-robert-brennan-co-founder-and-ceo-of-openhands-ab/1352818156880895/ |
