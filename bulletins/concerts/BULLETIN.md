@@ -1,14 +1,11 @@
 ---
-cost: 3.8618
+cost: 2.2351
 title: concerts
-updated_at: 2026-04-07T08:32:10.956142
+updated_at: 2026-04-08T08:30:47.996675
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260407-lilypad-shepup | Apr 7, 2026 7:00 PM | 4la7la / shepup / Analise / Samantha DeLuca | The Lilypad | Folk/Singer-songwriter | $15 admission / 7pm doors / 7:30 start / seated | [Details](https://www.lilypadinman.com/home/2026/4/7/shepup-4la7la) |
-| 20260407-sinclair-yung-kai | Apr 7, 2026 8:00 PM | yung kai | The Sinclair | Indie Pop | With Rin. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1183829) |
-| 20260407-lilypad-sharp | Apr 7, 2026 10:00 PM | Elliott Sharp ⭐ | The Lilypad | Experimental | Avant-garde guitarist. $20 cover / $10 students / 10pm doors | [Details](https://www.lilypadinman.com/home/2026/elliott-sharp) |
 | 20260408-roadrunner-accusefive | Apr 8, 2026 8:00 PM | Accusefive | Roadrunner | Rock | Taiwanese rock band "Run, Run, Run!" 2026 Live Tour | [Details](https://roadrunnerboston.com/events/detail?event_id=1322793) |
 | 20260408-sinclair-wedding-present | Apr 8, 2026 8:00 PM | The Wedding Present ⭐ | The Sinclair | Indie Rock | Seamonsters 35th Anniversary Tour with Mark Robinson sings Unrest | [Details](https://www.sinclaircambridge.com/events/detail/1189006) |
 | 20260408-lilypad-variety | Apr 8, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf-76pd3-y7ch7-8hmx7-55f5l-wn392-phe7k) |
@@ -55,5 +52,6 @@ updated_at: 2026-04-07T08:32:10.956142
 | 20260502-lilypad-operelly | May 2, 2026 8:00 PM | Operelly | The Lilypad | Indie Folk | Alternative folk band | [Details](https://concerts.consequence.net/events/operelly-at-the-lilypad-on-2026-05-02-20-00) |
 | 20260503-roadrunner-lcd4 | May 3, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 4/4). All ages | [Details](https://roadrunnerboston.com/) |
 | 20260503-sinclair-hold-steady3 | May 3, 2026 5:00 PM | The Hold Steady: Storytellers Set ⭐ | The Sinclair | Indie Rock | Special acoustic set (Part of residency) | [Details](https://www.sinclaircambridge.com/) |
+| 20260504-bmop-turning-point | May 4, 2026 3:00 PM | BMOP: Turning Point ⭐ | NEC Jordan Hall | Contemporary Classical | World premieres: Jeremy Gill, Han Lash; works by Christopher Theofanidis | [Details](https://bmop.org/) |
 
 *Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability. The Lilypad events highlighted are special non-regular programming as requested.*
