@@ -1,19 +1,15 @@
 ---
-cost: 3.3000
+cost: 3.1151
 title: camberville
-updated_at: 2026-04-11T08:16:54
+updated_at: 2026-04-12T08:21:25
 ---
 
 | ID | Date | Type | Title | Description | Link |
 |---|---|---|---|---|
-| cambridge-20260411-astronomy | Apr 11, 2026 | Event | Community Astronomy Night | Free event at Cambridge Street Upper School 6-8 PM with Harvard & Smithsonian SRMP interns. View planets, learn about telescopes. Pizza provided. | [Details](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/departments/humanserviceprograms/news/2026/02/steamcommunityastronomynight) |
-| cambridge-20260411-hazardous | Apr 11, 2026 | Event | Household Hazardous Waste Collection | Collection day from 9:00 AM - 1:00 PM at 50 Mooney Street (enter via Fawcett St.) | [Details](http://rwinters.com/calendar.htm) |
-| somerville-20260411-archery | Apr 11, 2026 | Event | Archery Night Out! | Put down the axe and pick up a bow! 6:00 PM at 115 Kinnaird St, Cambridge. | [Patch](https://patch.com/massachusetts/somerville/calendar) |
-| somerville-20260411-comedy | Apr 11, 2026 | Event | Union Square Comedy Shows | Multiple comedy shows at Goofs Comedy Club and Union Comedy, featuring standup and improv. | [Boston Calendar](https://www.thebostoncalendar.com/events?utf8=%E2%9C%93&search=somerville) |
-| somerville-20260411-farmersmarket | Apr 11, 2026 | Event | Somerville Winter Farmers Market | Weekly winter market 9:30 AM - 1:30 PM at Arts at the Armory with 71+ local food vendors. | [Details](https://artsatthearmory.org/) |
-| somerville-20260412-guacoff | Apr 12, 2026 | Event | The Painted Burro Guac-Off 2026 | Annual guacamole competition at The Painted Burro, 3:00 PM. | [Eventbrite](https://www.eventbrite.com/d/ma--somerville/events/) |
 | cambridge-20260412-symphony | Apr 12, 2026 | Event | Cambridge Symphony Orchestra Family Concert | Family-friendly concert at Arts at the Armory, 1:30 PM and 3:30 PM shows. | [Details](https://artsatthearmory.org/) |
-| somerville-20260412-easter | Apr 12, 2026 | Event | Nepali New Year 2083 Flag Raising | Flag raising ceremony at Somerville City Hall celebrating Nepali New Year. | [Somerville](https://www.somervillema.gov/) |
+| somerville-20260412-guacoff | Apr 12, 2026 | Event | The Painted Burro Guac-Off 2026 | Annual guacamole competition at The Painted Burro, 3:00 PM. | [Eventbrite](https://www.eventbrite.com/d/ma--somerville/events/) |
+| somerville-20260412-nepali-flag | Apr 12, 2026 | Event | Nepali New Year 2083 Flag Raising | Flag raising ceremony at Somerville City Hall celebrating Nepali New Year. | [Somerville](https://www.somervillema.gov/) |
+| somerville-20260412-glassamelia | Apr 12, 2026 | Event | Philip Glass Album Release Concert | Amelia Hollander Ames presents songs and poems of Philip Glass album release at 6:00 PM. | [Armory](https://artsatthearmory.org/) |
 | cambridge-20260413-council-meeting | Apr 13, 2026 | Event | Cambridge City Council Meeting | Regular meeting at 5:30 PM, Sullivan Chamber and Zoom. | [Details](http://rwinters.com/calendar.htm) |
 | somerville-20260413-human-rights | Apr 13, 2026 | Event | Human Rights Commission Meeting | HRC Report Task Force Meeting at 6:00 PM. | [Details](https://www.somervillema.gov/meetingdocs) |
 | somerville-20260414-earthday | Apr 14, 2026 | Event | Earth Day Celebration Dinner | Community dinner at 585 Somerville Ave, 5:00 PM. Sustainable dining experience to celebrate Earth Day. | [Eventbrite](https://www.eventbrite.com/d/ma--somerville/events/) |
@@ -40,6 +36,8 @@ updated_at: 2026-04-11T08:16:54
 | cambridge-20260427-council-meeting | Apr 27, 2026 | Event | Cambridge City Council Meeting | Regular meeting at 5:30 PM, Sullivan Chamber and Zoom. | [Details](http://rwinters.com/calendar.htm) |
 | cambridge-20260427-restaurant | Apr 27, 2026 | Event | Mass Restaurants United Annual Meeting | Restaurant industry networking event at Gufo, 660 Cambridge St., 5:30 PM. | [AllEvents](https://allevents.in/cambridge/mass-restaurants-united-annual-meeting/100001985887770781) |
 | cambridge-20260428-transportation-committee | Apr 28, 2026 | Event | Transportation and Public Utilities Committee | Public hearing at 3:00 PM to review Residential Permit Parking Program. | [Details](http://rwinters.com/calendar.htm) |
+| cambridge-20260428-planning | Apr 28, 2026 | Event | Cambridge Planning Board Meeting | Remote meeting on Healthpeak Alewife Quadrangle PUD development. | [Details](https://www.cambridgema.gov/cdd/zoninganddevelopment/planningboard/planningboardmeetings) |
+| somerville-20260428-kush-opening | Apr 28, 2026 | Event | Kush Modern Mediterranean Grand Opening | Former food truck opens restaurant in renovated garage at 5 Sanborn Ct., Union Square. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/2026/04/03/hot-new-boston-restaurants-april-2026/) |
 | somerville-20260429-yum | Apr 29, 2026 | Event | YUM 2026: A Taste of Immigrant City | Annual celebration of immigrant-owned restaurants at Arts at the Armory, 6-9 PM. | [Armory](https://artsatthearmory.org/) |
 | cambridge-20260429-beyond-call | Apr 29, 2026 | Event | Beyond the Call: Film Screening | Community celebration with CARE team at Street Theory Collective, 541 Mass Ave, 6 PM. | [Cambridge](https://www.cambridgema.gov/Departments/communitysafety/Calendar/2026/04/30/beyondthecallapril30) |
 | cambridge-20260430-beyond-call2 | Apr 30, 2026 | Event | Beyond the Call: Film Screening North Cambridge | Film and Q&A with CARE team at Apple Cinemas, 168 Alewife Brook Parkway, 6 PM. | [Cambridge](https://www.cambridgema.gov/Departments/communitysafety/Calendar/2026/04/30/beyondthecallapril30) |
@@ -47,11 +45,12 @@ updated_at: 2026-04-11T08:16:54
 | somerville-20260504-sustainaville | May 2-8, 2026 | Event | SustainaVille Week 2026 | Annual week-long series of free events showcasing Somerville's climate progress and sustainability. | [Somerville Times](https://www.thesomervilletimes.com/) |
 | somerville-20260509-porchfest | May 9, 2026 | Event | Somerville Porchfest Returns | Applications now open for annual music festival featuring performances on porches throughout the city. | [Somerville](https://www.somervillema.gov/news) |
 | cambridge-20260509-grace-kelly | May 9, 2026 | Event | Grace Kelly Concert | Arts at the Armory Spotlight Series presents Grammy-nominated saxophonist Grace Kelly. | [Armory](https://artsatthearmory.org/) |
+| somerville-20260411-winter-hill-anniversary | Apr 11, 2026 | News | Winter Hill Brewing Celebrates 10 Years | Winter Hill Brewing Company celebrates 10-year anniversary with party featuring NightBlinders band, beer releases. | [Somerville Times](https://www.thesomervilletimes.com/archives/date/2026/04) |
+| somerville-20260410-sustainaville-announce | Apr 10, 2026 | News | SustainaVille Week 2026 Coming May 2-8 | Annual week-long series of free events showcasing Somerville's climate progress, creativity and sustainability goals. | [Somerville Times](https://www.thesomervilletimes.com/archives/date/2026/04) |
 | cambridge-20260410-eastern-edge | Apr 2026 | News | Eastern Edge Food Hall Now Open | New 11,000 sq ft food hall at 290 Main St. featuring 9 vendors including Juicy Jay's, Perillas Korean BBQ, Everybody Gotta Eat, and Viet Citron. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/2026/02/13/eastern-edge-food-hall-cambridge/) |
 | cambridge-20260410-thirdtime | Apr 2026 | News | Third Time Together Settled in Kendall Square | Former ice cream pop-up now established at 399 Binney St., serving Mediterranean cuisine and inventive ice cream. | [Boston.com](https://www.boston.com/food/restaurants/2026/04/03/restaurant-openings-april-3-2026/) |
 | cambridge-20260410-honeyscambridge | Apr 2026 | News | Call Me Honey Takes Over Curio Coffee Space | Former Curio Coffee staff opens new café at 441 Cambridge St., keeping beloved Liège waffles. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/2026/04/03/hot-new-boston-restaurants-april-2026/) |
 | somerville-20260410-nostalgia | Apr 2026 | News | Nostalgia Vintage Café Coming to Union Square | Combination coffee shop/clothing store opening at 322 Somerville Ave, serving Onyx Coffee Lab beans. | [Boston Restaurants](https://bostonrestaurants.blogspot.com/2026/03/) |
 | somerville-20260410-post1917 | Apr 2026 | News | Post 1917 Steakhouse Coming to Boynton Yards | Upscale steakhouse expanding from Reading and Lexington to 16-20 Medford St. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/boston-most-anticipated-restaurant-openings-2026/) |
 | cambridge-20260410-urban-hearth | Apr 2026 | News | Urban Hearth Moving to Inman Square | James Beard finalist Erin Miller moving restaurant to 1281 Cambridge St., tripling size. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/boston-most-anticipated-restaurant-openings-2026/) |
-| cambridge-20260406-ordinance | Apr 6, 2026 | News | Cambridge Active Ground Floor Use Ordinance | City Council committee votes on requiring active ground floor use on Cambridge Street for developments 3+ stories. | [Cambridge Review](https://cambridgereview.org/2026/04/) |
 | cambridge-20260408-mayor100days | Apr 8, 2026 | News | Mayor Wilson's First 100 Days | Mayor Jake Wilson approaches 100 days in office since January 2 inauguration, focused on building his team. | [Somerville Times](https://www.thesomervilletimes.com/) |
