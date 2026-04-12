@@ -1,20 +1,15 @@
 ---
-cost: 5.9898
+cost: 2.9297
 title: concerts
-updated_at: 2026-04-11T08:16:52
+updated_at: 2026-04-12T08:21:35
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260411-lilypad-nakatani | Apr 11, 2026 4:30 PM | Tatsuya Nakatani / Marie Carroll / Forbes Graham ⭐ | The Lilypad | Experimental | $20 suggested donation / 4:30 doors / 5pm start / seated | [Details](https://www.lilypadinman.com/home/2026/4/11/tatsuya-nakatani-marie-carroll-forbes-graham) |
-| 20260411-lilypad-seventh-gate | Apr 11, 2026 7:15 PM | The Seventh Gate - Elly Kace, Cautionary Tale and Aznjujube | The Lilypad | Indie | $20 admission / 7:15 doors / 7:30 start / seated | [Details](https://www.lilypadinman.com/home/2026/the-seventh-gate-elly-kace) |
-| 20260411-sinclair-whitney2 | Apr 11, 2026 8:00 PM | Whitney | The Sinclair | Indie Rock | With Dari Bay. All ages. Second night | [Details](https://www.sinclaircambridge.com/events/detail/1130792) |
-| 20260411-lilypad-orchard | Apr 11, 2026 10:15 PM | The Orchard | The Lilypad | Singer-songwriter/Folk/Indie | $15 at door / $10 advance / 10:15 doors / 10:30 start | [Details](https://www.lilypadinman.com/home/2026/4/11/the-orchard) |
 | 20260412-gardner-goosby | Apr 12, 2026 1:30 PM | Randall Goosby & Zhu Wang ⭐ | Isabella Stewart Gardner Museum | Classical | Violin and piano recital. SOLD OUT | [Details](https://www.gardnermuseum.org/calendar) |
 | 20260412-lilypad-sonic-env | Apr 12, 2026 3:00 PM | Sonic Environments ⭐ | The Lilypad | Electronic/Experimental | $10 admission / 3pm doors / 3:30 start / seated | [Details](https://www.lilypadinman.com/home/2026/4/sonic-environments) |
 | 20260412-lilypad-leder | Apr 12, 2026 6:30 PM | Eli Leder Group / B.S. Experience | The Lilypad | Jazz | $15 at door / $10 advance / 7pm start / 6:30 doors | [Details](https://www.lilypadinman.com/home/2026/4/12/eli-leder-group-bs-experience) |
 | 20260412-sinclair-club-delf | Apr 12, 2026 7:30 PM | Club d'Elf ⭐ | The Sinclair | Experimental Jazz | Loon and Thrust Album Release with Descent Theory | [Details](https://www.sinclaircambridge.com/events/detail/1338114) |
-| 20260412-rockwell-holy-fuck | Apr 12, 2026 8:00 PM | Holy Fuck ⭐ | The Rockwell | Experimental/Electronic | Canadian noise rock/electronic duo | [Details](https://concerts50.com/upcoming-concerts-in-massachusetts/somerville/alternative) |
 | 20260412-lilypad-hero-magnus | Apr 12, 2026 9:00 PM | Hero Magnus | The Lilypad | Indie | Warm Dark Places Tour. $20 day of show / $12 advance / 9pm doors | [Details](https://www.lilypadinman.com/home/2026/4/12/hero-magnus-warm-dark-places-tour) |
 | 20260413-lilypad-elan-mehler | Apr 13, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz/Contemporary | Monday night performance | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-7fyr-95bxf) |
 | 20260413-roadrunner-bob-moses | Apr 13, 2026 8:00 PM | Bob Moses & Cannons | Roadrunner | Electronic/Indie | With Oxis. All ages | [Details](https://roadrunnerboston.com/) |
@@ -24,7 +19,7 @@ updated_at: 2026-04-11T08:16:52
 | 20260415-sinclair-goldford | Apr 15, 2026 8:00 PM | GoldFord | The Sinclair | Indie Pop | Space of the Heart Tour with Rett Madison. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1141449) |
 | 20260416-roadrunner-good-kid | Apr 16, 2026 8:00 PM | Good Kid | Roadrunner | Indie Rock | With INOHA. All ages | [Details](https://roadrunnerboston.com/) |
 | 20260416-sinclair-powfu | Apr 16, 2026 8:00 PM | Powfu | The Sinclair | Lo-fi/Hip-Hop | The Lofi Library Tour. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1287947) |
-| 20260417-lilypad-easy-honey | Apr 17, 2026 8:00 PM | Easy Honey | The Lilypad | Indie/Electronic | $18.50 advance / $20 day of show / 8pm show | [Details](https://www.lilypadinman.com/home/2026/easy-honey) |
+| 20260417-lilypad-easy-honey | Apr 17, 2026 8:00 PM | Easy Honey ⭐ | The Lilypad | Indie/Electronic | $18.50 advance / $20 day of show / 8pm show | [Details](https://www.lilypadinman.com/home/2026/easy-honey) |
 | 20260418-gardner-bcc | Apr 18, 2026 2:00 PM | Boston Children's Chorus ⭐ | Isabella Stewart Gardner Museum | Classical/Choral | The Road She Paved program | [Details](https://www.gardnermuseum.org/calendar) |
 | 20260418-roadrunner-last-dinner | Apr 18, 2026 8:00 PM | The Last Dinner Party | Roadrunner | Indie Rock/Art Pop | With Florence Road. All ages | [Details](https://roadrunnerboston.com/) |
 | 20260419-bmop-premiere4 | Apr 19, 2026 3:00 PM | BMOP: Premiere⁴ ⭐ | Jordan Hall | Contemporary Classical | World premieres by John Aylward, Avner Dorman, Lisa Bielawa, Anthony De Ritis | [Details](https://bmop.org/performances/bmop-presents-premiere%E2%81%B4/) |
@@ -49,8 +44,4 @@ updated_at: 2026-04-11T08:16:52
 | 20260503-roadrunner-lcd4 | May 3, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 4/4). All ages | [Details](https://roadrunnerboston.com/) |
 | 20260503-sinclair-hold-steady3 | May 3, 2026 5:00 PM | The Hold Steady: Storytellers Set ⭐ | The Sinclair | Indie Rock | Special acoustic set (Part of residency) | [Details](https://www.sinclaircambridge.com/) |
 | 20260504-bmop-turning-point | May 4, 2026 3:00 PM | BMOP: Turning Point ⭐ | Jordan Hall | Contemporary Classical | World premieres: Jeremy Gill, Han Lash; works by Christopher Theofanidis | [Details](https://bmop.org/) |
-| 20260509-jordan-bmop-bso | May 9, 2026 8:00 PM | Boston Symphony Orchestra ⭐ | Jordan Hall | Contemporary Classical | Grammy-winner Karim Sulayman; works by Harbison, Al-Zand | [Details](https://www.wbur.org/news/2026/03/18/2026-spring-classical-music-concert-guide-boston-massachusetts) |
-| 20260510-gardner-kanneh-mason | May 10, 2026 1:30 PM | Isata Kanneh-Mason ⭐ | Isabella Stewart Gardner Museum | Classical | Piano recital - Beethoven, Ravel, Tabakova. SOLD OUT | [Details](https://www.gardnermuseum.org/calendar) |
-| 20260624-sinclair-of-montreal | Jun 24, 2026 8:00 PM | of Montreal ⭐ | The Sinclair | Indie Rock/Experimental | With CorMae. All ages | [Details](https://www.sinclaircambridge.com/) |
-
 *Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability. The Lilypad events highlighted are special non-regular programming as requested.*
