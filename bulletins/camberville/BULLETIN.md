@@ -1,15 +1,11 @@
 ---
-cost: 3.1151
+cost: 2.0607
 title: camberville
-updated_at: 2026-04-12T08:21:25
+updated_at: 2026-04-13T08:48:11.141672
 ---
 
 | ID | Date | Type | Title | Description | Link |
 |---|---|---|---|---|
-| cambridge-20260412-symphony | Apr 12, 2026 | Event | Cambridge Symphony Orchestra Family Concert | Family-friendly concert at Arts at the Armory, 1:30 PM and 3:30 PM shows. | [Details](https://artsatthearmory.org/) |
-| somerville-20260412-guacoff | Apr 12, 2026 | Event | The Painted Burro Guac-Off 2026 | Annual guacamole competition at The Painted Burro, 3:00 PM. | [Eventbrite](https://www.eventbrite.com/d/ma--somerville/events/) |
-| somerville-20260412-nepali-flag | Apr 12, 2026 | Event | Nepali New Year 2083 Flag Raising | Flag raising ceremony at Somerville City Hall celebrating Nepali New Year. | [Somerville](https://www.somervillema.gov/) |
-| somerville-20260412-glassamelia | Apr 12, 2026 | Event | Philip Glass Album Release Concert | Amelia Hollander Ames presents songs and poems of Philip Glass album release at 6:00 PM. | [Armory](https://artsatthearmory.org/) |
 | cambridge-20260413-council-meeting | Apr 13, 2026 | Event | Cambridge City Council Meeting | Regular meeting at 5:30 PM, Sullivan Chamber and Zoom. | [Details](http://rwinters.com/calendar.htm) |
 | somerville-20260413-human-rights | Apr 13, 2026 | Event | Human Rights Commission Meeting | HRC Report Task Force Meeting at 6:00 PM. | [Details](https://www.somervillema.gov/meetingdocs) |
 | somerville-20260414-earthday | Apr 14, 2026 | Event | Earth Day Celebration Dinner | Community dinner at 585 Somerville Ave, 5:00 PM. Sustainable dining experience to celebrate Earth Day. | [Eventbrite](https://www.eventbrite.com/d/ma--somerville/events/) |
@@ -28,9 +24,11 @@ updated_at: 2026-04-12T08:21:25
 | somerville-20260419-pottery | Apr 19, 2026 | Event | Ceramic Mug Making Workshop | Pottery workshop at Winter Hill Brewing Company at 1:00 PM. | [Eventbrite](https://www.eventbrite.com/d/ma--somerville/events/) |
 | somerville-20260421-knowyourrights | Apr 21, 2026 (due) | Event | Artist Call: Know Your Rights Campaign | City seeks local artist to design visual campaign for immigrant Know Your Rights information. Paid opportunity, applications due April 21. | [Somerville Times](https://www.thesomervilletimes.com/archives/147000) |
 | somerville-20260421-historic | Apr 21, 2026 | Event | Historic Preservation Commission Meeting | Meeting at 6:45 PM to discuss historic preservation matters. | [Details](https://www.somervillema.gov/meetingdocs) |
+| somerville-20260421-porchfest-apply | Apr 21, 2026 (due) | Event | PorchFest 2026 Applications Due | Applications for artists to perform at Somerville PorchFest due by 11:59 PM. | [Somerville Arts Council](https://somervilleartscouncil.org/) |
 | cambridge-20260422-touch-truck | Apr 22, 2026 | Event | Sensory Friendly Touch-A-Truck | Cambridge Police hosting sensory friendly event for Autism Awareness Month, 11 AM - 2 PM at Healy Public Safety Building. | [Cambridge PD](https://www.cambridgema.gov/News/) |
 | somerville-20260422-bread-puppet | Apr 22, 2026 | Event | Bread & Puppet Theater | "The End of the World Never Minding Show" at Arts at the Armory, 6:30 PM. | [Armory](https://artsatthearmory.org/) |
 | somerville-20260423-city-council | Apr 23, 2026 | Event | Somerville City Council Meeting | Regular meeting at 7:00 PM in City Council Chamber and Remote Participation. | [Details](https://somervillema.legistar.com/) |
+| somerville-20260425-spring-cleanup | Apr 25, 2026 | Event | Year of the Neighbor Spring Cleanup | Citywide cleanup event across all seven wards, 10 AM - 12 PM. First major activation of Mayor Wilson's Year of the Neighbor initiative. | [Somerville](https://www.somervillema.gov/neighbor) |
 | somerville-20260425-spring-studios | Apr 25, 2026 | Event | Spring Open Studio Event | Porter Mill Spring Open Studios in Beverly, 12-6 PM. | [Patch](https://patch.com/massachusetts/somerville/calendar) |
 | somerville-20260426-pine-car-derby | Apr 26, 2026 | Event | 1st Annual Pine-Car Derby | Bow Market and Somerville Cub Scouts Pack 3 hosting all-ages pine car derby, 11:00 AM. | [Bow Market](https://www.bowmarketsomerville.com/upcomingevents) |
 | cambridge-20260427-council-meeting | Apr 27, 2026 | Event | Cambridge City Council Meeting | Regular meeting at 5:30 PM, Sullivan Chamber and Zoom. | [Details](http://rwinters.com/calendar.htm) |
@@ -45,8 +43,11 @@ updated_at: 2026-04-12T08:21:25
 | somerville-20260504-sustainaville | May 2-8, 2026 | Event | SustainaVille Week 2026 | Annual week-long series of free events showcasing Somerville's climate progress and sustainability. | [Somerville Times](https://www.thesomervilletimes.com/) |
 | somerville-20260509-porchfest | May 9, 2026 | Event | Somerville Porchfest Returns | Applications now open for annual music festival featuring performances on porches throughout the city. | [Somerville](https://www.somervillema.gov/news) |
 | cambridge-20260509-grace-kelly | May 9, 2026 | Event | Grace Kelly Concert | Arts at the Armory Spotlight Series presents Grammy-nominated saxophonist Grace Kelly. | [Armory](https://artsatthearmory.org/) |
+| cambridge-20260413-aeronaut-berklee | Apr 13, 2026 | News | Weekly Berklee Music at Aeronaut | Every Wednesday through April 22, Aeronaut Brewing and Berklee present live student music at 7 PM. Free admission. | [Aeronaut](https://www.zanderrealtygroup.com/) |
+| somerville-20260413-year-neighbor | Apr 13, 2026 | News | Year of the Neighbor Initiative Launches | Mayor Wilson's yearlong push to strengthen community connections kicks off with spring cleanup event on April 25. | [Somerville](https://www.somervillema.gov/news) |
 | somerville-20260411-winter-hill-anniversary | Apr 11, 2026 | News | Winter Hill Brewing Celebrates 10 Years | Winter Hill Brewing Company celebrates 10-year anniversary with party featuring NightBlinders band, beer releases. | [Somerville Times](https://www.thesomervilletimes.com/archives/date/2026/04) |
 | somerville-20260410-sustainaville-announce | Apr 10, 2026 | News | SustainaVille Week 2026 Coming May 2-8 | Annual week-long series of free events showcasing Somerville's climate progress, creativity and sustainability goals. | [Somerville Times](https://www.thesomervilletimes.com/archives/date/2026/04) |
+| cambridge-20260407-plays-grant | Apr 7, 2026 | News | Cambridge Plays Grant Applications Open | Up to $2,000 reimbursement for businesses/organizations to lead outdoor summer events June-August. Applications open. | [Cambridge CDD](https://www.cambridgema.gov/CDD/News/2026/04/leadacambridgeplayseventthissummer) |
 | cambridge-20260410-eastern-edge | Apr 2026 | News | Eastern Edge Food Hall Now Open | New 11,000 sq ft food hall at 290 Main St. featuring 9 vendors including Juicy Jay's, Perillas Korean BBQ, Everybody Gotta Eat, and Viet Citron. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/2026/02/13/eastern-edge-food-hall-cambridge/) |
 | cambridge-20260410-thirdtime | Apr 2026 | News | Third Time Together Settled in Kendall Square | Former ice cream pop-up now established at 399 Binney St., serving Mediterranean cuisine and inventive ice cream. | [Boston.com](https://www.boston.com/food/restaurants/2026/04/03/restaurant-openings-april-3-2026/) |
 | cambridge-20260410-honeyscambridge | Apr 2026 | News | Call Me Honey Takes Over Curio Coffee Space | Former Curio Coffee staff opens new café at 441 Cambridge St., keeping beloved Liège waffles. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/2026/04/03/hot-new-boston-restaurants-april-2026/) |
