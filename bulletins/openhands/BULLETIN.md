@@ -1,11 +1,14 @@
 ---
-cost: 1.9864
+cost: 2.1429
 title: openhands
-updated_at: 2026-04-12T08:21:23.711591
+updated_at: 2026-04-13T08:48:04.599105
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
+| 20260413-github-stats | 2026-04-13 | GitHub/OpenHands | Repository | OpenHands main repository shows continued growth and activity | 70.9k stars, 8.9k forks | https://github.com/OpenHands/OpenHands |
+| 20260412-awesome-chatgpt | 2026-04-12 | GitHub/awesome-ChatGPT | List Update | OpenHands referenced in awesome-ChatGPT-repositories - Updated April 13, 2026 | N/A | https://github.com/taishi-i/awesome-ChatGPT-repositories |
+| 20260412-fujitsu-meetup | 2026-04-12 | Twitter/X @fujitsulabs | Event | Fujitsu Labs and All Hands AI hosting AI-driven development meetup featuring OpenHands developers | N/A | https://x.com/fujitsulabs |
 | 20260411-skillops-agentic-ai | 2026-04-11 | Substack/The Nuanced Perspective | Analysis | Agent Skills Work But Research Shows Most Teams Are Building Them Wrong - OpenHands mentioned as maintaining curated skill repository | N/A | https://thenuancedperspective.substack.com/p/agent-skills-work-but-the-research |
 | 20260410-youtube-ai-news | 2026-04-10 | YouTube | News | AI agents discussion including OpenClaw, Hermes, OpenHands SDK, Cursor 3.0 updates | N/A | https://www.youtube.com/watch?v=tILZuOvro6I |
 | 20260410-skillops-promptops | 2026-04-10 | Substack/AI Engineer Weekly | Analysis | PromptOps Is Dead, Long Live SkillOps - Teams drowning in prompts across Claude Code, Copilot, Cursor, Codex | N/A | https://aiengineerweekly.substack.com/p/promptops-is-dead-long-live-skillops |
@@ -24,9 +27,3 @@ updated_at: 2026-04-12T08:21:23.711591
 | 20260407-mixture-experts-conference | 2026-04-07 | YouTube/NYSE Wired | Conference | Robert Brennan presents OpenHands at Mixture of Experts AI AGENT Conference 2026 | 5K views | https://www.youtube.com/watch?v=DSmA0sPgq78 |
 | 20260407-ai-news-briefing | 2026-04-07 | YouTube | News | AI News Briefing mentions OpenHands among AI agent developments | N/A | https://www.youtube.com/watch?v=XDIdjJh4Ih8 |
 | 20260407-starlog-technical-review | 2026-04-07 | Starlog.is | Technical Review | OpenHands: The Multi-Deployment AI Agent That Scored 77.6% on SWEBench | 69.5k stars, 77.6% SWE-bench | https://starlog.is/articles/developer-tools/openhands-openhands/ |
-| 20260405-mean-ceo-product-launches | 2026-04-05 | Mean CEO Blog | News | AI Product Launches April 2026 - OpenHands mentioned with Cursor, Replit in development workflow | N/A | https://blog.mean.ceo/ai-product-launches-news-april-2026/ |
-| 20260405-meshintelligence-coding-agents | 2026-04-05 | Substack/Mesh Intelligence | Analysis | What Five Coding Agents Taught Me - Analyzed OpenHands (Python) among 5 open-source agents | N/A | https://meshintelligence.substack.com/p/what-five-coding-agents-taught-me |
-| 20260405-linkedin-ai-coding-week | 2026-04-05 | LinkedIn/Mantas Lukauskas | Analysis | AI News Week 14 - Claude-Opus-4.5 achieved 58.9 Visual Score using OpenHands framework | 58.9 Visual Score | https://www.linkedin.com/pulse/ai-news-week-14-march-30-april-5-2026-mantas-lukauskas-phd-b65pf |
-| 20260405-clarifai-tutorial | 2026-04-05 | Clarifai Blog | Tutorial | Run Your Own AI Coding Agent Locally with GPT-OSS and OpenHands | N/A | https://www.clarifai.com/blog/run-your-own-ai-coding-agent-locally-with-gpt-oss-openhands |
-| 20260405-amd-local-workstation | 2026-04-05 | AMD Developer | Technical | Local AI for Developers: OpenHands + AMD Bring Coding Agents to Your Workstation | N/A | https://www.amd.com/en/developer/resources/technical-articles/2025/OpenHands.html |
-| 20260405-ai-coding-agents-webinar | 2026-04-05 | BSSW.io | Webinar | AI Coding Agents: What Works and What Doesn't - Deep dive into OpenHands mechanics | N/A | https://bssw.io/items/ai-coding-agents-what-works-and-what-doesn-t |
