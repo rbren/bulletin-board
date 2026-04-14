@@ -1,22 +1,18 @@
 ---
-cost: 2.0607
+cost: 2.0761
 title: camberville
-updated_at: 2026-04-13T08:48:11.141672
+updated_at: 2026-04-14T08:39:31.344898
 ---
 
 | ID | Date | Type | Title | Description | Link |
 |---|---|---|---|---|
-| cambridge-20260413-council-meeting | Apr 13, 2026 | Event | Cambridge City Council Meeting | Regular meeting at 5:30 PM, Sullivan Chamber and Zoom. | [Details](http://rwinters.com/calendar.htm) |
-| somerville-20260413-human-rights | Apr 13, 2026 | Event | Human Rights Commission Meeting | HRC Report Task Force Meeting at 6:00 PM. | [Details](https://www.somervillema.gov/meetingdocs) |
-| somerville-20260414-earthday | Apr 14, 2026 | Event | Earth Day Celebration Dinner | Community dinner at 585 Somerville Ave, 5:00 PM. Sustainable dining experience to celebrate Earth Day. | [Eventbrite](https://www.eventbrite.com/d/ma--somerville/events/) |
-| somerville-20260414-municipal | Apr 14, 2026 | Event | Municipal Scholarship Committee Meeting | Meeting at 6:00 PM to discuss scholarship programs. | [Details](https://www.somervillema.gov/meetingdocs) |
-| somerville-20260414-special-school-council | Apr 14, 2026 | Event | Special Meeting Joint with City Council | Joint School Committee and City Council meeting, 6:00 PM at City Council Chambers. | [Details](https://www.somervillema.gov/events/2026/04/14/special-meeting-joint-city-council) |
 | cambridge-20260415-health-environment | Apr 15, 2026 | Event | Health and Environment Committee Meeting | Public hearing at noon for update from Office of Sustainability on priorities and initiatives. | [Details](http://rwinters.com/calendar.htm) |
 | somerville-20260415-housing-equity | Apr 15, 2026 | Event | Housing, Community Development and Equity Committee | Meeting at 6:00 PM at Committee Room and Remote Participation. | [Details](https://somervillema.legistar.com/) |
 | somerville-20260415-wine | Apr 15, 2026 | Event | Hidden Cellars of Oregon Wine Evening | Special wine tasting at Wild Child, 6:00 PM, featuring iconic winemaker Kelley Fox. | [Eventbrite](https://www.eventbrite.com/d/ma--somerville/events/) |
 | somerville-20260415-zoning | Apr 15, 2026 | Event | Zoning Board of Appeals Meeting | Meeting at 6:00 PM to discuss zoning matters. | [Details](https://www.somervillema.gov/meetingdocs) |
 | somerville-20260416-planning-board | Apr 16, 2026 | Event | Planning Board Meeting | Regular meeting at 6:00 PM. | [Details](https://www.somervillema.gov/meetingdocs) |
 | somerville-20260416-landuse | Apr 16, 2026 | Event | Land Use Committee Joint Session | Joint session with Planning Board at 6:00 PM in City Council Chamber. | [Details](https://somervillema.legistar.com/) |
+| somerville-20260422-90-washington | Apr 22, 2026 | Event | 90 Washington Street Redevelopment Public Meeting | CAC review of proposals for 4-acre site near East Somerville Green Line, 5:30-7 PM. Public comment welcome. | [Somerville](https://www.somervillema.gov/90-washington-redevelopment) |
 | somerville-20260416-jeeves | Apr 16, 2026 | Event | Post Meridian Radio Players: Jeeves and Wooster | Spring show at Guild Church, Davis Square, 8:00 PM. | [Patch](https://patch.com/massachusetts/somerville/calendar) |
 | somerville-20260417-rufus | Apr 17, 2026 | Event | Rufus Wainwright Concert | SOLD OUT - Arts at the Armory Spotlight Series, 7:00 PM. | [Armory](https://artsatthearmory.org/) |
 | cambridge-20260418-record-store-day | Apr 18, 2026 | Event | Record Store Day at Bow Market | Vinyl Index presents Record Store Day celebration at Bow Market with DJ sets, vinyl drops, food & drink specials. | [Bow Market](https://www.bowmarketsomerville.com/) |
@@ -43,10 +39,8 @@ updated_at: 2026-04-13T08:48:11.141672
 | somerville-20260504-sustainaville | May 2-8, 2026 | Event | SustainaVille Week 2026 | Annual week-long series of free events showcasing Somerville's climate progress and sustainability. | [Somerville Times](https://www.thesomervilletimes.com/) |
 | somerville-20260509-porchfest | May 9, 2026 | Event | Somerville Porchfest Returns | Applications now open for annual music festival featuring performances on porches throughout the city. | [Somerville](https://www.somervillema.gov/news) |
 | cambridge-20260509-grace-kelly | May 9, 2026 | Event | Grace Kelly Concert | Arts at the Armory Spotlight Series presents Grammy-nominated saxophonist Grace Kelly. | [Armory](https://artsatthearmory.org/) |
-| cambridge-20260413-aeronaut-berklee | Apr 13, 2026 | News | Weekly Berklee Music at Aeronaut | Every Wednesday through April 22, Aeronaut Brewing and Berklee present live student music at 7 PM. Free admission. | [Aeronaut](https://www.zanderrealtygroup.com/) |
-| somerville-20260413-year-neighbor | Apr 13, 2026 | News | Year of the Neighbor Initiative Launches | Mayor Wilson's yearlong push to strengthen community connections kicks off with spring cleanup event on April 25. | [Somerville](https://www.somervillema.gov/news) |
-| somerville-20260411-winter-hill-anniversary | Apr 11, 2026 | News | Winter Hill Brewing Celebrates 10 Years | Winter Hill Brewing Company celebrates 10-year anniversary with party featuring NightBlinders band, beer releases. | [Somerville Times](https://www.thesomervilletimes.com/archives/date/2026/04) |
-| somerville-20260410-sustainaville-announce | Apr 10, 2026 | News | SustainaVille Week 2026 Coming May 2-8 | Annual week-long series of free events showcasing Somerville's climate progress, creativity and sustainability goals. | [Somerville Times](https://www.thesomervilletimes.com/archives/date/2026/04) |
+| cambridge-20260711-porchfest | Jul 11-12, 2026 | Event | Cambridge Porchfest | Cambridge's second annual Porchfest, free walkable musical event with local performers on porches, patios, and backyards. | [Cambridge Arts](https://www.cambridgema.gov/arts/Programs/Porchfest) |
+| somerville-20260409-plant-treaty | Apr 9, 2026 | News | Somerville Endorses Plant Based Treaty | Somerville City Council unanimously endorses Plant Based Treaty, becoming 70th city globally and 7th US city to support food systems change for climate. | [Plant Based Treaty](https://plantbasedtreaty.org/somerville-joins-cambridge-as-second-city-in-massachusetts-to-call-for-a-global-plant-based-treaty/) |
 | cambridge-20260407-plays-grant | Apr 7, 2026 | News | Cambridge Plays Grant Applications Open | Up to $2,000 reimbursement for businesses/organizations to lead outdoor summer events June-August. Applications open. | [Cambridge CDD](https://www.cambridgema.gov/CDD/News/2026/04/leadacambridgeplayseventthissummer) |
 | cambridge-20260410-eastern-edge | Apr 2026 | News | Eastern Edge Food Hall Now Open | New 11,000 sq ft food hall at 290 Main St. featuring 9 vendors including Juicy Jay's, Perillas Korean BBQ, Everybody Gotta Eat, and Viet Citron. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/2026/02/13/eastern-edge-food-hall-cambridge/) |
 | cambridge-20260410-thirdtime | Apr 2026 | News | Third Time Together Settled in Kendall Square | Former ice cream pop-up now established at 399 Binney St., serving Mediterranean cuisine and inventive ice cream. | [Boston.com](https://www.boston.com/food/restaurants/2026/04/03/restaurant-openings-april-3-2026/) |
@@ -54,4 +48,3 @@ updated_at: 2026-04-13T08:48:11.141672
 | somerville-20260410-nostalgia | Apr 2026 | News | Nostalgia Vintage Café Coming to Union Square | Combination coffee shop/clothing store opening at 322 Somerville Ave, serving Onyx Coffee Lab beans. | [Boston Restaurants](https://bostonrestaurants.blogspot.com/2026/03/) |
 | somerville-20260410-post1917 | Apr 2026 | News | Post 1917 Steakhouse Coming to Boynton Yards | Upscale steakhouse expanding from Reading and Lexington to 16-20 Medford St. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/boston-most-anticipated-restaurant-openings-2026/) |
 | cambridge-20260410-urban-hearth | Apr 2026 | News | Urban Hearth Moving to Inman Square | James Beard finalist Erin Miller moving restaurant to 1281 Cambridge St., tripling size. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/boston-most-anticipated-restaurant-openings-2026/) |
-| cambridge-20260408-mayor100days | Apr 8, 2026 | News | Mayor Wilson's First 100 Days | Mayor Jake Wilson approaches 100 days in office since January 2 inauguration, focused on building his team. | [Somerville Times](https://www.thesomervilletimes.com/) |
