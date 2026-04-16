@@ -1,18 +1,20 @@
 ---
-cost: 2.3875
+cost: 2.0468
 title: openhands
-updated_at: 2026-04-15T08:40:00.000000
+updated_at: 2026-04-16T08:39:57.084192
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
-| 20260414-meetup-agentic-coding | 2026-04-14 | Meetup/JS Chicago | Event | "AI helped me learn Vue as a React Developer & Agent Coding with Claude" - comparing agentic tools including OpenHands | Apr 14 event, 200 E Randolph | https://www.meetup.com/js-chi/events/312068418 |
-| 20260414-sourcforge-huggingface | 2026-04-14 | SourceForge | Listing | OpenHands listed in "Best AI Coding Agents for Hugging Face" - described as autonomous agents that write code and run commands | Listed alongside Codex, Patched | https://sourceforge.net/software/ai-coding-agents/integrates-with-hugging-face |
-| 20260414-instagram-ai-agents-5tools | 2026-04-14 | Instagram | List | "AI agent platforms just went mainstream" - OpenHands listed #4 in top 5 platforms for autonomous dev environments | Listed with Mythosys, Claude Code | https://www.instagram.com/p/DXGfdbhFP4Q/ |
+| 20260416-opentweet-ai-agents-twitter | 2026-04-16 | OpenTweet Blog | Blog | "5 AI Agents That Can Post to Twitter Autonomously in 2026" - OpenHands (as "OpenClaw") listed as #1 best overall, 200K+ GitHub stars, 5700+ skills | 200K+ stars, 5700+ skills | https://opentweet.io/blog/ai-agents-that-post-to-twitter-2026 |
+| 20260416-reddit-ai-agents-state | 2026-04-16 | Reddit/AI_Agents | Discussion | "State of AI agent coders April 2026: agents vs skills vs workflows" - extensive community discussion on AI coding agents | Community discussion | https://www.reddit.com/r/AI_Agents/comments/1sjk0fv/state_of_ai_agent_coders_april_2026_agents_vs/ |
+| 20260416-youtube-awesomefoss | 2026-04-16 | YouTube/AwesomeFOSS | Tutorial | "OpenHands: The Open-Source AI Developer That Actually Ships Code" - 77.6% SWE-Bench score, MIT licensed | 70k+ stars, 77.6% SWE-Bench | https://www.youtube.com/watch?v=t-MnWuuqB-k |
+| 20260415-reddit-singularity-favorites | 2026-04-15 | Reddit/singularity | Discussion | "My favorite AI agents in 2026 sorted by use case" - mentions OpenHands as competitor to Devin AI | AI agents comparison | https://www.reddit.com/r/singularity/comments/1s73m2h/my_favorite_ai_agents_in_2026_sorted_by_use_case/ |
+| 20260415-arstechnica-moltbook | 2026-04-15 | Ars Technica | News | "AI agents now have their own Reddit-style social network" - Moltbook grew out of "Open Claw" ecosystem (OpenHands), 32K+ AI bot users | 32K+ AI agents, security concerns | https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/ |
 | 20260413-baidu-baike-entry | 2026-04-13 | Baidu Baike | Encyclopedia | OpenHands comprehensive encyclopedia entry - details CodeAct 2.1, 69k+ GitHub stars, SWE-bench 53% success | 69k+ stars, 190+ contributors | https://baike.baidu.com/item/OpenHands/67466829 |
 | 20260413-threads-swebench-gemma4 | 2026-04-13 | Threads | Testing | Gemma 4 26B tested on OpenHands running SWE-Bench benchmarks | Gemma 4 benchmark test | https://www.threads.com/@thor3323/post/DXG9qSjkXS1 |
 | 20260410-fazm-ai-agent-news | 2026-04-10 | Fazm.ai Blog | News | AI Agent News April 2026 - OpenHands vs Claude Code detailed comparison, mentions "REM Backfill" memory | Detailed platform comparison | https://fazm.ai/blog/ai-agent-news-april-2026-claude-code-openclaw |
-| 20260410-github-secure-code-game | 2026-04-10 | GitHub Blog | Security | "Hack the AI agent" - Season 4 of Secure Code Game inspired by tools like OpenClaw and GitHub Copilot CLI | Security training focus | https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game |
+| 20260410-github-secure-code-game | 2026-04-10 | GitHub Blog | Security | "Hack the AI agent" - Season 4 of Secure Code Game inspired by tools like "OpenClaw" and GitHub Copilot CLI | Security training focus | https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game |
 | 20260409-ai-agent-brief-free-tools | 2026-04-09 | AI Agent Brief | Guide | "Best Free AI Coding Tools in 2026" - mentions OpenHands alongside Aider, Continue as open-source alternatives | Comprehensive free tools guide | https://ai-agent-brief.com/compare/coding/free-tools |
 | 20260407-skillsllm-production-ready | 2026-04-07 | SkillsLLM | News | "OpenHands Agent Framework Reaches Production Readiness" - announces 1.0 release with safety controls and rollback | 1.0 release, 15k repos using | https://skillsllm.com/news/ai-news-2026-04-07 |
 | 20260406-youtube-intro-tutorial | 2026-04-06 | YouTube | Tutorial | "Building a Business app with 1 single prompt - Intro to OpenHands" demonstration | N/A | https://www.youtube.com/watch?v=MDBrbh-CjhU |
@@ -24,4 +26,4 @@ updated_at: 2026-04-15T08:40:00.000000
 | 20260328-nxcode-claude-comparison | 2026-03-28 | NxCode | Comparison | "Claude Code vs Codex CLI 2026" - mentions OpenHands in terminal AI coding agent landscape | Market analysis | https://www.nxcode.io/ko/resources/news/claude-code-vs-codex-cli-terminal-coding-comparison-2026 |
 | 20260327-fungies-cicd-guide | 2026-03-27 | Fungies.io | Guide | "How to Integrate AI Agents Into Your CI/CD Pipeline in 2026" - 84% of devs use AI coding tools | DevOps integration guide | https://fungies.io/ai-agents-cicd-pipeline-integration-guide-2026 |
 | 20260320-toolcenter-best-assistants | 2026-03-20 | ToolCenter | Comparison | "Best AI Coding Assistants 2026" - OpenHands mentioned as autonomous agent alternative to code editors | Market comparison | https://www.toolcenter.ai/zh/articles/best-ai-coding-assistants-2026 |
-| 20260316-ai-agents-directory | 2026-03-16 | AI Agents Directory | Listing | OpenHands featured - "Code less, make more" - listed as AI coding agent | N/A | https://aiagentslist.com/agents/openhands |
+| 20260316-simonwillison-coding-agents | 2026-03-16 | Simon Willison's Blog | Blog | Blogmarks on coding agents - mentions OpenHands, Claude Code, Codex subagents patterns | Coding agents analysis | https://simonwillison.net/dashboard/blogmarks-that-use-markdown/ |
