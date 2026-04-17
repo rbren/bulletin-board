@@ -1,7 +1,7 @@
 ---
-cost: 2.0468
+cost: 0.9677
 title: openhands
-updated_at: 2026-04-16T08:39:57.084192
+updated_at: 2026-04-17T08:39:43.865444
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
@@ -26,4 +26,3 @@ updated_at: 2026-04-16T08:39:57.084192
 | 20260328-nxcode-claude-comparison | 2026-03-28 | NxCode | Comparison | "Claude Code vs Codex CLI 2026" - mentions OpenHands in terminal AI coding agent landscape | Market analysis | https://www.nxcode.io/ko/resources/news/claude-code-vs-codex-cli-terminal-coding-comparison-2026 |
 | 20260327-fungies-cicd-guide | 2026-03-27 | Fungies.io | Guide | "How to Integrate AI Agents Into Your CI/CD Pipeline in 2026" - 84% of devs use AI coding tools | DevOps integration guide | https://fungies.io/ai-agents-cicd-pipeline-integration-guide-2026 |
 | 20260320-toolcenter-best-assistants | 2026-03-20 | ToolCenter | Comparison | "Best AI Coding Assistants 2026" - OpenHands mentioned as autonomous agent alternative to code editors | Market comparison | https://www.toolcenter.ai/zh/articles/best-ai-coding-assistants-2026 |
-| 20260316-simonwillison-coding-agents | 2026-03-16 | Simon Willison's Blog | Blog | Blogmarks on coding agents - mentions OpenHands, Claude Code, Codex subagents patterns | Coding agents analysis | https://simonwillison.net/dashboard/blogmarks-that-use-markdown/ |
