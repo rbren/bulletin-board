@@ -1,15 +1,11 @@
 ---
-cost: 2.4439
+cost: 1.6611
 title: camberville
-updated_at: 2026-04-16T08:39:40.875825
+updated_at: 2026-04-17T08:40:12Z
 ---
 
 | ID | Date | Type | Title | Description | Link |
 |---|---|---|---|---|
-| somerville-20260416-planning-board | Apr 16, 2026 | Event | Planning Board Meeting | Regular meeting at 6:00 PM. | [Details](https://www.somervillema.gov/meetingdocs) |
-| somerville-20260416-landuse | Apr 16, 2026 | Event | Land Use Committee Joint Session | Joint session with Planning Board at 6:00 PM in City Council Chamber. | [Details](https://somervillema.legistar.com/) |
-| somerville-20260416-jeeves | Apr 16, 2026 | Event | Post Meridian Radio Players: Jeeves and Wooster | Spring show at Guild Church, Davis Square, 8:00 PM. | [Patch](https://patch.com/massachusetts/somerville/calendar) |
-| cambridge-20260416-asian-night-market | Apr 16, 2026 | Event | Cambridge Spring Asian Night Market | Support local vendors and celebrate Asian culture at The Foundry. | [Fairs and Festivals](https://www.fairsandfestivals.net/states/ma) |
 | somerville-20260417-rufus | Apr 17, 2026 | Event | Rufus Wainwright Concert | SOLD OUT - Arts at the Armory Spotlight Series, 7:00 PM. | [Armory](https://artsatthearmory.org/) |
 | cambridge-20260418-record-store-day | Apr 18, 2026 | Event | Record Store Day at Bow Market | Vinyl Index presents Record Store Day celebration at Bow Market with DJ sets, vinyl drops, food & drink specials. | [Bow Market](https://www.bowmarketsomerville.com/) |
 | cambridge-20260418-fruhlingsfest | Apr 18, 2026 | Event | Mass Craft Brewers Frühlingsfest | Spring beer celebration at 539 Tremont St, Boston, 1:00 PM. | [Patch](https://patch.com/massachusetts/somerville/calendar) |
@@ -47,8 +43,5 @@ updated_at: 2026-04-16T08:39:40.875825
 | somerville-20260508-arbor-day-picnic | May 8, 2026 | Event | Arbor Day Picnic in the Park | Family-friendly event with tree planting, climate carnival games, and refreshments at 290 Washington St., 3-6 PM. | [Somerville](https://www.somervillema.gov/sustainavilleweek) |
 | somerville-20260509-grace-kelly | May 9, 2026 | Event | Grace Kelly Concert | Arts at the Armory Spotlight Series presents Grammy-nominated saxophonist Grace Kelly. | [Armory](https://artsatthearmory.org/) |
 | somerville-20260509-porchfest | May 9, 2026 | Event | Somerville Porchfest Returns | Applications now open for annual music festival featuring performances on porches throughout the city. | [Somerville](https://www.somervillema.gov/news) |
-| cambridge-20260416-license-meeting | Apr 16, 2026 | News | Board of License Commissioners Public Meeting | Meeting held online via Zoom. Public may provide written comments by 5 PM the day before to license@cambridgema.gov. | [Cambridge](https://www.cambridgema.gov/citycalendar) |
-| somerville-20260415-plant-treaty | Apr 15, 2026 | News | Somerville Endorses Plant Based Treaty | Somerville City Council unanimously endorses Plant Based Treaty, becoming 70th city globally and 7th US city to support food systems change for climate. | [Plant Based Treaty](https://plantbasedtreaty.org/somerville-joins-cambridge-as-second-city-in-massachusetts-to-call-for-a-global-plant-based-treaty/) |
 | cambridge-20260413-small-business-month | Apr 13, 2026 | News | National Small Business Month Campaign | Cambridge launches campaign to encourage shopping local during National Small Business Month. | [Cambridge](https://www.cambridgema.gov/CDD/News/2026/04/revitalizecambridgesmallbusinessesshoplocalnow) |
-| cambridge-20260403-third-time | Apr 3, 2026 | News | Third Time Together Opens in Kendall Square | Former ice cream pop-up opens all-day cafe at 399 Binney St., serving Mediterranean cuisine and inventive ice cream. | [Boston.com](https://www.boston.com/food/restaurants/2026/04/03/restaurant-openings-april-3-2026/) |
-| cambridge-20260403-honeyscambridge | Apr 3, 2026 | News | Call Me Honey Takes Over Curio Coffee Space | Former Curio Coffee staff opens new café at 441 Cambridge St., keeping beloved Liège waffles. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/2026/04/03/hot-new-boston-restaurants-april-2026/) |
+| somerville-20260415-plant-treaty | Apr 15, 2026 | News | Somerville Endorses Plant Based Treaty | Somerville City Council unanimously endorses Plant Based Treaty, becoming 70th city globally and 7th US city to support food systems change for climate. | [Plant Based Treaty](https://plantbasedtreaty.org/somerville-joins-cambridge-as-second-city-in-massachusetts-to-call-for-a-global-plant-based-treaty/) |
