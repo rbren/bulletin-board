@@ -1,24 +1,24 @@
 ---
-cost: 1.9867
+cost: 1.7042
 title: concerts
-updated_at: 2026-04-17T08:39:53
+updated_at: 2026-04-18T08:18:47.372609
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260417-lilypad-easy-honey | Apr 17, 2026 8:00 PM | Easy Honey ⭐ | The Lilypad | Indie/Electronic | $18.50 advance / $20 day of show / 8pm show. Special non-regular programming | [Details](https://www.lilypadinman.com/home/2026/easy-honey) |
-| 20260417-trap-karaoke | Apr 17, 2026 7:00 PM | Trap Karaoke | Roadrunner | Hip-Hop/Karaoke | Boston edition | [Details](https://roadrunnerboston.com/) |
-| 20260417-lilypad-joaquin-garde | Apr 17, 2026 10:00 PM | The Joaquin Garde Group / Earth & Love & Music | The Lilypad | Jazz | $15 at the door / 10pm doors / 10:30 music / seated & standing | [Details](https://www.lilypadinman.com/) |
-| 20260418-lilypad-attias-davis | Apr 18, 2026 7:00 PM | ATTIAS/DAVIS/MELA | The Lilypad | Jazz | $20 / 7pm doors / 7:30 start / seated | [Details](https://www.lilypadinman.com/) |
+| 20260418-lilypad-attias-davis | Apr 18, 2026 7:00 PM | ATTIAS/DAVIS/MELA | The Lilypad | Jazz | $20 / 7pm doors / 7:30 start / seated | [Details](https://www.lilypadinman.com/home/2025/8/2/michal-attilas-trio-cxmt3) |
 | 20260418-gardner-bcc | Apr 18, 2026 2:00 PM | Boston Children's Chorus ⭐ | Isabella Stewart Gardner Museum | Classical/Choral | The Road She Paved program | [Details](https://www.gardnermuseum.org/calendar) |
 | 20260418-roadrunner-last-dinner | Apr 18, 2026 8:00 PM | The Last Dinner Party ⭐ | Roadrunner | Indie Rock/Art Pop | With Florence Road. All ages | [Details](https://www.bowerypresents.com/boston/shows/detail/1335561-failure) |
 | 20260418-sinclair-bearly-dead | Apr 18, 2026 7:00 PM | Bearly Dead | The Sinclair | Grateful Dead Tribute | With Lee Ross. 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/1283580) |
 | 20260419-gardner-imani | Apr 19, 2026 1:30 PM | Imani Winds ⭐ | Isabella Stewart Gardner Museum | Contemporary Classical/Jazz | Wind quintet with works by Stevie Wonder, Valerie Coleman, Fazil Say | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260419-lilypad-sonic-trio | Apr 19, 2026 7:00 PM | Sonic Trio ⭐ | The Lilypad | Jazz/Experimental | $20 admission / 7pm doors / 7:30 start | [Details](https://www.lilypadinman.com/) |
+| 20260419-lilypad-origami | Apr 19, 2026 10:30 PM | Origami | The Lilypad | Jazz/Improvisation | $10 at the door / 10:30 doors / 11pm start / seated | [Details](https://www.lilypadinman.com/home/2026/4/19/origami) |
 | 20260419-bmop-premiere4 | Apr 19, 2026 3:00 PM | BMOP: Premiere⁴ ⭐ | Jordan Hall | Contemporary Classical | World premieres by John Aylward, Avner Dorman, Lisa Bielawa, Anthony De Ritis | [Details](https://bmop.org/) |
 | 20260419-sinclair-heavenly | Apr 19, 2026 8:00 PM | Heavenly ⭐ | The Sinclair | Indie Pop | With Swansea Sound, Jeanines. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165174) |
-| 20260419-lilypad-sonic-trio | Apr 19, 2026 7:00 PM | Sonic Trio ⭐ | The Lilypad | Jazz/Experimental | $20 admission / 7pm doors / 7:30 start | [Details](https://www.lilypadinman.com/) |
 | 20260419-roadrunner-microwave | Apr 19, 2026 7:00 PM | Microwave | Roadrunner | Indie Rock/Emo | With Moving Mountains | [Details](https://roadrunnerboston.com/) |
 | 20260420-brighton-antlers | Apr 20, 2026 7:00 PM | The Antlers | Brighton Music Hall | Indie Rock/Dream Pop | Brooklyn indie rock | [Details](https://www.boston.com/) |
+| 20260420-lilypad-malaby-goldman | Apr 20, 2026 7:00 PM | Tony Malaby, Max Goldman, Nate McBride and Andrew Schiller ⭐ | The Lilypad | Jazz/Experimental | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8-a3xg9-gdhty-94d5m-mx832-swe24-pwdbh-bfezz-5mgwg-wzmn4) |
+| 20260420-lilypad-fringe | Apr 20, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry-b53aw-7c7kh-sj23g-aj762-dmc6t-kpk2d) |
 | 20260420-sinclair-broncho | Apr 20, 2026 7:00 PM | BRONCHO ⭐ | The Sinclair | Indie Rock | A Decade of Double Vanity. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1313894) |
 | 20260421-sinclair-sweet-pill | Apr 21, 2026 7:00 PM | Sweet Pill | The Sinclair | Indie Rock | Still There's a Glow Tour. With Spaced. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1222072) |
 | 20260422-sinclair-glixen | Apr 22, 2026 8:00 PM | Glixen & Trauma Ray ⭐ | The Sinclair | Shoegaze/Experimental | With Her New Knife, Knifeplay | [Details](https://www.sinclaircambridge.com/events/detail/1298275) |
