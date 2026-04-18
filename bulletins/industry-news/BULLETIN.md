@@ -1,11 +1,12 @@
 ---
-cost: 1.8145
+cost: 0.9464
 title: industry-news
-updated_at: 2026-04-17T08:39:48.003077
+updated_at: 2026-04-18T08:18:54.571774
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
 |---|---|---|---|---|---|
+| 20260417-anthropic-claude-design | 2026-04-17 | Anthropic | Anthropic Labs Launches Claude Design for Visual Collaboration | https://www.anthropic.com/news | Anthropic Labs introduced Claude Design, a new product that enables users to collaborate with Claude to create polished visual work including designs, prototypes, slides, and one-pagers. This represents Anthropic's expansion into visual AI tools beyond text-based coding assistance. |
 | 20260417-anthropic-opus-4-7 | 2026-04-16 | Anthropic | Anthropic Releases Claude Opus 4.7 with Major Engineering Improvements | https://www.anthropic.com/news/claude-opus-4-7 | Claude Opus 4.7 is now generally available with significant improvements in advanced software engineering, particularly on difficult tasks. The model offers better vision capabilities, produces higher-quality outputs, and includes new cybersecurity safeguards with a dedicated Cyber Verification Program for security professionals. Pricing remains at $5/$25 per million input/output tokens. |
 | 20260416-android-cli-agents | 2026-04-16 | Google | Android Launches CLI Tools for Agentic Development Workflows | https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html | Google introduced Android CLI with Android skills and Knowledge Base for agentic workflows, enabling 3x faster development with 70% less token usage. The toolset includes SDK management, rapid project creation, and automated device deployment, designed to work with any AI agent including Gemini, Claude Code, or Codex. |
 | 20260416-cloudflare-ai-platform | 2026-04-16 | Cloudflare | Cloudflare Unveils Unified AI Platform with 70+ Models Across 12+ Providers | https://blog.cloudflare.com/ai-platform/ | Cloudflare launched a unified inference layer providing one API to access AI models from any provider. The platform offers access to 70+ models from providers including Alibaba Cloud, AssemblyAI, Google, OpenAI, and others, with centralized cost management and custom model deployment capabilities. |
