@@ -1,7 +1,7 @@
 ---
-cost: 1.7849
+cost: 1.8723
 title: camberville
-updated_at: 2026-04-19T08:25:14.696189
+updated_at: 2026-04-20T08:51:35.744675
 ---
 
 | ID | Date | Type | Title | Description | Link |
@@ -36,6 +36,7 @@ updated_at: 2026-04-19T08:25:14.696189
 | somerville-20260428-kush-opening | Apr 28, 2026 | Event | Kush Modern Mediterranean Grand Opening | Former food truck opens restaurant in renovated garage at 5 Sanborn Ct., Union Square. | [Boston Magazine](https://www.bostonmagazine.com/restaurants/2026/04/03/hot-new-boston-restaurants-april-2026/) |
 | somerville-20260429-yum | Apr 29, 2026 | Event | YUM 2026: A Taste of Immigrant City | Annual celebration of immigrant-owned restaurants at Arts at the Armory, 6-9 PM. | [Armory](https://artsatthearmory.org/) |
 | cambridge-20260429-beyond-call | Apr 29, 2026 | Event | Beyond the Call: Film Screening | Community celebration with CARE team at Street Theory Collective, 541 Mass Ave, 6 PM. | [Cambridge](https://www.cambridgema.gov/Departments/communitysafety/Calendar/2026/04/30/beyondthecallapril30) |
+| cambridge-20260429-public-safety-committee | Apr 29, 2026 | Event | Public Safety Committee Meeting | City Council committee hearing on ShotSpotter technology usage, 3:00 PM, Sullivan Chamber and Zoom. | [Cambridge](http://rwinters.com/calendar.htm) |
 | cambridge-20260430-asian-night-market | Apr 30, 2026 | Event | Cambridge Last Thursday Asian Night Market | Support local vendors and celebrate Asian culture at The Foundry. | [Fairs and Festivals](https://www.fairsandfestivals.net/states/ma) |
 | cambridge-20260430-beyond-call2 | Apr 30, 2026 | Event | Beyond the Call: Film Screening North Cambridge | Film and Q&A with CARE team at Apple Cinemas, 168 Alewife Brook Parkway, 6 PM. | [Cambridge](https://www.cambridgema.gov/Departments/communitysafety/Calendar/2026/04/30/beyondthecallapril30) |
 | somerville-20260430-blood-drive | Apr 30, 2026 | Event | Red Cross Blood Drive | Blood drive at Arts at the Armory, 9 AM - 2 PM. | [Armory](https://artsatthearmory.org/) |
@@ -44,9 +45,13 @@ updated_at: 2026-04-19T08:25:14.696189
 | somerville-20260502-sustainaville-block-party | May 2, 2026 | Event | SustainaVille Week Block Party | Kick-off block party on Mossland St. with City departments, commissions, and local climate organizations, 1-4 PM. | [Somerville](https://www.somervillema.gov/sustainavilleweek) |
 | somerville-20260503-sustainaville-home-tours | May 3, 2026 | Event | Energy Efficiency Home Tours | Open houses showcasing energy efficiency retrofits in Somerville homes, 1-4 PM. In collaboration with Mothers Out Front. | [Somerville](https://www.somervillema.gov/sustainavilleweek) |
 | somerville-20260504-sustainaville-book-club | May 4, 2026 | Event | SustainaVille Book Club | Meet OSE staff and discuss "Climate Action for Busy People" with author Cate Mingoya-LaFortune, 6:15-7:30 PM at West Branch Library. | [Somerville](https://www.somervillema.gov/sustainavilleweek) |
+| cambridge-20260504-council-meeting | May 4, 2026 | Event | Cambridge City Council Meeting | Regular meeting at 5:30 PM, Sullivan Chamber and Zoom. | [Cambridge](http://rwinters.com/calendar.htm) |
 | somerville-20260505-compost-giveaway | May 5, 2026 | Event | Compost Give Away | Free finished compost for Somerville residents at Glen Park Community Garden, 1-5 PM. Bring your own containers. | [Somerville](https://www.somervillema.gov/sustainavilleweek) |
 | somerville-20260505-historic | May 5, 2026 | Event | Historic Preservation Commission Meeting | Meeting at 6:45 PM to discuss historic preservation matters. | [Somerville](https://www.somervillema.gov/meetingdocs) |
 | somerville-20260507-kennedy-school-tour | May 7, 2026 | Event | Energy Efficiency Tour of Kennedy School | Tour showcasing energy efficiency upgrades including new chillers, pumps, and controls, 4-6 PM at 5 Cherry St. | [Somerville](https://www.somervillema.gov/sustainavilleweek) |
 | somerville-20260508-arbor-day-picnic | May 8, 2026 | Event | Arbor Day Picnic in the Park | Family-friendly event with tree planting, climate carnival games, and refreshments at 290 Washington St., 3-6 PM. | [Somerville](https://www.somervillema.gov/sustainavilleweek) |
 | somerville-20260509-grace-kelly | May 9, 2026 | Event | Grace Kelly Concert | Arts at the Armory Spotlight Series presents Grammy-nominated saxophonist Grace Kelly. | [Armory](https://artsatthearmory.org/) |
 | somerville-20260509-porchfest | May 9, 2026 | Event | Somerville Porchfest Returns | Annual music festival featuring performances on porches throughout the city. | [Somerville](https://www.somervillema.gov/news) |
+| cambridge-20260511-council-meeting | May 11, 2026 | Event | Cambridge City Council Meeting | Regular meeting at 5:30 PM, Sullivan Chamber and Zoom. | [Cambridge](http://rwinters.com/calendar.htm) |
+| cambridge-20260518-council-meeting | May 18, 2026 | Event | Cambridge City Council Meeting | Regular meeting at 5:30 PM, Sullivan Chamber and Zoom. | [Cambridge](http://rwinters.com/calendar.htm) |
+| cambridge-20260520-public-safety-committee | May 20, 2026 | Event | Public Safety Committee Meeting | Hearing on Annual Surveillance Report items, 12:00 PM, Sullivan Chamber and Zoom. | [Cambridge](http://rwinters.com/calendar.htm) |
