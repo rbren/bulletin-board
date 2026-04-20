@@ -1,18 +1,11 @@
 ---
-cost: 2.9767
+cost: 1.0260
 title: concerts
-updated_at: 2026-04-19T08:25:06.096925
+updated_at: 2026-04-20T08:51:15.887028
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260419-gardner-imani | Apr 19, 2026 1:30 PM | Imani Winds ⭐ | Isabella Stewart Gardner Museum | Contemporary Classical/Jazz | Wind quintet with works by Stevie Wonder, Valerie Coleman, Fazil Say | [Details](https://www.gardnermuseum.org/calendar) |
-| 20260419-bmop-premiere4 | Apr 19, 2026 3:00 PM | BMOP: Premiere⁴ ⭐ | Jordan Hall | Contemporary Classical | World premieres by John Aylward, Avner Dorman, Lisa Bielawa, Anthony De Ritis | [Details](https://bmop.org/) |
-| 20260419-lilypad-kohlhase | Apr 19, 2026 6:00 PM | Charlie Kohlhase's Expolorers Club | The Lilypad | Jazz | $15 / 6pm doors / 6:30pm start / seated | [Details](https://www.lilypadinman.com/home/2025/12/charlie-kohlhases-expolorers-club-2546p-d9zhg) |
-| 20260419-roadrunner-microwave | Apr 19, 2026 7:00 PM | Microwave | Roadrunner | Indie Rock/Emo | With Moving Mountains | [Details](https://roadrunnerboston.com/) |
-| 20260419-sinclair-heavenly | Apr 19, 2026 8:00 PM | Heavenly ⭐ | The Sinclair | Indie Pop | With Swansea Sound, Jeanines. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165174) |
-| 20260419-lilypad-joe-hunt | Apr 19, 2026 8:00 PM | Joe Hunt Group | The Lilypad | Jazz | $15 Cover @ the Door / Start 8:30pm / Doors 8pm / Seated Show | [Details](https://www.lilypadinman.com/home/2026-joe-hunt) |
-| 20260419-lilypad-origami | Apr 19, 2026 10:30 PM | Origami | The Lilypad | Jazz/Improvisation | $10 at the door / 10:30 doors / 11pm start / seated | [Details](https://www.lilypadinman.com/home/2026/4/19/origami) |
 | 20260420-sinclair-broncho | Apr 20, 2026 7:00 PM | BRONCHO ⭐ | The Sinclair | Indie Rock | A Decade of Double Vanity. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1313894) |
 | 20260420-lilypad-malaby-goldman | Apr 20, 2026 7:00 PM | Tony Malaby, Max Goldman, Nate McBride and Andrew Schiller ⭐ | The Lilypad | Jazz/Experimental | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8-a3xg9-gdhty-94d5m-mx832-swe24-pwdbh-bfezz-5mgwg-wzmn4) |
 | 20260420-brighton-antlers | Apr 20, 2026 7:00 PM | The Antlers ⭐ | Brighton Music Hall | Indie Rock/Dream Pop | Brooklyn indie rock | [Details](https://www.boston.com/) |
@@ -54,4 +47,4 @@ updated_at: 2026-04-19T08:25:06.096925
 | 20260510-gardner-isata | May 10, 2026 1:30 PM | Isata Kanneh-Mason ⭐ | Isabella Stewart Gardner Museum | Classical/Contemporary | Beethoven "Moonlight" and "Waldstein," Ravel, Dobrinka Tabakova | [Details](https://www.gardnermuseum.org/announcing-isabella-stewart-gardner-museums-winterspring-2026-weekend-concert-series) |
 | 20260511-lilypad-alex-lemski | May 11, 2026 2:00 PM | Alex Lemski Memorial ⭐ | The Lilypad | Various/Experimental | Musical celebration of Creative Music Series founder. $25 day pass/$10 per set | [Details](https://www.lilypadinman.com/home/2026/alex-lemski-celebration-of-life) |
 
-*Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability. The Lilypad events highlighted are special non-regular programming as requested.*
+*Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability. The Lilypad events highlighted are special non-regular programming as requested. Updated with limited search capability - please check venue sites directly for the most current information.*
