@@ -1,16 +1,11 @@
 ---
-cost: 1.0260
+cost: 1.9943
 title: concerts
-updated_at: 2026-04-20T08:51:15.887028
+updated_at: 2026-04-21T08:43:01.339375
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260420-sinclair-broncho | Apr 20, 2026 7:00 PM | BRONCHO ⭐ | The Sinclair | Indie Rock | A Decade of Double Vanity. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1313894) |
-| 20260420-lilypad-malaby-goldman | Apr 20, 2026 7:00 PM | Tony Malaby, Max Goldman, Nate McBride and Andrew Schiller ⭐ | The Lilypad | Jazz/Experimental | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-h7g3e-ne2dd-3tlw3-5s8pj-nxad8-ksr6a-ntm6y-tppjx-x2m5j-z9zt7-8tan8-a3xg9-gdhty-94d5m-mx832-swe24-pwdbh-bfezz-5mgwg-wzmn4) |
-| 20260420-brighton-antlers | Apr 20, 2026 7:00 PM | The Antlers ⭐ | Brighton Music Hall | Indie Rock/Dream Pop | Brooklyn indie rock | [Details](https://www.boston.com/) |
-| 20260420-lilypad-bergonzi | Apr 20, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026-ppejb-xz8jt-3ys9p) |
-| 20260420-lilypad-fringe | Apr 20, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry-b53aw-7c7kh-sj23g-aj762-dmc6t-kpk2d) |
 | 20260421-sinclair-sweet-pill | Apr 21, 2026 7:00 PM | Sweet Pill ⭐ | The Sinclair | Indie Rock | Still There's a Glow Tour. With Spaced. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1222072) |
 | 20260421-lilypad-radley | Apr 21, 2026 7:30 PM | Nate Radley Group | The Lilypad | Jazz | $15 admission / $10 students / 7pm doors / 7:30 show | [Details](https://www.lilypadinman.com/home/2026/4/21/nate-radley-group) |
 | 20260421-lilypad-jam-session | Apr 21, 2026 10:00 PM | Jam Session with Nick Brust and Liz Sinn | The Lilypad | Jazz/Jam Session | $15 / $10 students / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/2026/february-jam-session-with-nick-brust-and-liz-sinn-9zlkr) |
@@ -19,32 +14,32 @@ updated_at: 2026-04-20T08:51:15.887028
 | 20260422-lilypad-variety | Apr 22, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf-76pd3-y7ch7-8hmx7-55f5l-wn392-hcxgp-tcjf6) |
 | 20260423-lilypad-irish | Apr 23, 2026 7:00 PM | Séan Gavin & Caoimhín Ó Fearghail | The Lilypad | Irish Music | Live at The Druid presents master pipers and master musicians | [Details](https://www.lilypadinman.com/home/2026/4/23/san-gavin-amp-caoimhn-fearghail) |
 | 20260423-lilypad-olivia-helen | Apr 23, 2026 10:00 PM | Olivia Helen Album Release Show ft. Taylor Hurd and Emily Baird | The Lilypad | Folk/Alternative/Rock | $11 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/23/between-pieces-of-me-release-featuring-olivia-helen-taylor-hurd-and-emily-baird) |
-| 20260424-lilypad-kiernan | Apr 24, 2026 7:30 PM | Kiernan | The Lilypad | Indie | $18 at the door / $15 advance / 7:30 doors / 8pm show / all ages | [Details](https://www.lilypadinman.com/home/2026/4/24/kiernan) |
-| 20260424-berklee-jazz-gender | Apr 24, 2026 8:00 PM | Berklee Institute of Jazz and Gender Justice | Berklee Performance Center | Jazz/Contemporary | The Roots and the Source - The Grand Gathering | [Details](https://www.berklee.edu/BPC/) |
-| 20260424-lilypad-thank-you-bye | Apr 24, 2026 10:15 PM | Thank You Bye / Velvet Handle / Brush | The Lilypad | Alternative/Rock/Punk | $12 at the door / $10 in advance / 10:15 doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/24/thank-you-bye-velvet-handle-brush) |
-| 20260424-nonevent-waterworks | Apr 24-25, 2026 7:30 PM | Waterworks 2026 Festival ⭐ | Metropolitan Waterworks Museum | Experimental | Two nights feat. Amirtha Kidambi, Marshall Trammell & more. NonEvent curated | [Details](https://www.nonevent.org/concerts/waterworks-fest-2026) |
-| 20260425-roadrunner-cock-sparrer | Apr 25, 2026 7:30 PM | Cock Sparrer | Roadrunner | Punk/Oi! | British punk legends | [Details](https://roadrunnerboston.com/) |
-| 20260426-gardner-butter | Apr 26, 2026 1:30 PM | Butter Quartet | Isabella Stewart Gardner Museum | Classical | Period instrument quartet performing Haydn and Beethoven | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260423-sinclair-sam-greenfield | Apr 23, 2026 | Sam Greenfield | The Sinclair | Indie | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165125) |
+| 20260424-lilypad-kiernan | Apr 24, 2026 7:30 PM | Kiernan ⭐ | The Lilypad | Indie | $18 at the door / $15 advance / 7:30 doors / 8pm show / all ages | [Details](https://www.lilypadinman.com/home/2026/4/24/kiernan) |
+| 20260424-lilypad-thank-you-bye | Apr 24, 2026 10:15 PM | Thank You Bye / Velvet Handle / Brush ⭐ | The Lilypad | Alternative/Rock/Punk | $12 at the door / $10 in advance / 10:15 doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/24/thank-you-bye-velvet-handle-brush) |
+| 20260425-sinclair-ashley-kutcher | Apr 25, 2026 | Ashley Kutcher | The Sinclair | Indie/Alt | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1281998) |
+| 20260426-gardner-butter | Apr 26, 2026 1:30 PM | Butter Quartet | Isabella Stewart Gardner Museum | Classical | Period instrument quartet performing works from Classical period | [Details](https://www.gardnermuseum.org/calendar) |
 | 20260426-sinclair-vana | Apr 26, 2026 6:00 PM | Vana | The Sinclair | Alt Rock | The Lady in Red Tour. With Cloudyfield, Deadlands & Redhook. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1241022) |
 | 20260427-sinclair-fishbone | Apr 27, 2026 6:00 PM | Fishbone ⭐ | The Sinclair | Ska/Punk/Experimental | In Your Face 40th Anniversary Tour. With Dub Apocalypse. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1270786) |
-| 20260428-sinclair-wu-lyf | Apr 28, 2026 7:00 PM | WU LYF ⭐ | The Sinclair | Experimental/Indie | With Lauren Auder. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1288833) |
+| 20260429-lilypad-variety | Apr 29, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/) |
 | 20260429-sinclair-lowertown | Apr 29, 2026 7:00 PM | Lowertown ⭐ | The Sinclair | Indie Rock | With villagerrr, Dino Gala. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1324112) |
-| 20260430-roadrunner-lcd1 | Apr 30, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 1/4). All ages | [Details](https://www.axs.com/events/1320643/lcd-soundsystem-tickets) |
-| 20260430-lilypad-orange-peel | Apr 30, 2026 7:00 PM | Orange Peel LIVE by MAME ⭐ | The Lilypad | Comedy/Musical/Indie | $12.50 tickets / 7pm doors / 7:30 show / seated. A Musical Comedy Experience | [Details](https://www.lilypadinman.com/) |
-| 20260501-roadrunner-lcd2 | May 1, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 2/4). All ages | [Details](https://www.bandsintown.com/e/107968236-lcd-soundsystem-at-roadrunner) |
+| 20260430-roadrunner-lcd1 | Apr 30, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 1/4). All ages | [Details](https://roadrunnerboston.com/) |
+| 20260501-roadrunner-lcd2 | May 1, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 2/4). All ages | [Details](https://roadrunnerboston.com/) |
 | 20260501-sinclair-hold-steady1 | May 1, 2026 8:00 PM | The Hold Steady ⭐ | The Sinclair | Indie Rock | Multi-night residency (Night 1) | [Details](https://www.sinclaircambridge.com/events/detail/1316999) |
-| 20260502-roadrunner-lcd3 | May 2, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 3/4). All ages | [Details](https://www.ticketnews.com/2026/02/lcd-soundsystem-announces-four-night-boston-residency-at-roadrunner/) |
+| 20260502-roadrunner-lcd3 | May 2, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 3/4). All ages | [Details](https://roadrunnerboston.com/) |
 | 20260502-sinclair-hold-steady2 | May 2, 2026 8:00 PM | The Hold Steady ⭐ | The Sinclair | Indie Rock | Multi-night residency (Night 2) | [Details](https://www.sinclaircambridge.com/events/detail/1317624) |
-| 20260502-lilypad-operelly | May 2, 2026 8:00 PM | Operelly | The Lilypad | Indie Folk | Alternative folk band / $25 admission | [Details](https://www.lilypadinman.com/) |
-| 20260503-roadrunner-lcd4 | May 3, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 4/4). All ages | [Details](https://music.apple.com/us/concerts/ce.8731d71d-9053-4cea-9c24-73077322adc2) |
-| 20260503-sinclair-hold-steady3 | May 3, 2026 8:00 PM | The Hold Steady ⭐ | The Sinclair | Indie Rock | Multi-night residency (Night 3) | [Details](https://www.sinclaircambridge.com/events/detail/1317630) |
-| 20260503-sinclair-hold-steady-storytellers | May 3, 2026 5:00 PM | The Hold Steady: Storytellers Set ⭐ | The Sinclair | Indie Rock | Special storytelling format performance | [Details](https://www.sinclaircambridge.com/events/detail/1317659) |
-| 20260504-bmop-turning-point | May 4, 2026 3:00 PM | BMOP: Turning Point ⭐ | Jordan Hall | Contemporary Classical | World premieres: Jeremy Gill, Han Lash; works by Christopher Theofanidis | [Details](https://bmop.org/) |
+| 20260502-sinclair-glitter-boys | May 2, 2026 | The Glitter Boys | The Sinclair | Rock | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1383409) |
+| 20260503-roadrunner-lcd4 | May 3, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 4/4). All ages | [Details](https://roadrunnerboston.com/) |
+| 20260503-sinclair-hold-steady3 | May 3, 2026 7:00 PM | The Hold Steady ⭐ | The Sinclair | Indie Rock | Multi-night residency (Night 3). With Happy Little Clouds | [Details](https://www.sinclaircambridge.com/events/detail/1317630) |
+| 20260503-sinclair-hold-steady-storytellers | May 3, 2026 | The Hold Steady: Storytellers Set ⭐ | The Sinclair | Indie Rock | Special storytelling format performance | [Details](https://www.sinclaircambridge.com/events/detail/1317659) |
 | 20260504-sinclair-yumi-zouma | May 4, 2026 7:00 PM | Yumi Zouma ⭐ | The Sinclair | Indie Pop | With Ducks Ltd. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1198661) |
 | 20260505-sinclair-katie-tupper | May 5, 2026 7:00 PM | Katie Tupper | The Sinclair | Indie | Greyhound Tour. With Ety. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1290749) |
+| 20260506-sinclair-hasan-raheem | May 6, 2026 | Hasan Raheem | The Sinclair | International/Indie | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1301418) |
+| 20260506-lilypad-variety | May 6, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/) |
+| 20260507-sinclair-muse-divas | May 7, 2026 | Muse: A Salute to Divas of the 90s | The Sinclair | Tribute/Pop | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1338121) |
+| 20260508-sinclair-earlybirds | May 8, 2026 | Earlybirds Club | The Sinclair | Indie | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1350767) |
+| 20260508-sinclair-glitter-boys2 | May 8, 2026 | The Glitter Boys | The Sinclair | Rock | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1371049) |
 | 20260509-jordan-afarcry | May 9, 2026 7:30 PM | A Far Cry: The Strangers' Case ⭐ | Jordan Hall | Contemporary Classical/Folk | Karim Sulayman, featuring works by Kouyoumdjian, Handel, Dvořák, Al-Zand | [Details](https://www.afarcry.org/2526season) |
-| 20260509-sinclair-winyah | May 9, 2026 8:00 PM | Winyah | The Sinclair | Indie | All ages | [Details](https://concerts50.com/venues/usa/cambridge-ma/the-sinclair) |
-| 20260510-gardner-isata | May 10, 2026 1:30 PM | Isata Kanneh-Mason ⭐ | Isabella Stewart Gardner Museum | Classical/Contemporary | Beethoven "Moonlight" and "Waldstein," Ravel, Dobrinka Tabakova | [Details](https://www.gardnermuseum.org/announcing-isabella-stewart-gardner-museums-winterspring-2026-weekend-concert-series) |
-| 20260511-lilypad-alex-lemski | May 11, 2026 2:00 PM | Alex Lemski Memorial ⭐ | The Lilypad | Various/Experimental | Musical celebration of Creative Music Series founder. $25 day pass/$10 per set | [Details](https://www.lilypadinman.com/home/2026/alex-lemski-celebration-of-life) |
-
-*Note: ⭐ indicates events particularly aligned with your interests (contemporary classical, experimental, notable indie). Check venue websites directly for additional concerts and ticket availability. The Lilypad events highlighted are special non-regular programming as requested. Updated with limited search capability - please check venue sites directly for the most current information.*
+| 20260509-sinclair-winyah | May 9, 2026 7:00 PM | Winyah | The Sinclair | Indie | No Place I'd Rather Be Tour. With Edgehill. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1198652) |
+| 20260510-gardner-isata | May 10, 2026 1:30 PM | Isata Kanneh-Mason ⭐ | Isabella Stewart Gardner Museum | Classical/Contemporary | Beethoven "Moonlight" and "Waldstein," Ravel, Dobrinka Tabakova. SOLD OUT | [Details](https://www.gardnermuseum.org/calendar) |
+| 20260510-sinclair-cribs | May 10, 2026 7:00 PM | The Cribs ⭐ | The Sinclair | Indie Rock | With Jeffrey Lewis. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1052851) |
