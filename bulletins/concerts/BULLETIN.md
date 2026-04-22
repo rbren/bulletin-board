@@ -1,15 +1,13 @@
 ---
-cost: 1.9943
+cost: 1.7158
 title: concerts
-updated_at: 2026-04-21T08:43:01.339375
+updated_at: 2026-04-22T08:41:17.898520
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260421-sinclair-sweet-pill | Apr 21, 2026 7:00 PM | Sweet Pill ⭐ | The Sinclair | Indie Rock | Still There's a Glow Tour. With Spaced. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1222072) |
-| 20260421-lilypad-radley | Apr 21, 2026 7:30 PM | Nate Radley Group | The Lilypad | Jazz | $15 admission / $10 students / 7pm doors / 7:30 show | [Details](https://www.lilypadinman.com/home/2026/4/21/nate-radley-group) |
-| 20260421-lilypad-jam-session | Apr 21, 2026 10:00 PM | Jam Session with Nick Brust and Liz Sinn | The Lilypad | Jazz/Jam Session | $15 / $10 students / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/2026/february-jam-session-with-nick-brust-and-liz-sinn-9zlkr) |
 | 20260422-sinclair-glixen | Apr 22, 2026 8:00 PM | Glixen & Trauma Ray ⭐ | The Sinclair | Shoegaze/Experimental | With Her New Knife, Knifeplay. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1298275) |
+| 20260422-jordan-rachmaninoff | Apr 22, 2026 7:30 PM | NEC Symphony + David Loebel | Jordan Hall | Classical | Rachmaninoff program | [Details](https://necmusic.edu/events/nec-symphony-david-loebel-rachmaninoff/) |
 | 20260422-lilypad-aharon | Apr 22, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-gb4z2-3w2pe-rr726-zgrt7-y628j-cdy33-et8kd-xbtce-xphdf-yblfh-bwha4-bmk92-btpjh-bw956-rg8fz-bzf9t-5bdwz-44t95-z3yt7) |
 | 20260422-lilypad-variety | Apr 22, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf-76pd3-y7ch7-8hmx7-55f5l-wn392-hcxgp-tcjf6) |
 | 20260423-lilypad-irish | Apr 23, 2026 7:00 PM | Séan Gavin & Caoimhín Ó Fearghail | The Lilypad | Irish Music | Live at The Druid presents master pipers and master musicians | [Details](https://www.lilypadinman.com/home/2026/4/23/san-gavin-amp-caoimhn-fearghail) |
@@ -33,6 +31,7 @@ updated_at: 2026-04-21T08:43:01.339375
 | 20260503-sinclair-hold-steady3 | May 3, 2026 7:00 PM | The Hold Steady ⭐ | The Sinclair | Indie Rock | Multi-night residency (Night 3). With Happy Little Clouds | [Details](https://www.sinclaircambridge.com/events/detail/1317630) |
 | 20260503-sinclair-hold-steady-storytellers | May 3, 2026 | The Hold Steady: Storytellers Set ⭐ | The Sinclair | Indie Rock | Special storytelling format performance | [Details](https://www.sinclaircambridge.com/events/detail/1317659) |
 | 20260504-sinclair-yumi-zouma | May 4, 2026 7:00 PM | Yumi Zouma ⭐ | The Sinclair | Indie Pop | With Ducks Ltd. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1198661) |
+| 20260505-roadrunner-fakemink | May 5, 2026 7:00 PM | Fakemink ⭐ | Roadrunner | Indie/Experimental | Moved from Royale due to demand. Doors 7pm, Show 8pm. All ages | [Details](https://www.boweryboston.com/shows/detail/1332597-fakemink) |
 | 20260505-sinclair-katie-tupper | May 5, 2026 7:00 PM | Katie Tupper | The Sinclair | Indie | Greyhound Tour. With Ety. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1290749) |
 | 20260506-sinclair-hasan-raheem | May 6, 2026 | Hasan Raheem | The Sinclair | International/Indie | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1301418) |
 | 20260506-lilypad-variety | May 6, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/) |
@@ -42,4 +41,5 @@ updated_at: 2026-04-21T08:43:01.339375
 | 20260509-jordan-afarcry | May 9, 2026 7:30 PM | A Far Cry: The Strangers' Case ⭐ | Jordan Hall | Contemporary Classical/Folk | Karim Sulayman, featuring works by Kouyoumdjian, Handel, Dvořák, Al-Zand | [Details](https://www.afarcry.org/2526season) |
 | 20260509-sinclair-winyah | May 9, 2026 7:00 PM | Winyah | The Sinclair | Indie | No Place I'd Rather Be Tour. With Edgehill. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1198652) |
 | 20260510-gardner-isata | May 10, 2026 1:30 PM | Isata Kanneh-Mason ⭐ | Isabella Stewart Gardner Museum | Classical/Contemporary | Beethoven "Moonlight" and "Waldstein," Ravel, Dobrinka Tabakova. SOLD OUT | [Details](https://www.gardnermuseum.org/calendar) |
-| 20260510-sinclair-cribs | May 10, 2026 7:00 PM | The Cribs ⭐ | The Sinclair | Indie Rock | With Jeffrey Lewis. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1052851) |
+| 20260510-sinclair-cribs | May 10, 2026 7:00 PM | The Cribs ⭐ | The Sinclair | Indie Rock | With Jeffrey Lewis. 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/1052851) |
+| 20260511-sinclair-flyte | May 11, 2026 7:00 PM | Flyte | The Sinclair | Indie/Alt | With Ken Pomeroy. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1225872) |
