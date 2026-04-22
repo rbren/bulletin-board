@@ -1,7 +1,7 @@
 ---
-cost: 1.5212
+cost: 1.3777
 title: industry-news
-updated_at: 2026-04-21T08:42:58.998012
+updated_at: 2026-04-22T08:41:14.772266
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
@@ -20,6 +20,3 @@ updated_at: 2026-04-21T08:42:58.998012
 | 20260415-emergent-wingman-launch | 2026-04-15 | Emergent | Vibe Coding Startup Emergent Launches AI Agent Wingman | https://m.economictimes.com/tech/startups/vibe-coding-startup-emergent-launches-ai-agent-wingman/articleshow/130287085.cms | Emergent launched Wingman, an AI agent platform allowing users to deploy multiple autonomous agents for scheduling, social media management, sales, research, and hiring. The startup hit $100M ARR in eight months and raised $70M from Khosla Ventures and SoftBank at a $300M valuation, competing with Lovable, Replit, and Cursor. |
 | 20260415-anthropic-biotech-acquisition | 2026-04-15 | Anthropic | Anthropic Enters Biotech with ~$400M Acquisition | https://www.linkedin.com/pulse/ai-updates-march-31-april-7-2026-dhanushkumar-r-cogqc | Anthropic confirmed it is entering biotech via a ~$400M acquisition/deal. The company is also addressing Claude Code usage limits after users reported hitting limits faster than expected, working on fixes to scale their agentic tools. |
 | 20260415-shield-ai-12-7b-valuation | 2026-04-15 | Shield AI | Shield AI Raises $2B at $12.7B Valuation for Autonomous Systems | https://aifundingtracker.com/top-50-ai-startups/ | Shield AI raised $2B at a $12.7B valuation, entering the top tier of AI unicorns. The company develops AI pilots and autonomous systems for defense applications, marking significant growth in the AI defense technology sector. |
-| 20260414-openai-122b-funding | 2026-04-14 | OpenAI | OpenAI Closes Record $122B Funding Round at $852B Valuation | https://www.linkedin.com/pulse/ai-updates-march-31-april-7-2026-dhanushkumar-r-cogqc | OpenAI secured $122 billion in committed capital, reaching a post-money valuation of $852 billion. Monthly revenue reportedly exceeds $2 billion, with funds earmarked for frontier AI development, compute infrastructure, and global expansion. |
-| 20260414-replit-400m-funding | 2026-04-14 | Replit | Replit Raises $400M to Accelerate Agentic Software Creation Platform | https://techfundingnews.com/replit-raises-400m-9b-valuation-ai-app-building/ | Replit closed $400 million in funding at a $9 billion valuation, driven by over 50 million users and projected $1B run-rate revenue by end of 2026. The company launched Agent 4, enabling parallel AI agents to build applications from natural language prompts. |
-| 20260414-cursor-3-launch | 2026-04-14 | Cursor | Cursor Launches Cursor 3 Agent-First Interface to Compete with Claude Code | https://blog.mean.ceo/ai-product-launches-news-april-2026/ | Cursor released Cursor 3, an agent-first interface allowing users to run multiple AI coding agents in parallel across repos and environments. The update includes an Agents Window for managing tasks, Design Mode for UI feedback, and maintains the VS Code-based IDE alongside the new interface. |
