@@ -1,23 +1,24 @@
 ---
-cost: 1.7158
+cost: 1.5864
 title: concerts
-updated_at: 2026-04-22T08:41:17.898520
+updated_at: 2026-04-23T08:42:03.582457
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260422-sinclair-glixen | Apr 22, 2026 8:00 PM | Glixen & Trauma Ray ⭐ | The Sinclair | Shoegaze/Experimental | With Her New Knife, Knifeplay. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1298275) |
-| 20260422-jordan-rachmaninoff | Apr 22, 2026 7:30 PM | NEC Symphony + David Loebel | Jordan Hall | Classical | Rachmaninoff program | [Details](https://necmusic.edu/events/nec-symphony-david-loebel-rachmaninoff/) |
-| 20260422-lilypad-aharon | Apr 22, 2026 8:15 PM | Gill Aharon Trio ⭐ | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-gb4z2-3w2pe-rr726-zgrt7-y628j-cdy33-et8kd-xbtce-xphdf-yblfh-bwha4-bmk92-btpjh-bw956-rg8fz-bzf9t-5bdwz-44t95-z3yt7) |
-| 20260422-lilypad-variety | Apr 22, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/home/wp6a3mw6nzwgn7y-bt78m-34tft-5m249-lkg72-6pz56-xcnhy-cj9t7-raewf-76pd3-y7ch7-8hmx7-55f5l-wn392-hcxgp-tcjf6) |
 | 20260423-lilypad-irish | Apr 23, 2026 7:00 PM | Séan Gavin & Caoimhín Ó Fearghail | The Lilypad | Irish Music | Live at The Druid presents master pipers and master musicians | [Details](https://www.lilypadinman.com/home/2026/4/23/san-gavin-amp-caoimhn-fearghail) |
 | 20260423-lilypad-olivia-helen | Apr 23, 2026 10:00 PM | Olivia Helen Album Release Show ft. Taylor Hurd and Emily Baird | The Lilypad | Folk/Alternative/Rock | $11 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/23/between-pieces-of-me-release-featuring-olivia-helen-taylor-hurd-and-emily-baird) |
 | 20260423-sinclair-sam-greenfield | Apr 23, 2026 | Sam Greenfield | The Sinclair | Indie | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165125) |
 | 20260424-lilypad-kiernan | Apr 24, 2026 7:30 PM | Kiernan ⭐ | The Lilypad | Indie | $18 at the door / $15 advance / 7:30 doors / 8pm show / all ages | [Details](https://www.lilypadinman.com/home/2026/4/24/kiernan) |
 | 20260424-lilypad-thank-you-bye | Apr 24, 2026 10:15 PM | Thank You Bye / Velvet Handle / Brush ⭐ | The Lilypad | Alternative/Rock/Punk | $12 at the door / $10 in advance / 10:15 doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/24/thank-you-bye-velvet-handle-brush) |
 | 20260425-sinclair-ashley-kutcher | Apr 25, 2026 | Ashley Kutcher | The Sinclair | Indie/Alt | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1281998) |
+| 20260425-lilypad-lupo-citta | Apr 25, 2026 10:00 PM | Lupo Città + Taxidermists ⭐ | The Lilypad | Experimental | $15 / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/25/lupo-citt-taxidermists) |
+| 20260426-lilypad-david-haas | Apr 26, 2026 7:00 PM | The David Haas Group | The Lilypad | Jazz | Free admission / 7pm start / seated | [Details](https://www.lilypadinman.com/home/2026/3/29/the-david-haas-group-a-coalition-of-the-willing-mm6fs-g4d57) |
 | 20260426-gardner-butter | Apr 26, 2026 1:30 PM | Butter Quartet | Isabella Stewart Gardner Museum | Classical | Period instrument quartet performing works from Classical period | [Details](https://www.gardnermuseum.org/calendar) |
-| 20260426-sinclair-vana | Apr 26, 2026 6:00 PM | Vana | The Sinclair | Alt Rock | The Lady in Red Tour. With Cloudyfield, Deadlands & Redhook. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1241022) |
+| 20260426-sinclair-vana | Apr 26, 2026 6:00 PM | Vana | The Sinclair | Alt Rock | The Lady in Red Tour. With Chandler Leighton, Deadlands & Redhook. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1241022) |
+| 20260427-lilypad-elan-mehler | Apr 27, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-trio-7fyr-95bxf-yysc4) |
+| 20260427-lilypad-jerry-bergonzi | Apr 27, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026-ppejb-xz8jt-taahh) |
+| 20260427-lilypad-fringe | Apr 27, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $price not listed | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry-b53aw-7c7kh-sj23g-aj762-dmc6t-kpk2d-xgds5) |
 | 20260427-sinclair-fishbone | Apr 27, 2026 6:00 PM | Fishbone ⭐ | The Sinclair | Ska/Punk/Experimental | In Your Face 40th Anniversary Tour. With Dub Apocalypse. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1270786) |
 | 20260429-lilypad-variety | Apr 29, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/) |
 | 20260429-sinclair-lowertown | Apr 29, 2026 7:00 PM | Lowertown ⭐ | The Sinclair | Indie Rock | With villagerrr, Dino Gala. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1324112) |
