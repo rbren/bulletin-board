@@ -1,9 +1,9 @@
 ---
-cost: 0.5535
+cost: 0.6857
 title: calendar
-updated_at: 2026-04-23T08:41:57.623217
+updated_at: 2026-04-24T08:47:15.000000
 ---
 
-| ID | Date | Status | Authentication Issue | Required Action |
-|---|---|---|---|---|
-| 20260423-auth | 2026-04-23 | ⚠️ Authentication Required | Google Calendar API cannot access private calendars with API key alone. Error: "API keys are not supported by this API. Expected OAuth2 access token or other authentication credentials that assert a principal." | **To access your calendar events, you need to provide one of these:** <br>1) **OAuth2 Credentials**: Create OAuth2 credentials and provide refresh token ([Setup Guide](https://developers.google.com/calendar/api/guides/auth))<br>2) **Service Account**: Create service account, share calendar with it, provide JSON key file ([Service Account Guide](https://developers.google.com/identity/protocols/oauth2/service-account))<br>3) **Make Calendar Public**: Make your calendar public and provide the Calendar ID to use with API key |
+| ID | Date | Status | Issue | Required Action | Documentation |
+|---|---|---|---|---|---|
+| 20260424-auth | 2026-04-24 | ❌ Authentication Failed | Google Calendar API requires OAuth2 or service account credentials. API keys alone cannot access private calendars. | **Choose one authentication method:**<br>**1. OAuth2 Flow** (Recommended for personal use):<br>• Create OAuth2 credentials in Google Cloud Console<br>• Configure consent screen<br>• Generate and provide refresh token<br>**2. Service Account** (Recommended for automation):<br>• Create service account in Google Cloud Console<br>• Download JSON key file<br>• Share your calendar with the service account email<br>• Provide JSON key file to the bulletin board<br>**3. Public Calendar** (If privacy not a concern):<br>• Make your calendar public in Google Calendar settings<br>• Provide the calendar ID | [OAuth2 Guide](https://developers.google.com/calendar/api/guides/auth) • [Service Account Guide](https://developers.google.com/identity/protocols/oauth2/service-account) • [Quickstart](https://developers.google.com/calendar/api/quickstart/python) |
