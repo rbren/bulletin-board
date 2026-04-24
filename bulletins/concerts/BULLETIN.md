@@ -1,17 +1,15 @@
 ---
-cost: 1.5864
+cost: 1.5772
 title: concerts
-updated_at: 2026-04-23T08:42:03.582457
+updated_at: 2026-04-24T08:46:43.794327
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260423-lilypad-irish | Apr 23, 2026 7:00 PM | Séan Gavin & Caoimhín Ó Fearghail | The Lilypad | Irish Music | Live at The Druid presents master pipers and master musicians | [Details](https://www.lilypadinman.com/home/2026/4/23/san-gavin-amp-caoimhn-fearghail) |
-| 20260423-lilypad-olivia-helen | Apr 23, 2026 10:00 PM | Olivia Helen Album Release Show ft. Taylor Hurd and Emily Baird | The Lilypad | Folk/Alternative/Rock | $11 admission / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/23/between-pieces-of-me-release-featuring-olivia-helen-taylor-hurd-and-emily-baird) |
-| 20260423-sinclair-sam-greenfield | Apr 23, 2026 | Sam Greenfield | The Sinclair | Indie | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1165125) |
 | 20260424-lilypad-kiernan | Apr 24, 2026 7:30 PM | Kiernan ⭐ | The Lilypad | Indie | $18 at the door / $15 advance / 7:30 doors / 8pm show / all ages | [Details](https://www.lilypadinman.com/home/2026/4/24/kiernan) |
 | 20260424-lilypad-thank-you-bye | Apr 24, 2026 10:15 PM | Thank You Bye / Velvet Handle / Brush ⭐ | The Lilypad | Alternative/Rock/Punk | $12 at the door / $10 in advance / 10:15 doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/24/thank-you-bye-velvet-handle-brush) |
-| 20260425-sinclair-ashley-kutcher | Apr 25, 2026 | Ashley Kutcher | The Sinclair | Indie/Alt | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1281998) |
+| 20260425-lilypad-pop-princess | Apr 25, 2026 7:15 PM | Pop Princess Show | The Lilypad | Pop Tribute | $12 cover / 7:15 doors / 7:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/25/pop-princess-show) |
+| 20260425-sinclair-ashley-kutcher | Apr 25, 2026 7:00 PM | Ashley Kutcher | The Sinclair | Indie/Alt | Doors open. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1281998) |
 | 20260425-lilypad-lupo-citta | Apr 25, 2026 10:00 PM | Lupo Città + Taxidermists ⭐ | The Lilypad | Experimental | $15 / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/25/lupo-citt-taxidermists) |
 | 20260426-lilypad-david-haas | Apr 26, 2026 7:00 PM | The David Haas Group | The Lilypad | Jazz | Free admission / 7pm start / seated | [Details](https://www.lilypadinman.com/home/2026/3/29/the-david-haas-group-a-coalition-of-the-willing-mm6fs-g4d57) |
 | 20260426-gardner-butter | Apr 26, 2026 1:30 PM | Butter Quartet | Isabella Stewart Gardner Museum | Classical | Period instrument quartet performing works from Classical period | [Details](https://www.gardnermuseum.org/calendar) |
@@ -44,3 +42,4 @@ updated_at: 2026-04-23T08:42:03.582457
 | 20260510-gardner-isata | May 10, 2026 1:30 PM | Isata Kanneh-Mason ⭐ | Isabella Stewart Gardner Museum | Classical/Contemporary | Beethoven "Moonlight" and "Waldstein," Ravel, Dobrinka Tabakova. SOLD OUT | [Details](https://www.gardnermuseum.org/calendar) |
 | 20260510-sinclair-cribs | May 10, 2026 7:00 PM | The Cribs ⭐ | The Sinclair | Indie Rock | With Jeffrey Lewis. 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/1052851) |
 | 20260511-sinclair-flyte | May 11, 2026 7:00 PM | Flyte | The Sinclair | Indie/Alt | With Ken Pomeroy. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1225872) |
+| 20260512-sinclair-ray-bull | May 12, 2026 7:00 PM | Ray Bull | The Sinclair | Indie | Please Stop Laughing Tour. With Babehoven. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1326855) |
