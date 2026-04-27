@@ -1,11 +1,12 @@
 ---
-cost: 2.4527
+cost: 1.7606
 title: camberville
-updated_at: 2026-04-26T08:31:22
+updated_at: 2026-04-27T08:57:08.024116
 ---
 
 | ID | Date | Type | Title | Description | Link |
 |---|---|---|---|---|
+| cambridge-20260426-copper-mill-project | Apr 26, 2026 | News | Copper Mill Back to Drawing Board After State Presses Pause | Developer to present new designs Monday reflecting feedback for lower height and other changes. | [Cambridge Day](https://www.cambridgeday.com/2026/04/26/copper-mill-back-to-drawing-board-after-state-presses-pause-on-project/) |
 | cambridge-20260425-missing-person-update | Apr 25, 2026 | News | Missing Person Update: Family Appeals for Return | Family of Toshiaki Takenaka appeals to public to tell him to come home. Cambridge police working with MBTA for security footage. | [Cambridge Day](https://www.cambridgeday.com/2026/04/25/police-update-takenaka-poster/) |
 | cambridge-20260424-healthy-aging-cycling | Apr 24, 2026 | News | Healthy Aging: Cycling Series for Adults 55+ | Cambridge launches cycling series inviting adults 55 and older to ride in friendly, low-stress environment. | [Cambridge](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/departments/humanserviceprograms/news/2026/04/healthyagingcyclingseries) |
 | cambridge-20260424-harvard-grad-strike | Apr 24, 2026 | News | Harvard Graduate Students Strike Continues | Graduate student workers continue strike at Harvard University. | [Cambridge Day](https://www.cambridgeday.com/2026/04/24/harvard-graduate-students-strike-continues/) |
@@ -18,8 +19,6 @@ updated_at: 2026-04-26T08:31:22
 | somerville-20260423-new-school-workshop | Apr 23, 2026 | News | Community Workshop for New School at 115 Sycamore | Design workshop for community programming at new school building scheduled for May 11, 5:30-7:30 PM at Tufts Administration Building. | [Somerville](https://www.somervillema.gov/news/community-design-workshop-new-school-building-115-sycamore-may-11) |
 | cambridge-20260422-affordable-housing | Apr 22, 2026 | News | CHA to Develop 50+ Affordable Family Apartments at Porter Street | Cambridge Housing Authority purchased 16-28 Porter Street in Wellington-Harrington with City funds to create 50-55 new affordable family apartments near Lechmere MBTA station. | [Cambridge](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/cdd/news/2026/04/1618porter) |
 | somerville-20260421-broadway-magoun | Apr 21, 2026 | News | Broadway in Magoun Square Redesign Open House | City Mobility Division hosting open house May 6 to share preliminary design concepts addressing safety concerns on Broadway through Magoun Square. | [Somerville](https://www.somervillema.gov/news/explore-somerville-mobilitys-designs-broadway-magoun-square-may-6-open-house) |
-| cambridge-20260426-earth-day | Apr 26, 2026 | Event | Earth Day: Our Power, Our Planet | Share knowledge and meet advocates at 22 Vinal Ave, Somerville, 1-3 PM. Includes storytelling and hands-on garden activities. | [Somerville](https://www.somervillema.gov/sustainavilleweek) |
-| somerville-20260426-pine-car-derby | Apr 26, 2026 | Event | 1st Annual Pine-Car Derby | Bow Market and Somerville Cub Scouts Pack 3 hosting all-ages pine car derby, 11:00 AM. | [Bow Market](https://www.bowmarketsomerville.com/upcomingevents) |
 | cambridge-20260427-council-meeting | Apr 27, 2026 | Event | Cambridge City Council Meeting | Regular meeting at 5:30 PM, Sullivan Chamber and Zoom. | [Cambridge](http://rwinters.com/calendar.htm) |
 | cambridge-20260428-planning | Apr 28, 2026 | Event | Cambridge Planning Board Meeting | Remote meeting on Healthpeak Alewife Quadrangle PUD development. | [Cambridge](https://www.cambridgema.gov/cdd/zoninganddevelopment/planningboard/planningboardmeetings) |
 | cambridge-20260428-transportation-committee | Apr 28, 2026 | Event | Transportation and Public Utilities Committee | Public hearing at 3:00 PM to review Residential Permit Parking Program. | [Cambridge](http://rwinters.com/calendar.htm) |
