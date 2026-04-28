@@ -1,11 +1,13 @@
 ---
-cost: 1.1012
+cost: 1.2943
 title: industry-news
-updated_at: 2026-04-27T08:57:05.968810
+updated_at: 2026-04-28T08:55:24.054251
 ---
 
 | ID | Date | Company | News Title | Link | Summary |
 |---|---|---|---|---|
+| 20260428-openai-smartphone-chips | 2026-04-28 | OpenAI | OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm | https://the-decoder.com/openai-reportedly-developing-its-own-smartphone-chips-with-mediatek-and-qualcomm/ | OpenAI is working with MediaTek and Qualcomm on custom smartphone processors, with Luxshare as the exclusive partner for system design and manufacturing. Mass production is planned for 2028. The chip could power an "AI agent phone" focused on completing tasks rather than running traditional apps, or could be used in other OpenAI hardware projects including those developed with Jony Ive. |
+| 20260427-meta-space-solar | 2026-04-27 | Meta | Meta wants to power AI data centers with solar energy from space | https://the-decoder.com/ai-news/ | Meta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The technology doesn't exist yet but aims to address growing energy demands from AI data centers. |
 | 20260426-openai-codex-merge | 2026-04-26 | OpenAI | OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5 | https://the-decoder.com/openai-kills-its-dedicated-coding-model-codex-again-folding-it-into-gpt-5-5/ | OpenAI has rolled its separate Codex model for programming into the main GPT-5.5 model, marking the end of the standalone Codex line. GPT-5.5 brings major gains in agentic coding and computer use capabilities while using fewer tokens than GPT-5.4 on coding tasks. Despite efficiency gains, API pricing increases by 20%. |
 | 20260426-alibaba-qwen3-6 | 2026-04-26 | Alibaba | Qwen3.6-27B beats much larger predecessor on most coding benchmarks | https://the-decoder.com/qwen3-6-27b-beats-much-larger-predecessor-on-most-coding-benchmarks/ | Alibaba released Qwen3.6-27B, a 27 billion parameter model that outperforms its much larger 397B predecessor on nearly every coding benchmark. It scored 77.2 on SWE-bench Verified vs 76.2, and 59.3 on Terminal-Bench 2.0 vs 52.5. Available as open weights on Hugging Face and ModelScope. |
 | 20260425-google-anthropic-40b | 2026-04-25 | Google/Anthropic | Google pours up to $40 billion into ChatGPT rival Anthropic | https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/ | Google is investing up to $40 billion in Anthropic - $10 billion based on current $380B valuation, with remaining $30B tied to performance targets. This extends their partnership, with Google already holding about 14% of the company. Anthropic now has $30B+ in annual recurring revenue with IPO expected soon. |
