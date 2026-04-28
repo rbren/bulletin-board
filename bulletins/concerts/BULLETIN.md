@@ -1,15 +1,11 @@
 ---
-cost: 1.6329
+cost: 1.4311
 title: concerts
-updated_at: 2026-04-27T08:57:03
+updated_at: 2026-04-28T08:55:13
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260427-lilypad-elan-mehler | Apr 27, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/elan-mehler-trio-7fyr-95bxf-yysc4) |
-| 20260427-lilypad-jerry-bergonzi | Apr 27, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026-ppejb-xz8jt-taahh) |
-| 20260427-lilypad-fringe | Apr 27, 2026 10:00 PM | The Fringe ⭐ | The Lilypad | Jazz/Avant-garde | $15 / $10 Students / 10:30 start / 10pm doors / seated | [Details](https://www.lilypadinman.com/home/the-fringe-2026-7llfb-r7kry-b53aw-7c7kh-sj23g-aj762-dmc6t-kpk2d-xgds5) |
-| 20260427-sinclair-fishbone | Apr 27, 2026 6:00 PM | Fishbone ⭐ | The Sinclair | Ska/Punk/Experimental | In Your Face 40th Anniversary Tour. With Dub Apocalypse. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1270786) |
 | 20260428-lilypad-video-game | Apr 28, 2026 10:00 PM | GKit & Magnificent Danger Video Game Large Ensemble Night ⭐ | The Lilypad | Jazz/Fusion/Experimental | $15 / 10:30pm doors / 11pm start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/4/28/gkit-magnificent-danger-present-video-game-large-ensemble-night) |
 | 20260429-lilypad-gill-aharon | Apr 29, 2026 8:15 PM | Gill Aharon Trio | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-gb4z2-3w2pe-rr726-zgrt7-y628j-cdy33-et8kd-xbtce-xphdf-yblfh-bwha4-bmk92-btpjh-bw956-rg8fz-bzf9t-5bdwz-44t95-948rw-xekk2) |
 | 20260429-lilypad-variety | Apr 29, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/) |
@@ -26,6 +22,8 @@ updated_at: 2026-04-27T08:57:03
 | 20260503-roadrunner-lcd4 | May 3, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Four night stand (Night 4/4). All ages | [Details](https://roadrunnerboston.com/) |
 | 20260503-lilypad-kdf-candombe | May 3, 2026 10:00 PM | Candombe Night w/ KDF 10tet ⭐ | The Lilypad | Latin/Big Band/Experimental | $15 admission / 10pm doors / 10:20 start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/5/3/candombe-night-w-the-kdf-10tet) |
 | 20260503-sinclair-hold-steady3 | May 3, 2026 7:00 PM | The Hold Steady ⭐ | The Sinclair | Indie Rock | Multi-night residency (Night 3). With Happy Little Clouds | [Details](https://www.sinclaircambridge.com/events/detail/1317630) |
+| 20260504-lilypad-elan-mehler | May 4, 2026 7:00 PM | Elan Mehler Trio | The Lilypad | Jazz | $15 / $10 students / 7pm / seated | [Details](https://www.lilypadinman.com/home/2026/elan-mehler-triopj-pjx-x2m5j-z9zt7-8tan8-a3xg9-gdhty-94d5m-mx832-swe24-pwdbh-bfezz-5mgwg-wzmn4-7e6j4) |
+| 20260504-lilypad-jerry-bergonzi | May 4, 2026 8:30 PM | Jerry Bergonzi Quartet | The Lilypad | Jazz | $15 @ the door / $10 students / 8:30 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/jerry-bergonzi-2026-ppejb-xz8jt-taahh-c9yrx) |
 | 20260504-sinclair-yumi-zouma | May 4, 2026 7:00 PM | Yumi Zouma ⭐ | The Sinclair | Indie Pop | With Ducks Ltd. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1198661) |
 | 20260505-roadrunner-fakemink | May 5, 2026 7:00 PM | Fakemink ⭐ | Roadrunner | Indie/Experimental | Moved from Royale due to demand. Doors 7pm, Show 8pm. All ages | [Details](https://www.boweryboston.com/shows/detail/1332597-fakemink) |
 | 20260505-sinclair-katie-tupper | May 5, 2026 7:00 PM | Katie Tupper | The Sinclair | Indie | Greyhound Tour. With Ety. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1290749) |
