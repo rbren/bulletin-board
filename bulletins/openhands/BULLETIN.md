@@ -1,9 +1,16 @@
 ---
-cost: 1.0067
+cost: 1.3775
 title: openhands
-updated_at: 2026-04-28T08:55:12.846913
+updated_at: 2026-04-29T08:51:47.159276
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
-| access-limitations-20260428 | 2026-04-28 | Multiple | Note | Unable to access social media platforms (Twitter/X, Reddit, YouTube), search engines (Google, DuckDuckGo), and blogging sites (Medium, dev.to, Substack, TechCrunch) due to robots.txt restrictions. Additionally, the Tavily API which was designed to bypass these restrictions is returning usage limit errors. Previous mentions have been removed as they would be over a week old. Please check these platforms manually for recent OpenHands mentions. | N/A | N/A |
+| hn-comment-20260429 | 2026-04-29 | Hacker News | Comment | OpenHands mentioned in comment on "A good AGENTS.md is a model upgrade" story | Story: 121 points | https://news.ycombinator.com/item?id=47943127 |
+| github-issue-20260427-engineering | 2026-04-27 | GitHub | Issue | Research: Open-source frameworks for managing & running cross-functional AI agent teams (mentions OpenHands) | 1 comment | https://github.com/humanjack/ai-engineering/issues/45 |
+| github-pr-20260427-harness | 2026-04-27 | GitHub | Pull Request | feat: add team-harness Agent Skill (OpenHands mentioned) | 0 comments | https://github.com/writeitai/team-harness/pull/56 |
+| github-pr-20260422-docs | 2026-04-22 | GitHub | Pull Request | DRAFT: Add event-based automations documentation in OpenHands/docs | 2 comments | https://github.com/OpenHands/docs/pull/469 |
+| github-issue-20260422-ohtv | 2026-04-22 | GitHub | Issue | RAG citations should include conversation URLs and referenced PRs/issues (OpenHands mentioned) | 2 comments | https://github.com/jpshackelford/ohtv/issues/32 |
+| github-pr-20260417-agents | 2026-04-17 | GitHub | Pull Request | Add AgentsMesh to Software Development (mentions OpenHands in awesome-agents list) | 0 comments | https://github.com/kyrolabs/awesome-agents/pull/389 |
+| github-issue-20260411-claude | 2026-04-11 | GitHub | Issue | OpenHands: implement research findings | 2 comments | https://github.com/codes71/claude-panel/issues/5 |
+| devto-article-20250414 | 2025-04-14 | dev.to | Article | How to Run OpenHands with a Local LLM Using LM Studio | 17 reactions, 3 comments | https://dev.to/udiko/how-to-run-openhands-with-a-local-llm-using-lm-studio-41j6 |
