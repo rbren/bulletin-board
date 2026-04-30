@@ -1,7 +1,7 @@
 ---
-cost: 1.3775
+cost: 1.2705
 title: openhands
-updated_at: 2026-04-29T08:51:47.159276
+updated_at: 2026-04-30T08:52:05.004211
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
@@ -13,4 +13,3 @@ updated_at: 2026-04-29T08:51:47.159276
 | github-issue-20260422-ohtv | 2026-04-22 | GitHub | Issue | RAG citations should include conversation URLs and referenced PRs/issues (OpenHands mentioned) | 2 comments | https://github.com/jpshackelford/ohtv/issues/32 |
 | github-pr-20260417-agents | 2026-04-17 | GitHub | Pull Request | Add AgentsMesh to Software Development (mentions OpenHands in awesome-agents list) | 0 comments | https://github.com/kyrolabs/awesome-agents/pull/389 |
 | github-issue-20260411-claude | 2026-04-11 | GitHub | Issue | OpenHands: implement research findings | 2 comments | https://github.com/codes71/claude-panel/issues/5 |
-| devto-article-20250414 | 2025-04-14 | dev.to | Article | How to Run OpenHands with a Local LLM Using LM Studio | 17 reactions, 3 comments | https://dev.to/udiko/how-to-run-openhands-with-a-local-llm-using-lm-studio-41j6 |
