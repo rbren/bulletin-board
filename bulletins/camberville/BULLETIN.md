@@ -1,20 +1,21 @@
 ---
-cost: 3.0357
+cost: 2.6467
 title: camberville
-updated_at: 2026-04-29T08:51:46.473899
+updated_at: 2026-04-30T08:52:07.111200
 ---
 
 | ID | Date | Type | Title | Description | Link |
-|---|---|---|---|
+|---|---|---|---|---|
+| cambridge-20260429-garden-street-vote | Apr 29, 2026 | News | City Council Votes to Keep Garden Street Design | After contentious debate, council votes to maintain current traffic flow with divided bike lanes on Garden Street. | [Cambridge Day](https://www.cambridgeday.com/2026/04/29/garden-street-tight-vote/) |
+| somerville-20260429-art-city-hall | Apr 29, 2026 | News | Somerville Brings Art into City Hall | New Community Collections series launches with RE-discovering Somerville Open Studios exhibit featuring local artists' work. | [Somerville](https://www.somervillema.gov/news/somerville-brings-art-city-hall-new-community-collections-exhibits-first-re-discovering) |
 | cambridge-20260429-fy27-budget | Apr 28, 2026 | News | Cambridge City Manager Submits FY27 Budget | Proposed $1.03 billion budget includes major infrastructure investments and 4.1% increase over FY26, lower than historical averages. | [Cambridge](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/news/2026/04/cambridgecitymanageryianhuangsubmitsproposedfy27budgettocitycouncil) |
 | cambridge-20260428-lesley-strike | Apr 28, 2026 | News | Lesley University Faculty Launch Two-Day Strike | 82 unionized core faculty members strike after nearly two years of failed negotiations over compensation and workload. | [Cambridge Day](https://www.cambridgeday.com/2026/04/28/lesley-faculty-launch-strike/) |
 | cambridge-20260428-statehouse-candidates | Apr 28, 2026 | News | Seven Contested State Legislature Races in Camberville | Multiple challengers emerge for House seats including contests against incumbents Decker, Connolly, and Rogers. | [Cambridge Day](https://www.cambridgeday.com/2026/04/28/camberville-statehouse-contests/) |
 | cambridge-20260428-intersection-improvements | Apr 28, 2026 | News | Beech and Elm Street Intersection Improvements | City redesigning intersection near Beech St and Elm St to improve pedestrian safety. | [Cambridge](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/departments/transportation/news/2026/04/beechelm) |
 | somerville-20260427-deratification | Apr 27, 2026 | News | DeRATification Week Launches | City launches week-long initiative (April 27-May 3) with new tools and guidance to help residents prevent and address rat activity. | [Somerville](https://www.somervillema.gov/news/deratification-week-taking-somerville-rats) |
 | cambridge-20260427-52-new-street | Apr 27, 2026 | News | 52 New Street Affordable Housing Lottery | JAS holding second lottery for up to 20 one- and two-bedroom affordable housing rental units, applications open until May 20. | [Cambridge](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/cdd/news/2026/04/52newstreetapplicationsopenuntilmay20) |
+| cambridge-20260427-an-sibin-music | Apr 27, 2026 | News | Irish Bar An Sibin Builds Music Community in Inman Square | An Sibin's "Music Mondays" create unique collaboration space where musicians of all levels jam together, inspired by Irish "diddly" tradition. | [Cambridge Day](https://www.cambridgeday.com/2026/04/27/an-sibin-inman-square/) |
 | cambridge-20260424-healthy-aging-cycling | Apr 24, 2026 | News | Healthy Aging: Cycling Series for Adults 55+ | Cambridge launches cycling series inviting adults 55 and older to ride in friendly, low-stress environment. | [Cambridge](https://www.cambridgema.gov/news/detail?path=/sitecore/content/home/departments/humanserviceprograms/news/2026/04/healthyagingcyclingseries) |
-| cambridge-20260429-public-safety-committee | Apr 29, 2026 | Event | Public Safety Committee Meeting | City Council committee hearing on ShotSpotter technology usage, 3:00 PM, Sullivan Chamber and Zoom. | [Cambridge](http://rwinters.com/calendar.htm) |
-| cambridge-20260429-tom-perrotta | Apr 29, 2026 | Event | Tom Perrotta Reading at Brattle Theatre | Best-selling author of "Election" and "The Leftovers" discusses new novel "Ghost Town" set in 1970s New Jersey. | [Cambridge Day](https://www.cambridgeday.com/2026/04/28/ouija-board-tom-perrotta/) |
 | cambridge-20260430-asian-night-market | Apr 30, 2026 | Event | Cambridge Last Thursday Asian Night Market | Support local vendors and celebrate Asian culture at The Foundry. | [Fairs and Festivals](https://www.fairsandfestivals.net/states/ma) |
 | somerville-20260430-blood-drive | Apr 30, 2026 | Event | Red Cross Blood Drive | Blood drive at Arts at the Armory, 9 AM - 2 PM. | [Armory](https://artsatthearmory.org/) |
 | somerville-20260430-winter-warming-discussion | Apr 30, 2026 | Event | 2025-2026 Winter Warming Center Listening Discussion | Public discussion at 6:00 PM about winter warming center operations. | [Somerville](https://www.somervillema.gov/meetingdocs) |
