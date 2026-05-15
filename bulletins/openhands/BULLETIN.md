@@ -1,15 +1,34 @@
 ---
-cost: 1.2705
+cost: 4.7516
 title: openhands
-updated_at: 2026-04-30T08:52:05.004211
+updated_at: 2026-05-15T09:10:24.955781
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
-| hn-comment-20260429 | 2026-04-29 | Hacker News | Comment | OpenHands mentioned in comment on "A good AGENTS.md is a model upgrade" story | Story: 121 points | https://news.ycombinator.com/item?id=47943127 |
-| github-issue-20260427-engineering | 2026-04-27 | GitHub | Issue | Research: Open-source frameworks for managing & running cross-functional AI agent teams (mentions OpenHands) | 1 comment | https://github.com/humanjack/ai-engineering/issues/45 |
-| github-pr-20260427-harness | 2026-04-27 | GitHub | Pull Request | feat: add team-harness Agent Skill (OpenHands mentioned) | 0 comments | https://github.com/writeitai/team-harness/pull/56 |
-| github-pr-20260422-docs | 2026-04-22 | GitHub | Pull Request | DRAFT: Add event-based automations documentation in OpenHands/docs | 2 comments | https://github.com/OpenHands/docs/pull/469 |
-| github-issue-20260422-ohtv | 2026-04-22 | GitHub | Issue | RAG citations should include conversation URLs and referenced PRs/issues (OpenHands mentioned) | 2 comments | https://github.com/jpshackelford/ohtv/issues/32 |
-| github-pr-20260417-agents | 2026-04-17 | GitHub | Pull Request | Add AgentsMesh to Software Development (mentions OpenHands in awesome-agents list) | 0 comments | https://github.com/kyrolabs/awesome-agents/pull/389 |
-| github-issue-20260411-claude | 2026-04-11 | GitHub | Issue | OpenHands: implement research findings | 2 comments | https://github.com/codes71/claude-panel/issues/5 |
+| reddit-discussion-20260515-llama | 2026-05-15 | Reddit | Discussion | Why has no one been talking about OpenHands so far? Discussion about 54k+ GitHub stars vs lack of YouTube/Reddit content | r/LocalLLaMA | https://www.reddit.com/r/LocalLLaMA/comments/1ksfos8/why_has_no_one_been_talking_about_open_hands_so/ |
+| iclr-20260515-michigan | 2026-05-15 | Academic | Research | CSE researchers present 11 papers at ICLR 2026 - OpenHands mentioned in EXP-Bench evaluation | University of Michigan | https://cse.engin.umich.edu/stories/cse-researchers-present-11-papers-at-iclr-2026 |
+| youtube-20260514-ceo | 2026-05-14 | YouTube | Video | OpenHands CEO on AI Agents, the New Agentic Control Plane, and the Future of Software Development | OpenHands | https://www.youtube.com/watch?v=NA-usu666-0 |
+| hn-20260512-cursor | 2026-05-12 | Hacker News | Discussion | "Ask HN: Cursor or Windsurf?" - OpenHands mentioned as promising though complex coding agent alternative | HN Discussion | https://news.ycombinator.com/item?id=43959710 |
+| youtube-20260512-canvas | 2026-05-12 | YouTube | Video | OpenHands' Agent Canvas: Exclusive Preview for the Community to Test! | 83 views | https://www.youtube.com/watch?v=hgY_-3Pbmqw |
+| twitter-20260509-mlflow | 2026-05-09 | Twitter/X | Post | OpenHands + MLFlow integration for improved observability and governance of coding agents | @OpenHandsDev | https://x.com/OpenHandsDev/status/2042273606026096894 |
+| arxiv-20260507-sdk | 2026-05-07 | arXiv | Research Paper | "The OpenHands Software Agent SDK: A Composable and Extensible Foundation" - Architectural redesign lessons | arXiv preprint | https://arxiv.org/html/2511.03690v2 |
+| linkedin-20260507-bowen | 2026-05-07 | LinkedIn | Post | OpenHands Software Agent SDK V1.0 Launch - 72.8% on SWE-bench Verified, 67.9% on GAIA | Bowen L. | https://www.linkedin.com/posts/bowen31337_build-agents-that-activity-7417177962405421056--eHf |
+| vmblog-20260506-brennan | 2026-05-06 | VMblog | Interview | OpenHands CEO Robert Brennan announces Agentic Control Plane for enterprise agent orchestration | VMblog Expert Interview | https://vmblog.com/video/openhands-ceo-on-ai-agents-the-new-agentic-control-plane-and-the-future-of-software-development/ |
+| medium-20260501-chechulin | 2026-05-01 | Medium | Article | Real-world experience with development using AI and OpenHands - Deep dive into practical usage | M. Chechulin | https://medium.com/@mchechulin/real-world-experience-with-development-using-ai-and-openhands-61d267bc6cd2 |
+| medium-20260430-bagheri | 2026-04-30 | HuggingFace | Blog Post | I Accidentally Rebuilt OpenHands From Scratch — Here's What I Learned | Charles Azam | https://huggingface.co/blog/charles-azam/rebuilt-openhands |
+| blog-20260428-otavio | 2026-04-28 | Blog | Article | "Our AI Orchestration Frameworks Are Reinventing Linda" - Analysis of OpenHands' event stream architecture | Otávio Carvalho | https://otavio.cat/posts/ai-orchestration-reinventing-linda/ |
+| dev-20260426-niar | 2026-04-26 | Medium | Article | Redefining Dev Workflows: Exploring OpenHands — An Open-Source AI Developer Agent | Niar | https://medium.com/@niarsdet/redefining-dev-workflows-exploring-openhands-an-open-source-ai-developer-agent-4d579c6e5f40 |
+| dev-20260426-wonderlab | 2026-04-26 | DEV Community | Article | "One Open Source Project a Day (No. 56): OpenHands - The All-Powerful Open Source AI Software Engineer" | Wonderlab | https://dev.to/wonderlab/one-open-source-project-a-day-no-56-openhands-the-all-powerful-open-source-ai-software-3fb5 |
+| blog-20260425-rheinwerk | 2026-04-25 | Blog | Article | What Is OpenHands? - Overview of the open-source MIT-licensed project with 38,800 GitHub stars | Rheinwerk Computing | https://blog.rheinwerk-computing.com/what-is-openhands |
+| toronto-aitinkerers-20260424 | 2026-04-24 | Toronto AI Tinkerers | Projects Page | OpenHands featured with 2 projects showcasing the platform (38,800+ GitHub stars) | 2 projects, 1 city | https://toronto.aitinkerers.org/technologies/openhands |
+| medium-20260423-mchechulin-2 | 2026-04-23 | Medium | Article | Open-source coding agents and what they can deliver for $10 - OpenHands comparison with Goose and Cline | M. Chechulin | https://medium.com/@mchechulin/opensource-agentic-coding-systems-what-can-they-deliver-for-10-41156244fc1b |
+| youtube-20260423-critic | 2026-04-23 | YouTube | Video | OpenHands Critic is Here to Roast Your Code (CLI Demo + Ralph Wiggum + Community Updates) | 385 views | https://www.youtube.com/watch?v=JgzwwLP8jL8 |
+| github-pr-20260423-openswarm | 2026-04-23 | Facebook | Post | Locally orchestrates parallel AI coding agents including OpenHands | 457 stars | https://www.facebook.com/0xSojalSec/posts/locally-orchestrates-parallel-ai-coding-agents-from-one-dashboard-githubcomopens/1513053330349065/ |
+| facebook-20260422-techtitans | 2026-04-22 | Facebook | Post | Tech Titans: "If I had to replace my entire engineering team with AI" - OpenHands listed as #1 junior developer replacement | 65K+ stars mentioned | https://www.facebook.com/groups/techtitansgroup/posts/1641189687208343/ |
+| twitter-20260421-timothy | 2026-04-21 | Twitter/X | Post | Timothy Chen: "Started as OpenDevin and now evolving into @OpenHandsDev, building the outer loop of vibe coding" | @tnachen | https://x.com/tnachen/status/2013779182371906020 |
+| aimaker-substack-20260420 | 2026-04-20 | Substack | Newsletter | Building AI Agents That Read Newsletters - Mentions OpenHands as part of AI agent ecosystem | AI Maker | https://aimaker.substack.com/p/how-i-built-an-ai-agent-that-reads-substack-newsletter-every-week-make-com-tutorial |
+| twitter-20260420-index-update | 2026-04-20 | Twitter/X | Post | OpenHands Index updates: Result visualization with Laminar, reward hacking patch, new language models | @OpenHandsDev | https://x.com/OpenHandsDev/status/2024944974010204275 |
+| amd-blog-20260418 | 2026-04-18 | AMD Blog | Article | Local AI for Developers: OpenHands + AMD Bring Coding Agents to Your Workstation | AMD Developer Resources | https://www.amd.com/en/developer/resources/technical-articles/2025/OpenHands.html |
+| sitepoint-20260415 | 2026-04-15 | SitePoint | Article | Agent Sandboxing: Comparing OpenSandbox vs Docker - Features OpenHands as example of code-executing AI agents | Technical Guide | https://www.sitepoint.com/ai-agent-sandboxing-guide/ |
+| twitter-20260414-ossinsight | 2026-04-14 | Twitter/X | Post | OSS Insight ranks OpenHands #4 by GitHub stars in "community organisms" tier for coding agent landscape | @OpenHandsDev | https://x.com/OpenHandsDev/status/2044068158567338229 |
