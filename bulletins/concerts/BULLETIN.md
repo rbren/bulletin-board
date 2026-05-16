@@ -1,26 +1,27 @@
 ---
-cost: 1.7075
+cost: 3.0716
 title: concerts
-updated_at: 2026-04-30T08:51:59.783405
+updated_at: 2026-05-16T08:39:10.013844
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
-|---|---|---|---|---|---|
-| 20260430-lilypad-sockfest | Apr 30, 2026 10:00 PM | Sockfest 2026 ⭐ | The Lilypad | Indie/Math Rock/Experimental | $10 cover / 10pm doors / 10:30 start / standing | [Details](https://www.lilypadinman.com/home/2026/4/30/sockfest-2026) |
-| 20260430-royale-oklou | Apr 30, 2026 8:00 PM | Oklou ⭐ | Royale | Indie/Electronic/Experimental | Doors 7pm, Show 8pm. 18 & Over | [Details](https://www.boweryboston.com/) |
-| 20260501-lilypad-irish-festival-late | May 1, 2026 11:00 PM | Tunes on the Charles - Irish Music Festival (Late) | The Lilypad | Irish Music | $20 cover / 11pm start / seated & standing | [Details](https://www.lilypadinman.com/home/2026/5/1/tunes-on-the-charles-irish-music-festival) |
-| 20260502-sinclair-hold-steady | May 2, 2026 7:00 PM | The Hold Steady ⭐ | The Sinclair | Indie Rock | Multi-night residency. Doors 7pm | [Details](https://www.sinclaircambridge.com/events/detail/1317624) |
-| 20260503-lilypad-good-flying-birds | May 3, 2026 7:00 PM | Good Flying Birds | The Lilypad | Indie/Post-Punk/Pop | $15-$20 admission / 7pm doors / seated & standing | [Details](https://www.lilypadinman.com/home/2026/5/good-flying-birds) |
-| 20260503-lilypad-kdf-candombe | May 3, 2026 10:00 PM | Candombe Night w/ KDF 10tet ⭐ | The Lilypad | Latin/Big Band/Experimental | $15 / International ensemble with Kira Daglio Fine. 10pm doors / 10:20 start | [Details](https://www.lilypadinman.com/home/2026/5/3/candombe-night-w-the-kdf-10tet) |
-| 20260503-roadrunner-lcd | May 3, 2026 8:00 PM | LCD Soundsystem ⭐ | Roadrunner | Indie Rock/Dance-Punk | With Exek. Doors 7pm, Show 8pm. All ages | [Details](https://www.boweryboston.com/boston/shows/detail/1332597-lcd-soundsystem) |
-| 20260504-sinclair-yumi-zouma | May 4, 2026 7:00 PM | Yumi Zouma | The Sinclair | Indie Pop | With Ducks Ltd. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1198661) |
-| 20260505-sinclair-katie-tupper | May 5, 2026 7:00 PM | Katie Tupper | The Sinclair | Indie | Greyhound Tour. With Ety. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1290749) |
-| 20260506-lilypad-variety | May 6, 2026 10:00 PM | The Lilypad Variety Show | The Lilypad | Open Mic | $5 / Every Wednesday night / 10pm - 1am | [Details](https://www.lilypadinman.com/) |
-| 20260508-lilypad-kind-king | May 8, 2026 10:00 PM | Kind King / Circuit Jumper ⭐ | The Lilypad | Post-Rock/Progressive/Experimental | $15 / Tommy Mulcahy farewell show. Cinematic psychedelic fusion | [Details](https://www.lilypadinman.com/home/2026/5/8/kind-king-circuit-jumper) |
-| 20260509-jordan-afarcry | May 9, 2026 7:30 PM | A Far Cry: The Strangers' Case ⭐ | Jordan Hall | Contemporary Classical/Folk | Karim Sulayman, featuring works by Kouyoumdjian, Handel, Dvořák, Al-Zand | [Details](https://www.afarcry.org/2526season) |
-| 20260509-sinclair-winyah | May 9, 2026 7:00 PM | Winyah | The Sinclair | Indie | No Place I'd Rather Be Tour. With Edgehill. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1198652) |
-| 20260510-sinclair-cribs | May 10, 2026 7:00 PM | The Cribs ⭐ | The Sinclair | Indie Rock | With Jeffrey Lewis. 18 & Over | [Details](https://www.sinclaircambridge.com/events/detail/1052851) |
-| 20260511-sinclair-flyte | May 11, 2026 7:00 PM | Flyte | The Sinclair | Indie/Alt | With Ken Pomeroy. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1225872) |
-| 20260512-sinclair-ray-bull | May 12, 2026 7:00 PM | Ray Bull | The Sinclair | Indie | Please Stop Laughing Tour. With Babehoven. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1326855) |
-| 20260513-sinclair-failure | May 13, 2026 7:30 PM | Failure ⭐ | The Sinclair | Alt Rock/Indie | Location Lost 2026 Tour. 30-year band with new album. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1332820) |
-| 20260515-sinclair-cut-worms | May 15, 2026 7:00 PM | Cut Worms | The Sinclair | Indie Rock | With Tchotchke. All ages | [Details](https://www.sinclaircambridge.com/events/detail/1286652) |
+|---|---|---|---|---|
+| 20260516-ashnikko | May 16, 2026 8:00 PM | Ashnikko ⭐ | Roadrunner | Indie/Electronic/Experimental | SMOOCHIES TOUR with Royal & the Serpent. All ages | [Details](https://roadrunnerboston.com/calendar/) |
+| 20260519-belle-sebastian | May 19, 2026 | Belle & Sebastian | Orpheum Theatre | Indie Rock | With The Pains of Being Pure at Heart | [Details](https://www.songkick.com/metro-areas/18842-us-boston-cambridge/2026/genre/indie-alternative) |
+| 20260520-mountain-goats | May 20, 2026 | The Mountain Goats | House of Blues | Indie Rock/Experimental | Solo performance | [Details](https://www.songkick.com/metro-areas/18842-us-boston-cambridge/2026/genre/indie-alternative) |
+| 20260520-jesse-gallagher | May 20, 2026 7:00 PM | Jesse Gallagher + Steve Fell ⭐ | The Lilypad | Pop/Singer-songwriter/Electronic | $10 admission / Seated | [Details](https://www.lilypadinman.com/) |
+| 20260520-gill-aharon | May 20, 2026 8:15 PM | Gill Aharon Trio | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/) |
+| 20260527-leven-kali | May 27, 2026 | Leven Kali | The Sinclair | Indie/R&B | LK99 Tour with Adanna Duru, Daiela. All ages | [Details](https://www.sinclaircambridge.com/) |
+| 20260530-acid-bath | May 30, 2026 | Acid Bath ⭐ | Roadrunner | Experimental/Metal | With Napalm Death, Pig Destroyer, Primitive Man | [Details](https://roadrunnerboston.com/calendar/) |
+| 20260602-fun-lovin-criminals | Jun 2, 2026 7:00 PM | Fun Lovin' Criminals | The Sinclair | Alt/Indie Rock | With Rob Eberle. All ages | [Details](https://www.sinclaircambridge.com/) |
+| 20260603-ryan-bingham | Jun 3, 2026 | Ryan Bingham | Roadrunner | Alt/Country | Trying Times tour | [Details](https://www.songkick.com/concerts/43051089-ryan-bingham-at-roadrunner) |
+| 20260606-audrey-hobert | Jun 6, 2026 8:00 PM | Audrey Hobert | Roadrunner | Indie/Pop | All ages | [Details](https://seatgeek.com/venues/roadrunner-boston/tickets) |
+| 20260607-tank-bangas | Jun 7, 2026 | Tank and the Bangas ⭐ | The Sinclair | Funk/Soul/Experimental | With Ariel J. All ages | [Details](https://www.jambase.com/venue/the-sinclair) |
+| 20260607-14-berklee-music | Jun 7-14, 2026 | Boston Early Music Festival | Various venues | Contemporary Classical | Women in early music, operas, performances, workshops | [Details](https://www.boston-discovery-guide.com/boston-event-calendar-june.html) |
+| 20260611-echo-bunnymen | Jun 11, 2026 7:00 PM | Echo & The Bunnymen ⭐ | Roadrunner | Alt/Indie Rock | All ages | [Details](https://seatgeek.com/venues/roadrunner-boston/tickets) |
+| 20260612-killswitch-engage | Jun 12, 2026 6:30 PM | Killswitch Engage | Roadrunner | Metal/Experimental | All ages | [Details](https://seatgeek.com/venues/roadrunner-boston/tickets) |
+| 20260617-rostam | Jun 17, 2026 8:00 PM | Rostam ⭐ | The Sinclair | Indie/Experimental | With Henry Solomon. All ages | [Details](https://www.sinclaircambridge.com/) |
+| 20260619-afarcry-mcgill | Jun 19, 2026 7:30 PM | A Far Cry with Anthony McGill ⭐ | Rockport Shalin Liu | Contemporary Classical | Mozart's Clarinet Concerto | [Details](https://www.afarcry.org/all-concerts) |
+| 20260619-i-am-avalanche | Jun 19, 2026 8:15 PM | I Am The Avalanche ⭐ | The Sinclair | Alt/Indie Rock | With Crime in Stereo, Make Do and Mend. All ages | [Details](https://www.songkick.com/metro-areas/18842-us-boston-cambridge/june-2026/genre/indie-alternative) |
+| 20260624-of-montreal | Jun 24, 2026 8:00 PM | of Montreal ⭐ | The Sinclair | Indie/Experimental | With Boyhood, Cormae. All ages | [Details](https://www.sinclaircambridge.com/) |
+| 20260626-trabants | Jun 26, 2026 7:00 PM | Trabants | The Lilypad | Rock/Experimental | All ages event | [Details](https://www.shazam.com/event/bd512c25-f8e0-4a84-88a3-88f9d1ee3f70) |
