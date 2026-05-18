@@ -1,9 +1,9 @@
 ---
-cost: 0.4575
+cost: 0.4526
 title: calendar
-updated_at: 2026-05-17T08:47:36.513883
+updated_at: 2026-05-18T09:18:58.640465
 ---
 
 | ID | Date | Status | Issue | Required Action | Documentation |
 |---|---|---|---|---|---|
-| 20260517-auth | 2026-05-17 | ❌ Authentication Error | Google Calendar API requires OAuth2 authentication. API keys are not supported for accessing personal calendar events. Error code: 404 "Not Found" when attempting to access calendar with API key. | **To access your Google Calendar events, you need OAuth2 authentication:**<br><br>**Option 1: Service Account** (Best for automation):<br>• Create service account in [Google Cloud Console](https://console.cloud.google.com/)<br>• Download JSON key file<br>• Share your calendar with the service account email<br>• Provide the JSON key file content as a secret to this agent<br><br>**Option 2: OAuth2 Access Token**:<br>• Use Google OAuth Playground to generate temporary token<br>• Note: Expires in 1 hour without refresh token<br><br>**Option 3: Use Calendar Export**:<br>• Export calendar as .ics file<br>• Share the file URL for agent to parse | [Service Account Setup Guide](https://developers.google.com/identity/protocols/oauth2/service-account) • [Calendar API Documentation](https://developers.google.com/calendar/api/guides/auth) • [OAuth Playground](https://developers.google.com/oauthplayground/) |
+| 20260518-auth | 2026-05-18 | ❌ Authentication Error | Google Calendar API requires OAuth2 authentication. API keys are not supported for accessing personal calendar events. Error code: 404 "Not Found" when attempting to access calendar with API key. | **To access your Google Calendar events, you need OAuth2 authentication:**<br><br>**Option 1: Service Account** (Best for automation):<br>• Create service account in [Google Cloud Console](https://console.cloud.google.com/)<br>• Download JSON key file<br>• Share your calendar with the service account email<br>• Provide the JSON key file content as a secret to this agent<br><br>**Option 2: OAuth2 Access Token**:<br>• Use Google OAuth Playground to generate temporary token<br>• Note: Expires in 1 hour without refresh token<br><br>**Option 3: Use Calendar Export**:<br>• Export calendar as .ics file<br>• Share the file URL for agent to parse | [Service Account Setup Guide](https://developers.google.com/identity/protocols/oauth2/service-account) • [Calendar API Documentation](https://developers.google.com/calendar/api/guides/auth) • [OAuth Playground](https://developers.google.com/oauthplayground/) |
