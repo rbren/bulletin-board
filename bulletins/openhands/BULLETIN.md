@@ -1,17 +1,19 @@
 ---
-cost: 2.7281
+cost: 2.9274
 title: openhands
-updated_at: 2026-05-18T09:18:58.749398
+updated_at: 2026-05-19T09:16:25.060171
 ---
 
 | ID | Date | Platform | Type | Title/Description | Metrics | Link |
 |---|---|---|---|---|---|
+| instagram-ai-tools-20260518 | 2026-05-18 | Instagram | Reel | AI tools to become a PRO in 2026 - OpenHands featured as TOP 3 FREE AI TOOL alongside Flowwise AI | 1685 likes | https://www.instagram.com/reel/DWuV2b5DqCC/ |
 | modal-sandbox-20260518 | 2026-05-18 | Modal | Blog | Best Code Execution Sandbox for OpenHands in 2026 - Comparing Modal, E2B, Northflank for secure AI agent execution | GPU-enabled | https://modal.com/resources/best-sandbox-openhands |
 | github-stars-20260517 | 2026-05-17 | GitHub | Milestone | OpenHands repository reaches over 72,000 GitHub stars - Leading open source AI coding agent framework | 72,000+ stars | https://github.com/OpenHands/OpenHands |
 | linkedin-walter-20260516 | 2026-05-16 | LinkedIn | Interview | Robert Brennan CEO on AI Agents for Developers - "Coding is going away. Software Engineering is Not" | Walter Bacon post | https://www.linkedin.com/posts/walterbacon_allhands-openhands-devtools-activity-7383710489513672704-lSWZ |
 | github-leaderboard-20260516-rank | 2026-05-16 | GitHub | Leaderboard | OpenHands ranks #204 globally by GitHub stars at 73,550 stars | 73,550 stars | https://githublb.vercel.app/ |
 | railway-deploy-20260516 | 2026-05-16 | Railway | Integration | Deploy OpenHands Coding Agent on Railway - Self-hosted AI engineer with sandboxed Docker runtime | Deploy guide | https://railway.com/deploy/openhands-coding-agent |
 | zenn-20260516-c3 | 2026-05-16 | Zenn | Article | Japanese dev article mentioning OpenHands as example compared to AutoCodeRover for CI/CD automation | C3 v2.7.0 | https://zenn.dev/satoh_y_0323/articles/b22b7893e6feed |
+| marktechpost-ranking-20260515 | 2026-05-15 | MarkTechPost | Analysis | Best AI Agents for Software Development Ranked - OpenHands scores 72% SWE-bench Verified, 67.9% GAIA Benchmark | #7 ranked | https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/ |
 | reddit-discussion-20260515-llama | 2026-05-15 | Reddit | Discussion | Why has no one been talking about OpenHands so far? Discussion about 54k+ GitHub stars vs lack of YouTube/Reddit content | r/LocalLLaMA | https://www.reddit.com/r/LocalLLaMA/comments/1ksfos8/why_has_no_one_been_talking_about_open_hands_so/ |
 | iclr-20260515-michigan | 2026-05-15 | Academic | Research | CSE researchers present 11 papers at ICLR 2026 - OpenHands mentioned in EXP-Bench evaluation | University of Michigan | https://cse.engin.umich.edu/stories/cse-researchers-present-11-papers-at-iclr-2026 |
 | vellum-comparison-20260515 | 2026-05-15 | Vellum | Comparison | 10 Best AI Coding Agents in 2026 - OpenHands scored 78/100 as enterprise open-source platform | 72% SWE-bench | https://www.vellum.ai/blog/best-ai-coding-agents |
@@ -20,10 +22,10 @@ updated_at: 2026-05-18T09:18:58.749398
 | youtube-20260514-ceo | 2026-05-14 | YouTube | Video | OpenHands CEO on AI Agents, the New Agentic Control Plane, and the Future of Software Development | OpenHands | https://www.youtube.com/watch?v=NA-usu666-0 |
 | john-rush-linkedin-20260513 | 2026-05-13 | LinkedIn | Post | John Rush: "I tested all 82 Vibe Coding Agents & AI IDEs" - OpenHands listed as open source gem | 55 comments | https://www.linkedin.com/posts/johnrushx_i-tested-all-82-vibe-coding-agents-ai-activity-7413972483403554816-10cL |
 | addyo-substack-20260513 | 2026-05-13 | Substack | Article | Coding for the Future Agentic World - Jules AI mentioned alongside OpenHands as open-source alternative | Addy Osmani | https://addyo.substack.com/p/coding-for-the-future-agentic-world |
+| daytona-video-20260512 | 2026-05-12 | YouTube | Video | I Built an App with AI in Minutes! OpenHands + Daytona = Zero to Hero | Daytona collab | https://www.youtube.com/watch?v=4D3ctTcB2hY |
 | clarifai-gptoss-20260512 | 2026-05-12 | Clarifai | Tutorial | Run Your Own AI Coding Agent Locally with GPT-OSS-120B and OpenHands | GPT-OSS integration | https://www.clarifai.com/blog/run-your-own-ai-coding-agent-locally-with-gpt-oss-openhands |
 | youtube-20260512-canvas | 2026-05-12 | YouTube | Video | OpenHands' Agent Canvas: Exclusive Preview for the Community to Test! | 83 views | https://www.youtube.com/watch?v=hgY_-3Pbmqw |
 | hn-20260512-cursor | 2026-05-12 | Hacker News | Discussion | "Ask HN: Cursor or Windsurf?" - OpenHands mentioned as promising though complex coding agent alternative | HN Discussion | https://news.ycombinator.com/item?id=43959710 |
-| youtube-20260512-daytona | 2026-05-12 | YouTube | Video | I Built an App with AI in Minutes! OpenHands + Daytona = Zero to Hero | Daytona demo | https://www.youtube.com/watch?v=4D3ctTcB2hY |
 | openhands-index-3months-20260511 | 2026-05-11 | OpenHands Blog | Update | The OpenHands Index: 3 Months Out - Comprehensive benchmark of software engineering agents | Index update | https://www.openhands.dev/blog |
 | turion-20260510-deepdive | 2026-05-10 | TURION.AI | Deep Dive | OpenHands: The Leading Open Source AI Coding Agent - Architecture and getting started guide | Technical | https://turion.ai/blog/coding-agent-deep-dive-openhands |
 | twitter-20260509-mlflow | 2026-05-09 | Twitter/X | Post | OpenHands + MLFlow integration for improved observability and governance of coding agents | @OpenHandsDev | https://x.com/OpenHandsDev/status/2042273606026096894 |
@@ -38,6 +40,7 @@ updated_at: 2026-05-18T09:18:58.749398
 | contrary-devin-20260505 | 2026-05-05 | Contrary Research | Report | Cognition Business Breakdown mentions OpenHands as open-source project replicating Devin's architecture | Business analysis | https://research.contrary.com/company/cognition |
 | facebook-ahmad-20260503 | 2026-05-03 | Facebook | Post | Ahmad Awais: Command Code now 3rd most used coding agent, beating OpenCode and others on Vercel AI Gateway | Mountain View post | https://www.facebook.com/ahmadawais/posts/10235913434711092/ |
 | github-issue-hermes-20260502 | 2026-05-02 | GitHub | Feature Request | Feature: OpenHands Coding Agent Skill — Model-Agnostic integration for Hermes Agent | 68.6k+ stars | https://github.com/NousResearch/hermes-agent/issues/477 |
+| dev-ai-agents-20260502 | 2026-05-02 | DEV Community | Blog | 8 AI Coding Agents That Actually Ship Production Code in 2026 - OpenHands listed as self-hostable autonomous engineer | #4 ranking | https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch |
 | hn-agencies-20260502 | 2026-05-02 | Hacker News | Discussion | From AI to Agents to Agencies - Discussion about OpenHands multi-agent systems and benchmark scores | 10 comments | https://news.ycombinator.com/item?id=44507919 |
 | medium-20260501-chechulin | 2026-05-01 | Medium | Article | Real-world experience with development using AI and OpenHands - Deep dive into practical usage | M. Chechulin | https://medium.com/@mchechulin/real-world-experience-with-development-using-ai-and-openhands-61d267bc6cd2 |
 | medium-20260430-bagheri | 2026-04-30 | HuggingFace | Blog Post | I Accidentally Rebuilt OpenHands From Scratch — Here's What I Learned | Charles Azam | https://huggingface.co/blog/charles-azam/rebuilt-openhands |
@@ -48,10 +51,11 @@ updated_at: 2026-05-18T09:18:58.749398
 | dev-20260426-wonderlab | 2026-04-26 | DEV Community | Article | One Open Source Project a Day (No. 56): OpenHands - The All-Powerful Open Source AI Software Engineer | Wonderlab | https://dev.to/wonderlab/one-open-source-project-a-day-no-56-openhands-the-all-powerful-open-source-ai-software-3fb5 |
 | github-amux-20260425 | 2026-04-25 | GitHub | Tool Release | mixpeek/amux: Open-source Claude Code agent multiplexer supporting OpenHands and other agents | GitHub repo | https://github.com/mixpeek/amux |
 | blog-20260425-rheinwerk | 2026-04-25 | Blog | Article | What Is OpenHands? - Overview of the open-source MIT-licensed project with 38,800 GitHub stars | Rheinwerk Computing | https://blog.rheinwerk-computing.com/what-is-openhands |
+| youtube-20260424-ted | 2026-04-24 | YouTube | TED Talk | Peter Steinberger: How I created OpenClaw, mentions OpenHands in agent comparison context | TED Talk | https://www.ted.com/talks/peter-steinberger-how-i-created-openclaw |
 | airesponsibly-survey-20260424 | 2026-04-24 | Substack | Survey | Open-Source Coding Agents: A Survey - Review OpenHands, Aider, Continue, OpenDevin, SWE‑agent, and Cody | Applied Responsible AI | https://airesponsibly.substack.com/p/open-source-ai-coding-agents-a-survey |
 | toronto-aitinkerers-20260424 | 2026-04-24 | Toronto AI Tinkerers | Projects Page | OpenHands featured with 2 projects showcasing the platform (38,800+ GitHub stars) | 2 projects, 1 city | https://toronto.aitinkerers.org/technologies/openhands |
-| medium-20260423-mchechulin-2 | 2026-04-23 | Medium | Article | Open-source coding agents and what they can deliver for $10 - OpenHands comparison with Goose and Cline | M. Chechulin | https://medium.com/@mchechulin/opensource-agentic-coding-systems-what-can-they-deliver-for-10-41156244fc1b |
 | youtube-20260423-critic | 2026-04-23 | YouTube | Video | OpenHands Critic is Here to Roast Your Code (CLI Demo + Ralph Wiggum + Community Updates) | 385 views | https://www.youtube.com/watch?v=JgzwwLP8jL8 |
+| medium-20260423-mchechulin-2 | 2026-04-23 | Medium | Article | Open-source coding agents and what they can deliver for $10 - OpenHands comparison with Goose and Cline | M. Chechulin | https://medium.com/@mchechulin/opensource-agentic-coding-systems-what-can-they-deliver-for-10-41156244fc1b |
 | github-pr-20260423-openswarm | 2026-04-23 | Facebook | Post | Locally orchestrates parallel AI coding agents including OpenHands | 457 stars | https://www.facebook.com/0xSojalSec/posts/locally-orchestrates-parallel-ai-coding-agents-from-one-dashboard-githubcomopens/1513053330349065/ |
 | openalternative-20260423-compare | 2026-04-23 | OpenAlternative | Comparison | OpenHands vs SWE-agent comparison - OpenHands has 73,581 stars vs 19,222 for SWE-agent | 3.8x more stars | https://openalternative.co/compare/openhands/vs/swe-agent |
 | automationswitch-20260422-review | 2026-04-22 | AutomationSwitch | Review | OpenHands Review: Open-Source AI Agent with 70K+ GitHub stars, $18.8M Series A funding | 53-77% SWE-bench | https://automationswitch.com/ai-coding-assistants/openhands |
@@ -63,4 +67,3 @@ updated_at: 2026-05-18T09:18:58.749398
 | twitter-20260420-index-update | 2026-04-20 | Twitter/X | Post | OpenHands Index updates: Result visualization with Laminar, reward hacking patch, new language models | @OpenHandsDev | https://x.com/OpenHandsDev/status/2024944974010204275 |
 | remoterocketship-20260419-job | 2026-04-19 | RemoteRocketship | Job Listing | OpenHands hiring Senior Platform Engineer - Remote position | Job board | https://www.remoterocketship.com/jobs/platform-engineer/ |
 | github-awesome-agents-20260419 | 2026-04-19 | GitHub | Resource List | OpenHands featured in jim-schwoebel/awesome_ai_agents - 73,581 stars noted | Awesome list | https://github.com/jim-schwoebel/awesome_ai_agents |
-| mstarzec-20260418 | 2026-04-18 | Blog | Article | OpenHands: Code Less, Make More mentioned in All Open Source Projects list | mstarzecnews.prose.sh | https://mstarzecnews.prose.sh/all |
