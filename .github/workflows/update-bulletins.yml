@@ -2,8 +2,8 @@ name: Update Bulletins
 
 on:
   # Run daily at 8 AM UTC
-  schedule:
-    - cron: '0 8 * * *'
+  # schedule:
+  #   - cron: '0 8 * * *'
   # Allow manual trigger
   workflow_dispatch:
     inputs:
