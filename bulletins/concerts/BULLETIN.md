@@ -1,13 +1,11 @@
 ---
-cost: 1.8862
+cost: 2.2201
 title: concerts
-updated_at: 2026-05-20T09:14:22.109454
+updated_at: 2026-05-21T09:14:28.870969
 ---
 
 | ID | Date | Event | Venue | Genre | Description | Link |
 |---|---|---|---|---|---|
-| 20260520-gill-aharon | May 20, 2026 8:15 PM | Gill Aharon Trio | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/home/wfk2wgtrnm9ymkx-gb4z2-3w2pe-rr726-zgrt7-y628j-cdy33-et8kd-xbtce-xphdf-yblfh-bwha4-bmk92-btpjh-bw956-rg8fz-bzf9t-5bdwz-44t95-948rw-xekk2-b4bcr-xdpeh-cb2er) |
-| 20260520-grace-ives | May 20, 2026 8:00 PM | Grace Ives | The Sinclair | Indie | With Rockie Rode. All ages | [Details](https://www.sinclaircambridge.com/) |
 | 20260521-nondualism-trio | May 21, 2026 10:00 PM | Nondualism Trio ⭐ | The Lilypad | Progressive Jazz/Experimental | Boston-based trio: Mark Tipton (trumpet), James Heazlewood Dale (bass), Paul July Joseph (drums) | [Details](https://www.lilypadinman.com/home/2026/5/21/nondualism-trio) |
 | 20260523-generative-human | May 23, 2026 10:00 PM | Generative Human ⭐ | The Lilypad | Improvisation/Experimental | Interactive concert with Soulo collective turning stories into music in real time | [Details](https://www.lilypadinman.com/home/2026/5/23/generative-human) |
 | 20260524-out-to-lunch | May 24, 2026 3:00 PM | Out to Lunch: Experimental Music ⭐ | The Lilypad | Experimental | David Dogan, Elena Winell, and more. $15 admission | [Details](https://www.lilypadinman.com/home/2026/out-to-lunch-presents-an-afternoon-of-experimental-music) |
@@ -17,7 +15,7 @@ updated_at: 2026-05-20T09:14:22.109454
 | 20260531-james-blake | May 31, 2026 8:00 PM | James Blake ⭐ | Roadrunner | Indie/Electronic/Experimental | All ages | [Details](https://roadrunnerboston.com/calendar/) |
 | 20260602-fun-lovin-criminals | Jun 2, 2026 7:00 PM | Fun Lovin' Criminals | The Sinclair | Alt/Indie Rock | With Rob Eberle. All ages | [Details](https://www.sinclaircambridge.com/) |
 | 20260603-ryan-bingham | Jun 3, 2026 8:00 PM | Ryan Bingham | Roadrunner | Alt/Country | Still Gettin' Away With It Tour | [Details](https://roadrunnerboston.com/calendar/) |
-| 20260604-st-vincent | Jun 4, 2026 7:00 PM | St. Vincent ⭐ | Boston Symphony Hall | Indie/Experimental | With Boston Pops Orchestra and Ruby Plume | [Details](https://www.songkick.com/metro-areas/18842-us-boston-cambridge/june-2026/genre/classical) |
+| 20260604-st-vincent | Jun 4, 2026 7:30 PM | St. Vincent ⭐ | Boston Symphony Hall | Indie/Experimental | With Boston Pops Orchestra and Jules Buckley conducting | [Details](https://www.bso.org/events/st-vincent-june-2026) |
 | 20260605-5-seconds-summer | Jun 5, 2026 8:00 PM | 5 Seconds of Summer | TD Garden | Indie/Pop Rock | All ages | [Details](https://concerts.boston/) |
 | 20260606-audrey-hobert | Jun 6, 2026 8:00 PM | Audrey Hobert | Roadrunner | Indie/Pop | All ages | [Details](https://roadrunnerboston.com/calendar/) |
 | 20260607-tank-bangas | Jun 7, 2026 8:00 PM | Tank and the Bangas ⭐ | The Sinclair | Funk/Soul/Experimental | The Last Balloon Tour with Ariel J. All ages | [Details](https://www.bowerypresents.com/shows/detail/1377395-tank-and-the-bangas) |
@@ -26,3 +24,5 @@ updated_at: 2026-05-20T09:14:22.109454
 | 20260610-gill-aharon | Jun 10, 2026 8:15 PM | Gill Aharon Trio | The Lilypad | Jazz/Avant-garde | $10 / 8:15 start / 8pm doors / seated | [Details](https://www.lilypadinman.com/) |
 | 20260611-echo-bunnymen | Jun 11, 2026 8:00 PM | Echo & The Bunnymen ⭐ | Roadrunner | Alt/Indie Rock | All ages | [Details](https://roadrunnerboston.com/calendar/) |
 | 20260612-killswitch-engage | Jun 12, 2026 6:30 PM | Killswitch Engage | Roadrunner | Metal/Experimental | With Machine Head, Iron Reagan, Havok. All ages | [Details](https://roadrunnerboston.com/calendar/) |
+| 20260618-so-percussion | Jun 18, 2026 7:30 PM | Sō Percussion with Becca Stevens ⭐ | PS21 Chatham, NY | Contemporary Classical/Experimental | Part of PS21 Groundtone Festival (90 min from Boston) | [Details](https://sopercussion.com/events) |
+| LCD-soundsystem-residency | Apr 30 - May 3, 2026 8:00 PM | LCD Soundsystem Residency ⭐ | Roadrunner | Indie/Electronic | 4-night residency at Roadrunner | [Details](https://music.mxdwn.com/2026/02/18/news/lcd-soundsystem-announces-spring-2026-u-s-tour-dates/) |
